@@ -181,12 +181,12 @@
   @keyframes spin { to { transform: rotate(360deg); } }
 
   /* ページネーション */
-  .pagination { display: flex; justify-content: center; gap: 8px; margin-top: 32px; padding-bottom: 48px; }
+  .pagination { display: flex; justify-content: center; gap: 4px; margin-top: 32px; padding-bottom: 48px; flex-wrap: wrap; }
   .page-btn {
-    min-width: 36px; height: 36px; display: flex; align-items: center; justify-content: center;
+    min-width: 34px; height: 34px; display: flex; align-items: center; justify-content: center;
     border: 1px solid var(--border); border-radius: 4px; background: white;
-    font-size: 13px; color: var(--ink); cursor: pointer;
-    font-family: 'Noto Sans JP', sans-serif; transition: all 0.12s; padding: 0 10px;
+    font-size: 12px; color: var(--ink); cursor: pointer;
+    font-family: 'Noto Sans JP', sans-serif; transition: all 0.12s; padding: 0 6px; flex-shrink: 0;
   }
   .page-btn:hover { border-color: var(--accent); color: var(--accent); }
   .page-btn.active { background: var(--accent); color: white; border-color: var(--accent); font-weight: 700; }
@@ -272,12 +272,12 @@ const KW_CONFIG = [
   { kw: "施設",         bg: "#E0F2FE", color: "#0369A1" },
   { kw: "再編",         bg: "#FCE7F3", color: "#9D174D" },
   { kw: "複合",         bg: "#D1FAE5", color: "#065F46" },
-  { kw: "建築プロジェクト", bg: "#EDE9FE", color: "#5B21B6" },
+  { kw: "建築プロジェクト", bg: "#EDE9FE", color: "#5B21B6", sidebarHidden: true },
   { kw: "集約",         bg: "#FEF9C3", color: "#854D0E" },
   { kw: "多機能",       bg: "#FFEDD5", color: "#9A3412" },
-  { kw: "整備",         bg: "#F0FDF4", color: "#166534" },
+  { kw: "整備",         bg: "#F0FDF4", color: "#166534", sidebarHidden: true },
   { kw: "コスト",       bg: "#FEE2E2", color: "#991B1B" },
-  { kw: "建設",         bg: "#E0E7FF", color: "#3730A3" },
+  { kw: "建設",         bg: "#E0E7FF", color: "#3730A3", sidebarHidden: true },
   { kw: "PFI",          bg: "#F5F3FF", color: "#6D28D9" },
 ];
 
@@ -397,6 +397,7 @@ function renderKeywords() {
   </button>`;
   KEYWORDS.forEach(kw => {
     const c = KW_MAP[kw];
+    if (c.sidebarHidden) return;
     const cnt = SAMPLE_DATA.filter(a => a.keywords.includes(kw)).length;
     const active = state.activeKeywords.includes(kw);
     const dotColor = active ? 'white' : c.color;
@@ -515,10 +516,17 @@ function renderArticles() {
 function renderPagination(totalPages) {
   const el = document.getElementById('pagination');
   if (totalPages <= 1) { el.innerHTML = ''; return; }
-  let html = `<button class="page-btn" id="prev-btn" ${state.page===1?'disabled':''}>← 前へ</button>`;
-  for (let i=1; i<=totalPages; i++)
-    html += `<button class="page-btn ${i===state.page?'active':''}" data-page="${i}">${i}</button>`;
-  html += `<button class="page-btn" id="next-btn" ${state.page===totalPages?'disabled':''}>次へ →</button>`;
+  const p = state.page;
+  const pages = new Set([1, p-2, p-1, p, p+1, p+2, totalPages].filter(n => n >= 1 && n <= totalPages));
+  const sorted = [...pages].sort((a,b) => a-b);
+  let html = `<button class="page-btn" id="prev-btn" ${p===1?'disabled':''}>← 前へ</button>`;
+  let prev = null;
+  for (const n of sorted) {
+    if (prev !== null && n - prev > 1) html += `<span style="padding:0 4px;color:var(--muted);line-height:34px">…</span>`;
+    html += `<button class="page-btn ${n===p?'active':''}" data-page="${n}">${n}</button>`;
+    prev = n;
+  }
+  html += `<button class="page-btn" id="next-btn" ${p===totalPages?'disabled':''}>次へ →</button>`;
   el.innerHTML = html;
   el.querySelectorAll('[data-page]').forEach(btn => {
     btn.addEventListener('click', () => { state.page=+btn.dataset.page; render(); window.scrollTo(0,0); });
