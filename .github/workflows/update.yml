@@ -1,0 +1,36 @@
+name: 毎日情報収集
+
+on:
+  schedule:
+    # 毎日 JST 07:00 に実行（UTC 22:00 = 前日）
+    - cron: '0 22 * * *'
+  workflow_dispatch:  # 手動実行ボタンも有効化
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: リポジトリをチェックアウト
+        uses: actions/checkout@v4
+
+      - name: Python セットアップ
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: 依存ライブラリをインストール
+        run: |
+          pip install feedparser requests
+
+      - name: スクレイパーを実行
+        run: python scraper/scrape.py
+
+      - name: data.json をコミット＆プッシュ
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data.json
+          # 変更がある場合のみコミット
+          git diff --cached --quiet || git commit -m "🔄 data.json 自動更新 $(date +'%Y-%m-%d %H:%M JST' -d '+9 hours')"
+          git push
