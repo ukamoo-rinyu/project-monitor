@@ -1,7 +1,46 @@
 {
-  "updatedAt": "2026-06-23 01:14",
+  "updatedAt": "2026-06-23 19:46",
   "count": 300,
   "articles": [
+    {
+      "id": "59c653a7c0da",
+      "title": "清水建設、耐火被覆吹付ロボットを現場適用 約900m2施工、生産性1.5倍に",
+      "summary": "清水建設、耐火被覆吹付ロボットを現場適用 約900m2施工、生産性1.5倍に&nbsp;&nbsp;ITmedia",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5xV2FTTkpZeDVjdnB6Ukd2TWVJemtNQVoyR2o5bGJVekxMWERrV1dvSmUtZ002QVBwNExWbE9nTmY4UTFRS0hwV2FPWWp1NTZhQlNYSnRNbWl5QjlZb19zWGRCX0FpNFBvY1dBRQ?oc=5",
+      "source": "news",
+      "sourceName": "ITmedia",
+      "date": "2026-06-23",
+      "keywords": [
+        "建設"
+      ]
+    },
+    {
+      "id": "6c0caf6fc927",
+      "title": "商業中心の新複合施設整備へ 吉備中央町、３０年開業目指す",
+      "summary": "商業中心の新複合施設整備へ 吉備中央町、３０年開業目指す&nbsp;&nbsp;山陽新聞",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFA4Q0t5NmRDeENMVjlWNXp5VWxwTnVJQzlVV2piWV9xa1BHdTlJaS1oQUdwUjBxcG5Ub1dkWkJpcWVpTjlvWW9abWZSNk8xYVRIZ3diVEVuQ2E2N0VC?oc=5",
+      "source": "news",
+      "sourceName": "山陽新聞",
+      "date": "2026-06-23",
+      "keywords": [
+        "施設",
+        "複合",
+        "整備"
+      ]
+    },
+    {
+      "id": "2865fcb01bbf",
+      "title": "竹ノ塚駅東口再開発 複合施設と駅広、26年度末都決",
+      "summary": "竹ノ塚駅東口再開発 複合施設と駅広、26年度末都決&nbsp;&nbsp;建通新聞",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNemdRaWlqSVJnMnJweTF3SlJMMWZfdDktQTItLS0zWUY0U0NydG1ZY1FibGh6b1l2eElBVThCNjNhRjc4Vk85WWExZE1HbmFrRzkxX1lmblZQcnowbDVTOGNRSTV3YkwwVWhuUnNCaU5HY2RZVDRVSFN6Y3BMLVpMcQ?oc=5",
+      "source": "news",
+      "sourceName": "建通新聞",
+      "date": "2026-06-23",
+      "keywords": [
+        "施設",
+        "複合"
+      ]
+    },
     {
       "id": "8113c93c3b71",
       "title": "相模原市 公共施設等総合管理計画分析改定支援をＰＭＣに",
@@ -35,6 +74,19 @@
       "source": "news",
       "sourceName": "ふーぽ",
       "date": "2026-06-22",
+      "keywords": [
+        "施設",
+        "複合"
+      ]
+    },
+    {
+      "id": "2e3b04248459",
+      "title": "仙台市が計画する青葉山複合施設の「不協和音」音楽、建築、演出の専門家が指摘する打開のポイントは？",
+      "summary": "仙台市が計画する青葉山複合施設の「不協和音」音楽、建築、演出の専門家が指摘する打開のポイントは？&nbsp;&nbsp;河北新報オンライン",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBaOWtlR1VXYUZEdjJncFAzbTJid05wT1B5UUZldzRGYXJvb2ZtRTk5X1AyUGg5SVUzYkFhS25fdDdXWlVhbVFRMVItRnV6VzhVUzllVFpSTFBfMGhUaHZQNA?oc=5",
+      "source": "news",
+      "sourceName": "河北新報オンライン",
+      "date": "2026-06-21",
       "keywords": [
         "施設",
         "複合"
@@ -376,34 +428,6 @@
       ]
     },
     {
-      "id": "4a0ce56b5ae2",
-      "title": "倉敷・児島 短大など点在６施設を駅前に集約 市が複合施設整備に着手",
-      "summary": "倉敷・児島 短大など点在６施設を駅前に集約 市が複合施設整備に着手&nbsp;&nbsp;山陽新聞",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE55cDg1enRia0M2SWl5SVR3bGNrRkNmWFhzcVhqT0N4aW1wOFVCN2hGUWxrenpiZVhQZjJFbEhZMk9yZEJOd2RVa29FMjl5MklBbkE?oc=5",
-      "source": "news",
-      "sourceName": "山陽新聞",
-      "date": "2026-06-19",
-      "keywords": [
-        "施設",
-        "複合",
-        "集約",
-        "整備"
-      ]
-    },
-    {
-      "id": "77cc853612f5",
-      "title": "福田歴史民俗資料館 ４月から休館 倉敷市教委 施設複合化で展示品整理",
-      "summary": "福田歴史民俗資料館 ４月から休館 倉敷市教委 施設複合化で展示品整理&nbsp;&nbsp;山陽新聞",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9sX3pfd1lpbFVrR1QxYm92eVZuWWpjQnFlTVBnMWJMUkd4ajRuekNCVVFpdGhhNTBYRjB1SnpFcExsdFNTTW9KdVhTcWNzbkl0WHc?oc=5",
-      "source": "news",
-      "sourceName": "山陽新聞",
-      "date": "2026-06-19",
-      "keywords": [
-        "施設",
-        "複合"
-      ]
-    },
-    {
       "id": "994ac81f1788",
       "title": "倉敷 公共施設再編で安全祈願祭 児島地区活性化の拠点に",
       "summary": "倉敷 公共施設再編で安全祈願祭 児島地区活性化の拠点に&nbsp;&nbsp;山陽新聞",
@@ -687,6 +711,20 @@
       ]
     },
     {
+      "id": "c8e3817472cc",
+      "title": "大宮駅西口で建設中の「大型複合施設」への“新道路”が認可！ 駅方面の新たなルートに 巨大な駐車場跡地が大変貌",
+      "summary": "大宮駅西口で建設中の「大型複合施設」への“新道路”が認可！ 駅方面の新たなルートに 巨大な駐車場跡地が大変貌&nbsp;&nbsp;newspicks.com",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1zei1lUGNsaGt1aDI5c05RczdtY281YVExcC1mWDE3Z0R1YjY0N1RzeElsYmFuSkJTRWZZVmtDVXI2UDYyRnh6VHJoRlZCdTEyXy1LampaYmY?oc=5",
+      "source": "news",
+      "sourceName": "newspicks.com",
+      "date": "2026-06-18",
+      "keywords": [
+        "施設",
+        "複合",
+        "建設"
+      ]
+    },
+    {
       "id": "6ef843ddaa1b",
       "title": "(官民連携 地域経営の最前線=2)PFIとは何か? 民間資金など活用し公共施設整備 一般財団法人地方自治体公民連携研究財団代表理事 藏田幸三 2026.6.2付",
       "summary": "(官民連携 地域経営の最前線=2)PFIとは何か? 民間資金など活用し公共施設整備 一般財団法人地方自治体公民連携研究財団代表理事 藏田幸三 2026.6.2付&nbsp;&nbsp;公明新聞電子版プラス",
@@ -807,6 +845,20 @@
         "施設",
         "複合",
         "建設"
+      ]
+    },
+    {
+      "id": "c8ed647c2b64",
+      "title": "商業中心の新複合施設整備へ 吉備中央町、３０年開業目指す",
+      "summary": "商業中心の新複合施設整備へ 吉備中央町、３０年開業目指す&nbsp;&nbsp;山陽新聞",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE50M1R5bHh4NlNDLXlOeTEwUEhZdGNsMkZ0QjBNRk9ELUJJRmVwekRvLVlhbUFzMVZRQ19mTjVLejlBb3RZbjJkQzFoMDBJRHJMb3ltQU1ma2d2YmtSZGdVakNHQlU1a1k?oc=5",
+      "source": "news",
+      "sourceName": "山陽新聞",
+      "date": "2026-06-16",
+      "keywords": [
+        "施設",
+        "複合",
+        "整備"
       ]
     },
     {
@@ -2936,6 +2988,19 @@
       ]
     },
     {
+      "id": "23cca7641a87",
+      "title": "「2027年問題」蛍光灯の製造終了迫る...照明器具のLED化が急務に 公共施設の取り換えを官民連携の新手法「ローカルPFI」で加速へ=静岡 | 静岡のニュース | SBSNEWS | 静岡放送 (3ページ)",
+      "summary": "「2027年問題」蛍光灯の製造終了迫る...照明器具のLED化が急務に 公共施設の取り換えを官民連携の新手法「ローカルPFI」で加速へ=静岡 | 静岡のニュース | SBSNEWS | 静岡放送 (3ページ)&nbsp;&nbsp;TBS NEWS DIG",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE55am94OWNXcnQtVktCODBrVXdMR0NaU0dQNGNzY3lBcktJenpPYTI3TXRaWk1fTGlzUjFhczd4WEdhY0UzZndIR1EyVnYxNG9qTWRxWW1CcGpYQ1dNMWJLS0lCYw?oc=5",
+      "source": "news",
+      "sourceName": "TBS NEWS DIG",
+      "date": "2026-04-08",
+      "keywords": [
+        "施設",
+        "PFI"
+      ]
+    },
+    {
       "id": "d58622e155cf",
       "title": "#小田原市 総額1820億円の公共施設再編について 2026年度予算総括質疑連載②",
       "summary": "#小田原市 総額1820億円の公共施設再編について 2026年度予算総括質疑連載②&nbsp;&nbsp;選挙ドットコム",
@@ -2958,6 +3023,21 @@
       "date": "2026-04-06",
       "keywords": [
         "施設"
+      ]
+    },
+    {
+      "id": "4a0ce56b5ae2",
+      "title": "倉敷・児島 短大など点在６施設を駅前に集約 市が複合施設整備に着手",
+      "summary": "倉敷・児島 短大など点在６施設を駅前に集約 市が複合施設整備に着手&nbsp;&nbsp;山陽新聞",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE55cDg1enRia0M2SWl5SVR3bGNrRkNmWFhzcVhqT0N4aW1wOFVCN2hGUWxrenpiZVhQZjJFbEhZMk9yZEJOd2RVa29FMjl5MklBbkE?oc=5",
+      "source": "news",
+      "sourceName": "山陽新聞",
+      "date": "2026-04-04",
+      "keywords": [
+        "施設",
+        "複合",
+        "集約",
+        "整備"
       ]
     },
     {
@@ -3874,81 +3954,6 @@
         "施設",
         "再編",
         "整備"
-      ]
-    },
-    {
-      "id": "34121ecf6c5b",
-      "title": "中野サンプラザ再開発 複合施設建設へ ２０３４年度完成目標",
-      "summary": "中野サンプラザ再開発 複合施設建設へ ２０３４年度完成目標&nbsp;&nbsp;NHKニュース",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAzU3ZMQnlOeHhPUHVNNnNhZ0xBV2dWOGVlbUt2WGlsWXN1cHR1WmRqS0ZhQ0tCdDdYeUFKLW0wbTZwYUxnUEwxV2pqcklhZEl3eVNLNldoZW8?oc=5",
-      "source": "news",
-      "sourceName": "NHKニュース",
-      "date": "2026-03-09",
-      "keywords": [
-        "施設",
-        "複合",
-        "建設"
-      ]
-    },
-    {
-      "id": "06e8e6184431",
-      "title": "天売島の複合施設、28年春供用へ 羽幌町計画 26年度に建物着工 「島民の安心感に」",
-      "summary": "天売島の複合施設、28年春供用へ 羽幌町計画 26年度に建物着工 「島民の安心感に」&nbsp;&nbsp;北海道新聞デジタル",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1DZ3gweDc2bmJPVDZHNUVlV3pjS2lJQko2ZWhZRUZ2Y1JmS2hLQWtPZTJnUFl2ejVkWXZpd1JlU1lIRDd3TGpLaTV3U3FoaXpWdldzRmZNSTdsdw?oc=5",
-      "source": "news",
-      "sourceName": "北海道新聞デジタル",
-      "date": "2026-03-09",
-      "keywords": [
-        "施設",
-        "複合"
-      ]
-    },
-    {
-      "id": "28c3a5fda032",
-      "title": "インフロニア・ホールディングス 傘下の三井住友建設、子会社の三井住建道路 をTOBで完全子会社化",
-      "summary": "インフロニア・ホールディングス 傘下の三井住友建設、子会社の三井住建道路 をTOBで完全子会社化&nbsp;&nbsp;M＆A Online",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1OdEV0WTdvLXFnUEFsR0NjS0lmbDBhV29WNWFfWkZGRU9DNzdDOGFJMExHRk9jS2t4bUtHRWZ4T0txUURWTndDZ0tn?oc=5",
-      "source": "news",
-      "sourceName": "M＆A Online",
-      "date": "2026-03-09",
-      "keywords": [
-        "建設"
-      ]
-    },
-    {
-      "id": "0883b9665b34",
-      "title": "小中学校は半減、図書館と公民館は校舎に集約…近未来ニッポンのシミュレーションがリアルすぎて震える",
-      "summary": "小中学校は半減、図書館と公民館は校舎に集約…近未来ニッポンのシミュレーションがリアルすぎて震える&nbsp;&nbsp;ダイヤモンド・オンライン",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBXdG9TT2RKcncyZ1ZnN09BTDdLTjluZVl3VXkyZ25uWGdVRGFpdml5aE91cjVfc0JPWnhVN2ROUHFkRUNmUEl4dHdHUkctbjY1T3M0amJ30gFPQVVfeXFMTl9BamlsVjY5TlB3TXFJNUstQ3NjdnVqMDRNdnR5VWV4QlUzZ2Zwck93blFyOGpFbUZxajc3d1BsUUNnZ0xaZWpobGVXblAwUQ?oc=5",
-      "source": "news",
-      "sourceName": "ダイヤモンド・オンライン",
-      "date": "2026-03-08",
-      "keywords": [
-        "集約"
-      ]
-    },
-    {
-      "id": "7e51bc1c7705",
-      "title": "小中学校は半減、図書館と公民館は校舎に集約…近未来ニッポンのシミュレーションがリアルすぎて震える",
-      "summary": "小中学校は半減、図書館と公民館は校舎に集約…近未来ニッポンのシミュレーションがリアルすぎて震える&nbsp;&nbsp;ダイヤモンド・オンライン",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5TMEQ3ZEFzQVdDTTB6eFlBdU5JVnFsa0pBem10VnpzUDIwS2UzSnVjbHd1S1ZOUFEtWjZ3X2ZDeklOdUQtai1RYnF3RWdyWnN6THd4Ukp30gFPQVVfeXFMTl9BamlsVjY5TlB3TXFJNUstQ3NjdnVqMDRNdnR5VWV4QlUzZ2Zwck93blFyOGpFbUZxajc3d1BsUUNnZ0xaZWpobGVXblAwUQ?oc=5",
-      "source": "news",
-      "sourceName": "ダイヤモンド・オンライン",
-      "date": "2026-03-08",
-      "keywords": [
-        "集約"
-      ]
-    },
-    {
-      "id": "b47d524c1aaa",
-      "title": "【AD】SPM クラウド Lite 版開発事業（公共施設運営 DX パートナーズ）｜沖縄県「ICTビジネス高度化支援事業」特集 vol.14",
-      "summary": "【AD】SPM クラウド Lite 版開発事業（公共施設運営 DX パートナーズ）｜沖縄県「ICTビジネス高度化支援事業」特集 vol.14&nbsp;&nbsp;沖縄タイムス社",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB6MnMyZEZfcGhDVUpVOHp3bTNReTVVenRQZkFYTUR3RFZuR3hKanhnempYQkN1aFpaVk42QVRXT2hNNUpRaDVMTnh6Y3dueW9sXzZ4ZHN4OV9vdjJWMVE?oc=5",
-      "source": "news",
-      "sourceName": "沖縄タイムス社",
-      "date": "2026-03-06",
-      "keywords": [
-        "施設"
       ]
     }
   ]
