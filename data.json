@@ -1,7 +1,21 @@
 {
-  "updatedAt": "2026-07-10 19:30",
+  "updatedAt": "2026-07-11 15:26",
   "count": 300,
   "articles": [
+    {
+      "id": "e3644ec3e409",
+      "title": "Hanwha Qcells、米アリゾナ州に「汝矣島の22倍」規模の再エネ複合施設を建設へ",
+      "summary": "Hanwha Qcells、米アリゾナ州に「汝矣島の22倍」規模の再エネ複合施設を建設へ&nbsp;&nbsp;BigGo ファイナンス",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA0QnlCblg0dWRkVEozQ2gzcm8xZktrTF93cFFZNjdXcHo0cWdzYjdBbkRRbFp6SDhOeU05OWpMMHNYbUJqNmhIWUNBNm9BWE5UV2Q4aE5pcFdOamRLUG9mSTBvVDZ0TkdUQXZqYnIwR1pjNzRV?oc=5",
+      "source": "news",
+      "sourceName": "BigGo ファイナンス",
+      "date": "2026-07-10",
+      "keywords": [
+        "施設",
+        "複合",
+        "建設"
+      ]
+    },
     {
       "id": "d2e3aa4252a7",
       "title": "ソックソン市は、多機能エンターテイメント複合施設および競馬場建設計画の詳細設計を承認した。",
@@ -29,6 +43,20 @@
         "施設",
         "複合",
         "建設"
+      ]
+    },
+    {
+      "id": "c75f081ae2a5",
+      "title": "商業中心の新複合施設整備へ 吉備中央町、３０年開業目指す",
+      "summary": "商業中心の新複合施設整備へ 吉備中央町、３０年開業目指す&nbsp;&nbsp;山陽新聞",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9jc013NXJURmlqZ1ZhZ1o3NEJwVWlvNjFLMUUxTXhISHh1M1l4LUpOZVJsX2VKZ3htaHdmNjBlWEFncll1dTl2ZHRNWEpfT3FRSHc?oc=5",
+      "source": "news",
+      "sourceName": "山陽新聞",
+      "date": "2026-07-09",
+      "keywords": [
+        "施設",
+        "複合",
+        "整備"
       ]
     },
     {
@@ -94,6 +122,19 @@
       "date": "2026-07-08",
       "keywords": [
         "施設"
+      ]
+    },
+    {
+      "id": "994ac81f1788",
+      "title": "倉敷 公共施設再編で安全祈願祭 児島地区活性化の拠点に",
+      "summary": "倉敷 公共施設再編で安全祈願祭 児島地区活性化の拠点に&nbsp;&nbsp;山陽新聞",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5xN19lMVpISDRqWFB5TTNqdUQxa1J6MDdNZkd2Y01DekM5bXYwQUR1cVZ6M3l3dnhKWUpRSXM4QWR5THJ3N1RDTHM0SVQzaDdvdXc?oc=5",
+      "source": "news",
+      "sourceName": "山陽新聞",
+      "date": "2026-07-08",
+      "keywords": [
+        "施設",
+        "再編"
       ]
     },
     {
@@ -575,6 +616,20 @@
       ]
     },
     {
+      "id": "ea0b735e2cc7",
+      "title": "選挙で掲げた公約から一転　市役所含む複合施設の建設推進へ　熊谷康信市長がインタビューに応じる〈宮城〉",
+      "summary": "選挙で掲げた公約から一転 市役所含む複合施設の建設推進へ 熊谷康信市長がインタビューに応じる〈宮城〉&nbsp;&nbsp;ｄメニューニュース",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9vS0xxbnpTaHVDUUFib2RSQXFsN25sR253aFRQYU5iLVE3OGpWZ0pjSlgxOWFRQXJ0eFpZQlRPZDBWRUxDREo1dTFPd29raXZ6NkdEX3R4Y19Hb1hzNEhFbkVBcVVHcW5aWDRpNzVkONIBdEFVX3lxTE52a2dqbHdFcUM2VUVxZHdrOGh0VHloVFY0Zjc1dU54Rlg3d3ZZMVBMcllxTjFpREppakNLNkNVM0h5TWJ4azExaUduQWl0dXdGXzFXZ3BELUJPRXRkVFVhN1BDMm5nTDZPTGN3ZzBfZ0RVcDVj?oc=5",
+      "source": "news",
+      "sourceName": "ｄメニューニュース",
+      "date": "2026-07-03",
+      "keywords": [
+        "施設",
+        "複合",
+        "建設"
+      ]
+    },
+    {
       "id": "7c5d4e839271",
       "title": "労災防止へ 空港複合施設の建設現場で安全点検 福岡労働局",
       "summary": "労災防止へ 空港複合施設の建設現場で安全点検 福岡労働局&nbsp;&nbsp;NHKニュース",
@@ -925,8 +980,8 @@
     },
     {
       "id": "36972d00815b",
-      "title": "“白紙撤回”一転“建設推進” 市長正式表明 市役所機能備えた複合施設 宮城・登米市",
-      "summary": "“白紙撤回”一転“建設推進” 市長正式表明 市役所機能備えた複合施設 宮城・登米市&nbsp;&nbsp;日テレNEWS NNN",
+      "title": "“白紙撤回”一転“建設推進” 市長正式表明 市役所機能備えた複合施設 宮城・登米市（2026年6月30日掲載）",
+      "summary": "“白紙撤回”一転“建設推進” 市長正式表明 市役所機能備えた複合施設 宮城・登米市（2026年6月30日掲載）&nbsp;&nbsp;日テレNEWS NNN",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOMUVNc0ljaWhTdzVxZTh0QlBoNDFjNm10bXFqbVFQd19CS281NDQ2QmZvcE9GSFFKUTlrcnVHb0Y5QWdSd2xtMFlGYm1GMUlMU2xZZUZZMVNqazN3dG1iUjVsYzJINUNNWGhpRVVyRUNiX1JLRExqQ3dYSk5wY1REWHVSeDZHMEFI?oc=5",
       "source": "news",
       "sourceName": "日テレNEWS NNN",
@@ -1220,20 +1275,6 @@
       ]
     },
     {
-      "id": "c75f081ae2a5",
-      "title": "商業中心の新複合施設整備へ 吉備中央町、３０年開業目指す",
-      "summary": "商業中心の新複合施設整備へ 吉備中央町、３０年開業目指す&nbsp;&nbsp;山陽新聞",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9jc013NXJURmlqZ1ZhZ1o3NEJwVWlvNjFLMUUxTXhISHh1M1l4LUpOZVJsX2VKZ3htaHdmNjBlWEFncll1dTl2ZHRNWEpfT3FRSHc?oc=5",
-      "source": "news",
-      "sourceName": "山陽新聞",
-      "date": "2026-06-26",
-      "keywords": [
-        "施設",
-        "複合",
-        "整備"
-      ]
-    },
-    {
       "id": "1e9403f94345",
       "title": "登米市の複合施設建設計画 市長が公約を一転…「建設推進」を表明 (ミヤギテレビ)",
       "summary": "登米市の複合施設建設計画 市長が公約を一転…「建設推進」を表明 (ミヤギテレビ)&nbsp;&nbsp;Yahoo!ニュース",
@@ -1299,8 +1340,8 @@
     },
     {
       "id": "2f54a5cc6471",
-      "title": "登米市の複合施設建設計画 市長が公約を一転…「建設推進」を表明（2026年6月26日掲載）｜ミヤテレNEWS NNN",
-      "summary": "登米市の複合施設建設計画 市長が公約を一転…「建設推進」を表明（2026年6月26日掲載）｜ミヤテレNEWS NNN&nbsp;&nbsp;日テレNEWS NNN",
+      "title": "登米市の複合施設建設計画 市長が公約を一転…「建設推進」を表明（2026年6月26日掲載）",
+      "summary": "登米市の複合施設建設計画 市長が公約を一転…「建設推進」を表明（2026年6月26日掲載）&nbsp;&nbsp;日テレNEWS NNN",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUnV6cElXR0Rsem90SThudmpnVVVBVXFDbWxyX2xHbGdUTXpmUW1CUTFmNzBISHVyLVNBZVhDTnJNa3hrQVpoMmpYY20ybXRwejlZWGhnZGN0T2VTeEdpdXQ4UWVKX1F6eFp2T3VxdGctbzVUeU1fNHBFNThxRnE5OFh0WGk3ekNU?oc=5",
       "source": "news",
       "sourceName": "日テレNEWS NNN",
@@ -2183,19 +2224,6 @@
       ]
     },
     {
-      "id": "994ac81f1788",
-      "title": "倉敷 公共施設再編で安全祈願祭 児島地区活性化の拠点に",
-      "summary": "倉敷 公共施設再編で安全祈願祭 児島地区活性化の拠点に&nbsp;&nbsp;山陽新聞",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5xN19lMVpISDRqWFB5TTNqdUQxa1J6MDdNZkd2Y01DekM5bXYwQUR1cVZ6M3l3dnhKWUpRSXM4QWR5THJ3N1RDTHM0SVQzaDdvdXc?oc=5",
-      "source": "news",
-      "sourceName": "山陽新聞",
-      "date": "2026-06-18",
-      "keywords": [
-        "施設",
-        "再編"
-      ]
-    },
-    {
       "id": "0bf886750edf",
       "title": "倉敷市 児島地区の公共施設再編整備 本格工事に向け安全祈願",
       "summary": "倉敷市 児島地区の公共施設再編整備 本格工事に向け安全祈願&nbsp;&nbsp;NHKニュース",
@@ -3067,6 +3095,18 @@
       "keywords": [
         "施設",
         "集約"
+      ]
+    },
+    {
+      "id": "3b510b70a407",
+      "title": "自治体の9割、入札不調経験 建設費高騰、人材不足で（共同通信）",
+      "summary": "自治体の9割、入札不調経験 建設費高騰、人材不足で（共同通信）&nbsp;&nbsp;Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBsUmxPNkMxanNJV0RfR0FLdXpoQUtwb21zbklrbG1haEpnb21DMWp3eDZnOXp3YnFoeUZiZjlxXzlyVzdDV0JJanNTNG5kcTNNajlYWVlHSEdYNVh5THlETllaWWJTS0dRa0k3X1BILWZJTVNUV3Z1aFNmdURtOHc?oc=5",
+      "source": "news",
+      "sourceName": "Yahoo!ニュース",
+      "date": "2026-06-07",
+      "keywords": [
+        "建設"
       ]
     },
     {
@@ -3980,46 +4020,6 @@
       "keywords": [
         "施設",
         "複合",
-        "建設"
-      ]
-    },
-    {
-      "id": "400aa3a69b3f",
-      "title": "公共施設が苦境に 建設工事の入札“不成立” 全国で相次ぐ",
-      "summary": "公共施設が苦境に 建設工事の入札“不成立” 全国で相次ぐ&nbsp;&nbsp;NHKニュース",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE93SFV0NnRTMi11MzR5VlpvX2hYeEtOMXQ4aTFjX2pEQmY2T0RVOXNQMXRkMVVnS2pySmZaSUEzN1RSenl0c2tPaVNDeGJlTXVXUEFsVGV1NWE?oc=5",
-      "source": "news",
-      "sourceName": "NHKニュース",
-      "date": "2026-05-19",
-      "keywords": [
-        "施設",
-        "建設"
-      ]
-    },
-    {
-      "id": "10a3ec1681f1",
-      "title": "名寄市の公共施設で電力調達支援サービス「エネオク」導入し電力コストの削減と業務DX化へ！",
-      "summary": "名寄市の公共施設で電力調達支援サービス「エネオク」導入し電力コストの削減と業務DX化へ！&nbsp;&nbsp;PR TIMES",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5mYk9OaHpMVTB1MGNUeEthbTRUSnpUeXpDa2xseXAwUG02eXRVNF94UHBMN0lScVgzd3JHM2Q1V0wyMXllNF9KLU9XYkg5Y0pGZHRxV0l0MkNLSFlSakNPaGJvUTBxM25RZUE?oc=5",
-      "source": "news",
-      "sourceName": "PR TIMES",
-      "date": "2026-05-18",
-      "keywords": [
-        "施設",
-        "コスト"
-      ]
-    },
-    {
-      "id": "5439a303c12d",
-      "title": "宇都宮の北西部地域体育施設、建設に着手 2027年度中に完成へ 市内初のBMXコースも整備",
-      "summary": "宇都宮の北西部地域体育施設、建設に着手 2027年度中に完成へ 市内初のBMXコースも整備&nbsp;&nbsp;au Webポータル",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBRZy11TVJUR1BFTDVKRWF3NE1SaklOQ3hiaURseTNJV2xPQnV4dmRGSGFmU2EzZUNrRHpRZ3d4Ym5rR1ZOLWg1S0lkMXkxeWZHYW92SExMamdxcVc4U0NiQVdKODNqVkpvc243c0lCVWlSRVh1dldnN3Z0dw?oc=5",
-      "source": "news",
-      "sourceName": "au Webポータル",
-      "date": "2026-05-18",
-      "keywords": [
-        "施設",
-        "整備",
         "建設"
       ]
     }
