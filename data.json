@@ -1,7 +1,46 @@
 {
-  "updatedAt": "2026-07-29 07:55",
+  "updatedAt": "2026-07-30 07:57",
   "count": 300,
   "articles": [
+    {
+      "id": "a774c9737f18",
+      "title": "公共施設に民間ノウハウ 県が「実践塾」 整備・運営案 模索",
+      "summary": "公共施設に民間ノウハウ 県が「実践塾」 整備・運営案 模索&nbsp;&nbsp;静岡新聞DIGITAL",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1zV1JsSkJ5aHcwTGZaZEtCajNHQW1yRmRWb1VNRm9LeXZocUUwMzkzVllSQjBlZXN1bi1IbkM4WkpMdmhEbk00ZHRXNE9lUQ?oc=5",
+      "source": "news",
+      "sourceName": "静岡新聞DIGITAL",
+      "date": "2026-07-30",
+      "keywords": [
+        "施設",
+        "整備"
+      ]
+    },
+    {
+      "id": "0dbfd54f6537",
+      "title": "武豊町 公共施設基本計画策定 山下設計に委託",
+      "summary": "武豊町 公共施設基本計画策定 山下設計に委託&nbsp;&nbsp;建通新聞",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPMWJ0ay1RQkFCZVVvVFhyVzlnSHVicGN5NFRaSTB1QWVJWUIwZDY0dWEwRVlEYjdYeGdZSC1GajdjTzF5U3hWNmpLYXBDdjNoM3VzcS1veGFLa2tDdjNpV1dyeHFoSVlGV3RVdHZPZHRVbVUzdHVfY0R6SVQ1TTNwQw?oc=5",
+      "source": "news",
+      "sourceName": "建通新聞",
+      "date": "2026-07-29",
+      "keywords": [
+        "施設"
+      ]
+    },
+    {
+      "id": "66c1a0a62c2b",
+      "title": "商業中心の新複合施設整備へ 吉備中央町、３０年開業目指す",
+      "summary": "商業中心の新複合施設整備へ 吉備中央町、３０年開業目指す&nbsp;&nbsp;山陽新聞",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOSWtzc2RBTDlCUHBLS2lpekNydlQ3cWJrVUxYMm85dE0zR1NVbWlLR0dCOFFXM2thWnNYXzJpdElBNE9VeFQ1WUdHYU9KbHJTZllHLUxnSndFdmZpM0U0ZmY2eTdSc1Y4eGZmWm1IV3M4OGVuOUVzWlRZcThieWVHZS1Ybks3dzQ?oc=5",
+      "source": "news",
+      "sourceName": "山陽新聞",
+      "date": "2026-07-29",
+      "keywords": [
+        "施設",
+        "複合",
+        "整備"
+      ]
+    },
     {
       "id": "21588470b6a7",
       "title": "奈良県PFI/DMG森精機グループに/文化会館コンセッション",
@@ -123,6 +162,34 @@
       ]
     },
     {
+      "id": "310997533b1f",
+      "title": "「公約違反だ」登米市複合施設の説明会で市長に批判相次ぐ 白紙撤回から建設推進へ方針転換で〈宮城〉（仙台放送）",
+      "summary": "「公約違反だ」登米市複合施設の説明会で市長に批判相次ぐ 白紙撤回から建設推進へ方針転換で〈宮城〉（仙台放送）&nbsp;&nbsp;news.yahoo.co.jp",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBmTHFhQ3owcWlKZjFtMXQ3RnVaaU9kVkh1RV92NFdaOU0tNmRoUjB6Z1BnX29IbHoyNGw3OW50bk45QWFOTFpPRV80blpsTlhnYnJQRXJPUjFuWWlSR3dVWUFRYVlnOGZ0NF9HRjY3NmttX2xZTXQ0S3RsWnhxTVU?oc=5",
+      "source": "news",
+      "sourceName": "news.yahoo.co.jp",
+      "date": "2026-07-28",
+      "keywords": [
+        "施設",
+        "複合",
+        "建設"
+      ]
+    },
+    {
+      "id": "700c1fdad091",
+      "title": "登米市・複合施設建設へ方針転換で市民説明会「白紙撤回」から一転＜宮城＞",
+      "summary": "登米市・複合施設建設へ方針転換で市民説明会「白紙撤回」から一転＜宮城＞&nbsp;&nbsp;TVer",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5kbFRoUGszWm9uOG9XNlkxaWpQUG5rNmc3OC1helJQS2t6QkhSbDZROWZlaHF4NXdzV3BIRlJtZFNWdkFidW54NEp3SQ?oc=5",
+      "source": "news",
+      "sourceName": "TVer",
+      "date": "2026-07-28",
+      "keywords": [
+        "施設",
+        "複合",
+        "建設"
+      ]
+    },
+    {
       "id": "5aec7fd31827",
       "title": "自治体向けセミナー「共施設の「しまい方」新時代」開催のお知らせ",
       "summary": "自治体向けセミナー「共施設の「しまい方」新時代」開催のお知らせ&nbsp;&nbsp;ニコニコニュース",
@@ -137,10 +204,10 @@
     {
       "id": "e62f6e02c1d1",
       "title": "栃木県南「新都心」に複合商業施設が今秋オープン、入居テナントも続々判明",
-      "summary": "栃木県南「新都心」に複合商業施設が今秋オープン、入居テナントも続々判明&nbsp;&nbsp;下野新聞社",
+      "summary": "栃木県南「新都心」に複合商業施設が今秋オープン、入居テナントも続々判明&nbsp;&nbsp;shimotsuke.co.jp",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA2bDBtU3hTWEsySmJJc2VqV25CMC01bDMzanFYZzdNRmFsQnZ2WmptTDdXOXVRUGxTbjZ4dEtzbnZYSENTejJrU0pKUUhEelhUaklQSS03UEdvZWM?oc=5",
       "source": "news",
-      "sourceName": "下野新聞社",
+      "sourceName": "shimotsuke.co.jp",
       "date": "2026-07-27",
       "keywords": [
         "施設",
@@ -410,6 +477,19 @@
       ]
     },
     {
+      "id": "4ca83dbdbd6f",
+      "title": "倉敷 公共施設再編で安全祈願祭 児島地区活性化の拠点に",
+      "summary": "倉敷 公共施設再編で安全祈願祭 児島地区活性化の拠点に&nbsp;&nbsp;山陽新聞",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVWRMb2xud1hUVkl4NEY3VFhlVzNOeFJhU0dIVlRZNGVDX1IyanJaUkE0TmVER2dDb0NNaHN5eU5zWG9nOUlST3I3UEZPTlVSb25SYzBHeGppR2RKQkZaSHhTUlBpSXNIOGJQSHZELVJMeFBsMHlrZnZ0Q1VsazQwb2lrSGlOQ0Na?oc=5",
+      "source": "news",
+      "sourceName": "山陽新聞",
+      "date": "2026-07-25",
+      "keywords": [
+        "施設",
+        "再編"
+      ]
+    },
+    {
       "id": "26445af37b34",
       "title": "倉敷 公共施設再編で安全祈願祭 児島地区活性化の拠点に",
       "summary": "倉敷 公共施設再編で安全祈願祭 児島地区活性化の拠点に&nbsp;&nbsp;山陽新聞",
@@ -667,10 +747,10 @@
     {
       "id": "df9a27558e61",
       "title": "【倒産】小規模の戸建てから大型公共施設まで様々な現場に対応 足場工事会社が破産開始決定 負債総額は約4億円【東京商工リサーチ】",
-      "summary": "【倒産】小規模の戸建てから大型公共施設まで様々な現場に対応 足場工事会社が破産開始決定 負債総額は約4億円【東京商工リサーチ】&nbsp;&nbsp;TBS NEWS DIG",
+      "summary": "【倒産】小規模の戸建てから大型公共施設まで様々な現場に対応 足場工事会社が破産開始決定 負債総額は約4億円【東京商工リサーチ】&nbsp;&nbsp;newsdig.tbs.co.jp",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE40ZVFrX19SQWJhR0JJTVRiZm5rUzBkOHlMVENUZGFNc3lGa0VzeDFvTU92NDhkVXluRHlrcXNtTElESGJxbzQyQnpHWmZxelZQMUJvV0xfVQ?oc=5",
       "source": "news",
-      "sourceName": "TBS NEWS DIG",
+      "sourceName": "newsdig.tbs.co.jp",
       "date": "2026-07-22",
       "keywords": [
         "施設"
@@ -686,6 +766,18 @@
       "date": "2026-07-22",
       "keywords": [
         "複合"
+      ]
+    },
+    {
+      "id": "64a54e156fb7",
+      "title": "【倒産】小規模の戸建てから大型公共施設まで様々な現場に対応　足場工事会社が破産開始決定　負債総額は約4億円【東京商工リサーチ】",
+      "summary": "【倒産】小規模の戸建てから大型公共施設まで様々な現場に対応 足場工事会社が破産開始決定 負債総額は約4億円【東京商工リサーチ】&nbsp;&nbsp;ｄメニューニュース",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9XRUZwVVZ3d0tQWXRWOVhmbEphR0pHdW5IdVpJMTRxbDhxU3A2YndmZkpfRUN1TEM3OWNRS2dVWm53UFBudHVSdmQzWXNDTE9zbkxadFl4RzQzRkdNUWU4ZHlzbWkyNERWU25qUHdnNNIBdEFVX3lxTE92WUNEbjBhdUNzbHF1amZ3azdhTkVBd3pZT0J5WEd5ZUZCX0s0bmZRYXZKNTJFTlUwLXNkZDRWX3VKem8xcWR3cVpWOW4yZ3phdDNlU1JCMzFzTnhvNElubGZqYUloTEgyeklnaFdkUy1kTHR4?oc=5",
+      "source": "news",
+      "sourceName": "ｄメニューニュース",
+      "date": "2026-07-22",
+      "keywords": [
+        "施設"
       ]
     },
     {
@@ -773,10 +865,10 @@
     {
       "id": "b17a21b4ed61",
       "title": "倉敷市児島地区の公共施設再編整備 新たに建設される複合施設の安全祈願祭 2028年3月末に完成予定【岡山】",
-      "summary": "倉敷市児島地区の公共施設再編整備 新たに建設される複合施設の安全祈願祭 2028年3月末に完成予定【岡山】&nbsp;&nbsp;TBS NEWS DIG",
+      "summary": "倉敷市児島地区の公共施設再編整備 新たに建設される複合施設の安全祈願祭 2028年3月末に完成予定【岡山】&nbsp;&nbsp;newsdig.tbs.co.jp",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5wamFiS005d21VVFVaMFEzd3p6RzRpZ2tpQXUzSWlOaE9hUlZZSDR4N3NRQ3dLQmVtcjBVR0FvREozV1BNMEhnVFRybFpNaU81VUFFbWxuQjhpVEc5Tkh3?oc=5",
       "source": "news",
-      "sourceName": "TBS NEWS DIG",
+      "sourceName": "newsdig.tbs.co.jp",
       "date": "2026-07-21",
       "keywords": [
         "施設",
@@ -803,10 +895,10 @@
     {
       "id": "cba9fa978767",
       "title": "建設の前にまずは発掘調査 仙台市の音楽ホール・複合施設",
-      "summary": "建設の前にまずは発掘調査 仙台市の音楽ホール・複合施設&nbsp;&nbsp;TBS NEWS DIG",
+      "summary": "建設の前にまずは発掘調査 仙台市の音楽ホール・複合施設&nbsp;&nbsp;newsdig.tbs.co.jp",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9aX1oyYXRoLWlpMWhNYWRCa2NiV2F0MU5zdlZfeXdSR3dBd1BGbjdpdWtoS1l5ejdtcXJDS2tWUV91d2tjX1Y3WjdaNGRjNzBiWmtZQlZWTUJYdw?oc=5",
       "source": "news",
-      "sourceName": "TBS NEWS DIG",
+      "sourceName": "newsdig.tbs.co.jp",
       "date": "2026-07-21",
       "keywords": [
         "施設",
@@ -1206,10 +1298,10 @@
     {
       "id": "6d4c03bec2c8",
       "title": "豊橋の球場建設、反対住民ら提訴へ 「海沿いの公共施設整備」論点に",
-      "summary": "豊橋の球場建設、反対住民ら提訴へ 「海沿いの公共施設整備」論点に&nbsp;&nbsp;毎日新聞",
+      "summary": "豊橋の球場建設、反対住民ら提訴へ 「海沿いの公共施設整備」論点に&nbsp;&nbsp;mainichi.jp",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5uQWdheDlLaHdtaEMyeG5BMjl2X1g4eTZDQnY3b2VjV2FtRVN0NjhWbHd5cE1iMV9wNDJVMjQ2cm9tRkgwdTh1c3VDc1hENF9nVnlMN3hKSng1cGdLSW1uek5xNlBueS1D?oc=5",
       "source": "news",
-      "sourceName": "毎日新聞",
+      "sourceName": "mainichi.jp",
       "date": "2026-07-11",
       "keywords": [
         "施設",
@@ -1642,10 +1734,10 @@
     {
       "id": "59d4c0c9b636",
       "title": "倉敷市児島地区の公共施設再編整備 新たに建設される複合施設の安全祈願祭 2028年3月末に完成予定【岡山】",
-      "summary": "倉敷市児島地区の公共施設再編整備 新たに建設される複合施設の安全祈願祭 2028年3月末に完成予定【岡山】&nbsp;&nbsp;TBS NEWS DIG",
+      "summary": "倉敷市児島地区の公共施設再編整備 新たに建設される複合施設の安全祈願祭 2028年3月末に完成予定【岡山】&nbsp;&nbsp;newsdig.tbs.co.jp",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB1QnhiTEhUYmpWbm1lUUlvbGdUY2kwbjRVUWN3YXNBQzZOSUhGNk9uX3J2SmdmOXIzUWNvMUExMVNmM0tSTGJMRHpsLU9TdHBScklNb1I2NjJFNnpC?oc=5",
       "source": "news",
-      "sourceName": "TBS NEWS DIG",
+      "sourceName": "newsdig.tbs.co.jp",
       "date": "2026-07-04",
       "keywords": [
         "施設",
@@ -2122,10 +2214,10 @@
     {
       "id": "3ba5d1b7a9d3",
       "title": "複合施設の白紙撤回公約を一転し登米市長が推進を正式表明 新設の方が市の負担額は減少へ 宮城・登米市",
-      "summary": "複合施設の白紙撤回公約を一転し登米市長が推進を正式表明 新設の方が市の負担額は減少へ 宮城・登米市&nbsp;&nbsp;TBS NEWS DIG",
+      "summary": "複合施設の白紙撤回公約を一転し登米市長が推進を正式表明 新設の方が市の負担額は減少へ 宮城・登米市&nbsp;&nbsp;newsdig.tbs.co.jp",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0wVl93UEFHNmprLXhpeEczYWxtcmpMbkptTFpYeFJFeHFLZ0VUNHhLcGowRXd6VEJ1dGdadzJOUkJsUFF3dmdNeUFyZGJkRzJqQlhNWnVhNFRIczgwNmdZSlc5dFcwU00?oc=5",
       "source": "news",
-      "sourceName": "TBS NEWS DIG",
+      "sourceName": "newsdig.tbs.co.jp",
       "date": "2026-06-30",
       "keywords": [
         "施設",
@@ -2511,10 +2603,10 @@
     {
       "id": "3db55fc36f5d",
       "title": "建設費高騰は｢資材高｣のせいだけではない…再開発も公共工事も止まる\"施工能力不足\"の深刻実態",
-      "summary": "建設費高騰は｢資材高｣のせいだけではない…再開発も公共工事も止まる\"施工能力不足\"の深刻実態&nbsp;&nbsp;東洋経済オンライン",
+      "summary": "建設費高騰は｢資材高｣のせいだけではない…再開発も公共工事も止まる\"施工能力不足\"の深刻実態&nbsp;&nbsp;toyokeizai.net",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBRN3BpOEM3cllVby1fQzdVMENyX0JKVWtmRkJiajd4VEotcXBtQjY3Ym1odDRBRUZZS3hVNDJMdXgzRzM5LWdhTHJvT0FfSXN4NnU2d1lsOERnOVU?oc=5",
       "source": "news",
-      "sourceName": "東洋経済オンライン",
+      "sourceName": "toyokeizai.net",
       "date": "2026-06-26",
       "keywords": [
         "建設"
@@ -2667,10 +2759,10 @@
     {
       "id": "f340e4ddebc9",
       "title": "複合施設建設地は踏襲 初登庁の石岡市長示す ／茨城",
-      "summary": "複合施設建設地は踏襲 初登庁の石岡市長示す ／茨城&nbsp;&nbsp;毎日新聞",
+      "summary": "複合施設建設地は踏襲 初登庁の石岡市長示す ／茨城&nbsp;&nbsp;mainichi.jp",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9hTng1dWYxc0UzX1lOakgtbV9XQnIwRzhTYnZMYlhLaS1HUXFYamdZLW1oRXljOXpSNWg2WW55S20xcVlnUXZvejVJRWZhVjFnMy1jMm41TlhOTy1RcGhQWVNYSmZWcnJh?oc=5",
       "source": "news",
-      "sourceName": "毎日新聞",
+      "sourceName": "mainichi.jp",
       "date": "2026-06-25",
       "keywords": [
         "施設",
@@ -3099,10 +3191,10 @@
     {
       "id": "906967b0dcd6",
       "title": "倉敷市児島地区の公共施設再編整備 新たに建設される複合施設の安全祈願祭 2028年3月末に完成予定【岡山】",
-      "summary": "倉敷市児島地区の公共施設再編整備 新たに建設される複合施設の安全祈願祭 2028年3月末に完成予定【岡山】&nbsp;&nbsp;TBS NEWS DIG",
+      "summary": "倉敷市児島地区の公共施設再編整備 新たに建設される複合施設の安全祈願祭 2028年3月末に完成予定【岡山】&nbsp;&nbsp;newsdig.tbs.co.jp",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9xaFBBQUUzZHRkdm5XNFdyTXluNURxSnpvVU9hbUNaWW9zTm1JUG5INHhjNERXYmdyOGdMSkY0Z3FIV0lVa1cyZEpwRVBSTkZJbnpqbFI4Yw?oc=5",
       "source": "news",
-      "sourceName": "TBS NEWS DIG",
+      "sourceName": "newsdig.tbs.co.jp",
       "date": "2026-06-19",
       "keywords": [
         "施設",
@@ -3317,10 +3409,10 @@
     {
       "id": "19e1e47d7d33",
       "title": "倉敷市児島地区の公共施設再編整備 新たに建設される複合施設の安全祈願祭 2028年3月末に完成予定【岡山】",
-      "summary": "倉敷市児島地区の公共施設再編整備 新たに建設される複合施設の安全祈願祭 2028年3月末に完成予定【岡山】&nbsp;&nbsp;TBS NEWS DIG",
+      "summary": "倉敷市児島地区の公共施設再編整備 新たに建設される複合施設の安全祈願祭 2028年3月末に完成予定【岡山】&nbsp;&nbsp;newsdig.tbs.co.jp",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFA4dTZySFRvNmlPdU13anVvQnJ2V0pKbXAzT0kwZ0J4STdSYUdrRVdncWd2azRvR2Fpa1hCMVROa2xjLW9HVTBMRG5kZkpuV1pBWkc0TkRoR2RpYXZ0Ty1YNDh0UQ?oc=5",
       "source": "news",
-      "sourceName": "TBS NEWS DIG",
+      "sourceName": "newsdig.tbs.co.jp",
       "date": "2026-06-19",
       "keywords": [
         "施設",
@@ -3632,10 +3724,10 @@
     {
       "id": "212ca941e74e",
       "title": "宮城・登米市の複合施設の整備計画 施設を作った方が現用施設の継続利用よりも、市の財政負担が少ない調査結果が明らかになる | 宮城のニュース│tbc NEWS│tbc東北放送 (1ページ)",
-      "summary": "宮城・登米市の複合施設の整備計画 施設を作った方が現用施設の継続利用よりも、市の財政負担が少ない調査結果が明らかになる | 宮城のニュース│tbc NEWS│tbc東北放送 (1ページ)&nbsp;&nbsp;TBS NEWS DIG",
+      "summary": "宮城・登米市の複合施設の整備計画 施設を作った方が現用施設の継続利用よりも、市の財政負担が少ない調査結果が明らかになる | 宮城のニュース│tbc NEWS│tbc東北放送 (1ページ)&nbsp;&nbsp;newsdig.tbs.co.jp",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5nX21UVXdnUlJaOG05QjI1eTY5TE9yS241WDFvQzF0blUtaUVCSXM4VXFpWTJ2ZUpRVHlaM1A0UzZmTGE4ekdwRXBJR1BHOE14VWpqNU03SnJLS01MZC0zeVZ0aU1feEk?oc=5",
       "source": "news",
-      "sourceName": "TBS NEWS DIG",
+      "sourceName": "newsdig.tbs.co.jp",
       "date": "2026-06-18",
       "keywords": [
         "施設",
@@ -3955,101 +4047,6 @@
       "keywords": [
         "施設",
         "再編"
-      ]
-    },
-    {
-      "id": "6ef843ddaa1b",
-      "title": "(官民連携 地域経営の最前線=2)PFIとは何か? 民間資金など活用し公共施設整備 一般財団法人地方自治体公民連携研究財団代表理事 藏田幸三 2026.6.2付",
-      "summary": "(官民連携 地域経営の最前線=2)PFIとは何か? 民間資金など活用し公共施設整備 一般財団法人地方自治体公民連携研究財団代表理事 藏田幸三 2026.6.2付&nbsp;&nbsp;公明新聞電子版プラス",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAxRFB4LUVhak1uVktQM2VMVmhGUGpwV2ZUTW5OOHdBcENMS3E0YUdWNG8yT0R5Yk8xcTJsTm5tV1ZoM2p5dUNnbktyX3c1MXU2RDdoN1lNeUpFWV9zXzFvYWUwLUp1WnZISVNMZTRn?oc=5",
-      "source": "news",
-      "sourceName": "公明新聞電子版プラス",
-      "date": "2026-06-17",
-      "keywords": [
-        "施設",
-        "整備",
-        "PFI"
-      ]
-    },
-    {
-      "id": "5a4ab0121753",
-      "title": "茨城：石岡複合施設建設再注目 候補者分かれる主張 ：地域ニュース",
-      "summary": "茨城：石岡複合施設建設再注目 候補者分かれる主張 ：地域ニュース&nbsp;&nbsp;読売新聞",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBaUGN3SlJBRFd2VVpPaWdCTlBkQWhZWHR3SlVBZDJVZ25QY0w0Y3hFU19jN0tBbXJsdFdWNlN1NF9sMU9IakdiNU5keHk3blQyQXNISFMxZDFkenBzODZpXzNkRHN0N09zR0c0UHJ2a2ZzNmc?oc=5",
-      "source": "news",
-      "sourceName": "読売新聞",
-      "date": "2026-06-17",
-      "keywords": [
-        "施設",
-        "複合",
-        "建設"
-      ]
-    },
-    {
-      "id": "bf9ecd8d8cad",
-      "title": "世田谷区 経堂複合施設 28年度に改築工事 事業費は13億円",
-      "summary": "世田谷区 経堂複合施設 28年度に改築工事 事業費は13億円&nbsp;&nbsp;建通新聞",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOSVItdFRQdU9nb01BM1JqeGI4VW53SU13R2paUDBSUU5VQVFheThaaml3ZTdzRW1aRDZ5dXN5NTBpWDEyeEZmQVY4WmRJdHN4ektRUXVZQlVSV0dWUWw4aFlIeDhDQ215ZE1UZTlibjI0SzFJRTlwTXZXNHM2cEhJTA?oc=5",
-      "source": "news",
-      "sourceName": "建通新聞",
-      "date": "2026-06-17",
-      "keywords": [
-        "施設",
-        "複合"
-      ]
-    },
-    {
-      "id": "48b2befb1b83",
-      "title": "義務教育学校が入る複合施設の建設費、さらに膨らみ57億円に 中頓別",
-      "summary": "義務教育学校が入る複合施設の建設費、さらに膨らみ57億円に 中頓別&nbsp;&nbsp;北海道新聞デジタル",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9xZXpqb1V4T09pRFowOUxjRkJ5eDdiVnFUbkFPMmROc05ON0lzblBqN3hIRmJycFhiNE1jcFpCNFhiWTdrQWZkRzlWWTBJdzRyeE9sQnVJeVNUUQ?oc=5",
-      "source": "news",
-      "sourceName": "北海道新聞デジタル",
-      "date": "2026-06-17",
-      "keywords": [
-        "施設",
-        "複合",
-        "建設"
-      ]
-    },
-    {
-      "id": "68f6a06a3fc6",
-      "title": "岐阜・大野神戸IC至近に商業＋ホテルの複合施設 飲食・温浴・スポーツ",
-      "summary": "岐阜・大野神戸IC至近に商業＋ホテルの複合施設 飲食・温浴・スポーツ&nbsp;&nbsp;Impress Watch",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBtZmVpSGZvcHFsX1YxU0x6TTJyajY2TWl0cHVrVVJBU0NBTzhUR015ZXR0OGZNVkJQekQ4VGhwaVJfZTZnWGc5M3RiWGVyaUtlZDlkNXBLcnpjbTRwTzlVZ0NnbHo?oc=5",
-      "source": "news",
-      "sourceName": "Impress Watch",
-      "date": "2026-06-17",
-      "keywords": [
-        "施設",
-        "複合"
-      ]
-    },
-    {
-      "id": "4dc44c04fd60",
-      "title": "【新たなにぎわい】新鎌ヶ谷駅前の「商業と住宅の複合施設」の建設工事がほぼ完了！商業ビルは9月ごろのオープンを予定",
-      "summary": "【新たなにぎわい】新鎌ヶ谷駅前の「商業と住宅の複合施設」の建設工事がほぼ完了！商業ビルは9月ごろのオープンを予定&nbsp;&nbsp;松戸つうしん",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBoZ0RVbjNiNEJvSDBSUHdla0VDbFNta1BSVGwxcFdKeXhGY1RXSlRHdjhsRFR0VlN2cU9PZkFnUzA5c2xrX3dYYmRLS1gtRWs?oc=5",
-      "source": "news",
-      "sourceName": "松戸つうしん",
-      "date": "2026-06-17",
-      "keywords": [
-        "施設",
-        "複合",
-        "建設"
-      ]
-    },
-    {
-      "id": "54b7fff5d806",
-      "title": "岐阜・大野神戸IC至近に商業＋ホテルの複合施設 飲食・温浴・スポーツ（Impress Watch）",
-      "summary": "岐阜・大野神戸IC至近に商業＋ホテルの複合施設 飲食・温浴・スポーツ（Impress Watch）&nbsp;&nbsp;Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxON3plc09hbHZGNGZUR2drcnJEdHhxQjNOR05fSGZyX2tQZUN6dXZ0aUhzcC1NUkxVUV9kZVNhb25sUXJwY3lTdzE0ajRMZzlWLVhkV1V3TWJ2eDBMaG5UVHFwNThMSEdVOWhJcGc0SFVPTVBMaWQ1MXJBUkZfZ0lIOVd6c3drNDFLTjRqbHl3?oc=5",
-      "source": "news",
-      "sourceName": "Yahoo!ニュース",
-      "date": "2026-06-17",
-      "keywords": [
-        "施設",
-        "複合"
       ]
     }
   ]
