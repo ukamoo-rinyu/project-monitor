@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-01 07:57",
+  "updatedAt": "2026-08-02 07:52",
   "count": 300,
   "articles": [
     {
@@ -9,6 +9,33 @@
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBSdDRJUjZjVjB4OEVxNVJvelBDNjR3NWVtcHREU1ZYVUhfZ0ZFemZodmdXSTlDV28waEJTMW11TGxSX0JPQ0ZRRTZ1OF9sbmVqQUZEbmFTTnJ1V2pIclBHa3hkYlE?oc=5",
       "source": "news",
       "sourceName": "Межа. Новини України.",
+      "date": "2026-08-01",
+      "keywords": [
+        "施設",
+        "複合",
+        "建設"
+      ]
+    },
+    {
+      "id": "655b8c380285",
+      "title": "“公共施設どう再編するか”建築学会賞受賞の教授が講演 松江",
+      "summary": "“公共施設どう再編するか”建築学会賞受賞の教授が講演 松江&nbsp;&nbsp;NHKニュース",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9qdFctZnl1WjlQTGdHcVFfSFVtTkNiSVlpY1dacmFBc1BVZXQ3a2dIa1RfVjBDQVFFZ2lSRFhmNk43UDctTl9RWTNiRTF3LWFqdWZNU2hhdlc?oc=5",
+      "source": "news",
+      "sourceName": "NHKニュース",
+      "date": "2026-08-01",
+      "keywords": [
+        "施設",
+        "再編"
+      ]
+    },
+    {
+      "id": "e84228bbb092",
+      "title": "八戸市中心街に映画館が復活！「いわとくパルコ」跡地にミニシアターを併設した複合施設建設へ",
+      "summary": "八戸市中心街に映画館が復活！「いわとくパルコ」跡地にミニシアターを併設した複合施設建設へ&nbsp;&nbsp;TVer",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1NM3piOWdYSFFZUnZ5ZkhVYmIydlktRUdZTmhaQkhXZlJrbDhaUlN3MmR4MkxEQTN2VVVHdHFKcUhtN1ZWMmVRcmFaZw?oc=5",
+      "source": "news",
+      "sourceName": "TVer",
       "date": "2026-08-01",
       "keywords": [
         "施設",
@@ -108,6 +135,19 @@
       ]
     },
     {
+      "id": "101667c66354",
+      "title": "多機能トイレマップづくりが難航 仙台のＮＰＯが調査中 １カ月近く返答ない施設も",
+      "summary": "多機能トイレマップづくりが難航 仙台のＮＰＯが調査中 １カ月近く返答ない施設も&nbsp;&nbsp;河北新報オンライン",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBDVDJlVThERlk3a3pPSTVhUVluSGxZa1c2UFBhOXVqX3otYkhWeU1zX1lJVWdwVzlJbG5iaUJIblNZWERJUXk4VEtEU3ozRHR5ZGJvSmN2dXc4X1k4aXZPZA?oc=5",
+      "source": "news",
+      "sourceName": "河北新報オンライン",
+      "date": "2026-07-31",
+      "keywords": [
+        "施設",
+        "多機能"
+      ]
+    },
+    {
       "id": "a774c9737f18",
       "title": "公共施設に民間ノウハウ 県が「実践塾」 整備・運営案 模索",
       "summary": "公共施設に民間ノウハウ 県が「実践塾」 整備・運営案 模索&nbsp;&nbsp;静岡新聞DIGITAL",
@@ -147,6 +187,19 @@
       ]
     },
     {
+      "id": "d92c5d808401",
+      "title": "倉敷 公共施設再編で安全祈願祭 児島地区活性化の拠点に",
+      "summary": "倉敷 公共施設再編で安全祈願祭 児島地区活性化の拠点に&nbsp;&nbsp;山陽新聞",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5rRzJlQi1VVzFfNGRkOThteEhVdlhxRHNKOHJkRDRjVjZuam9JZm1NeHJ3akJkR29WMVhBbk5hMTR2U2ZCVzhTQkNuRGh3a01vV0lESDFIOHMyV0tHZTF5Zjk1SXFob0hWMUp5SkNoQUNOWHU5cFFoWWxITQ?oc=5",
+      "source": "news",
+      "sourceName": "山陽新聞",
+      "date": "2026-07-30",
+      "keywords": [
+        "施設",
+        "再編"
+      ]
+    },
+    {
       "id": "0dbfd54f6537",
       "title": "武豊町 公共施設基本計画策定 山下設計に委託",
       "summary": "武豊町 公共施設基本計画策定 山下設計に委託&nbsp;&nbsp;建通新聞",
@@ -170,19 +223,6 @@
         "施設",
         "複合",
         "整備"
-      ]
-    },
-    {
-      "id": "d92c5d808401",
-      "title": "倉敷 公共施設再編で安全祈願祭 児島地区活性化の拠点に",
-      "summary": "倉敷 公共施設再編で安全祈願祭 児島地区活性化の拠点に&nbsp;&nbsp;山陽新聞",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5rRzJlQi1VVzFfNGRkOThteEhVdlhxRHNKOHJkRDRjVjZuam9JZm1NeHJ3akJkR29WMVhBbk5hMTR2U2ZCVzhTQkNuRGh3a01vV0lESDFIOHMyV0tHZTF5Zjk1SXFob0hWMUp5SkNoQUNOWHU5cFFoWWxITQ?oc=5",
-      "source": "news",
-      "sourceName": "山陽新聞",
-      "date": "2026-07-29",
-      "keywords": [
-        "施設",
-        "再編"
       ]
     },
     {
@@ -1334,10 +1374,10 @@
     {
       "id": "829b25363322",
       "title": "自治体と進める「コスト最適化×再エネ導入」ウェビナーを開催",
-      "summary": "自治体と進める「コスト最適化×再エネ導入」ウェビナーを開催&nbsp;&nbsp;PR TIMES",
+      "summary": "自治体と進める「コスト最適化×再エネ導入」ウェビナーを開催&nbsp;&nbsp;prtimes.jp",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBGZ1AweGkxQnJjTlpoVlctTlhHT0JIZGFReUNfYndwZkpsX3dGVnM0aUFGZUF1NDA3OHFfeWYtZzFuVWlqeE8wRlFBRUZPRUpYaXFydFptUUxTdXhaTmlFa1EwcUFHVEdyMlE?oc=5",
       "source": "news",
-      "sourceName": "PR TIMES",
+      "sourceName": "prtimes.jp",
       "date": "2026-07-14",
       "keywords": [
         "コスト"
@@ -1482,10 +1522,10 @@
     {
       "id": "6d4c03bec2c8",
       "title": "豊橋の球場建設、反対住民ら提訴へ 「海沿いの公共施設整備」論点に",
-      "summary": "豊橋の球場建設、反対住民ら提訴へ 「海沿いの公共施設整備」論点に&nbsp;&nbsp;毎日新聞",
+      "summary": "豊橋の球場建設、反対住民ら提訴へ 「海沿いの公共施設整備」論点に&nbsp;&nbsp;mainichi.jp",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5uQWdheDlLaHdtaEMyeG5BMjl2X1g4eTZDQnY3b2VjV2FtRVN0NjhWbHd5cE1iMV9wNDJVMjQ2cm9tRkgwdTh1c3VDc1hENF9nVnlMN3hKSng1cGdLSW1uek5xNlBueS1D?oc=5",
       "source": "news",
-      "sourceName": "毎日新聞",
+      "sourceName": "mainichi.jp",
       "date": "2026-07-11",
       "keywords": [
         "施設",
@@ -1604,10 +1644,10 @@
     {
       "id": "579dd6f25385",
       "title": "【ゼミ】環境省：自治体ZEB推進へ実践セミナー開催、湖西市・上郡町の事例から実践的アプローチを共有。老朽施設の改修・新築に脱炭素と防災の視点",
-      "summary": "【ゼミ】環境省：自治体ZEB推進へ実践セミナー開催、湖西市・上郡町の事例から実践的アプローチを共有。老朽施設の改修・新築に脱炭素と防災の視点&nbsp;&nbsp;みんなの広報宣伝部",
+      "summary": "【ゼミ】環境省：自治体ZEB推進へ実践セミナー開催、湖西市・上郡町の事例から実践的アプローチを共有。老朽施設の改修・新築に脱炭素と防災の視点&nbsp;&nbsp;xn--q9ji3c6d676qnnlo0fgmgrr6k.com",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9meFlUY0tlaFY0Z05yS1FzLW5jYV9CcWR2SEdfZmpOR0ZlWE1kVVNJc0ZTVjlaU2ExLTdZV0d2djdYYkdwYVdORGJCVGVGVE5ocENQbG5aMXV5UVhxcG14Y0xKSTd6R3prTVlXWVREeXp1MFU?oc=5",
       "source": "news",
-      "sourceName": "みんなの広報宣伝部",
+      "sourceName": "xn--q9ji3c6d676qnnlo0fgmgrr6k.com",
       "date": "2026-07-08",
       "keywords": [
         "施設"
@@ -2967,10 +3007,10 @@
     {
       "id": "f340e4ddebc9",
       "title": "複合施設建設地は踏襲 初登庁の石岡市長示す ／茨城",
-      "summary": "複合施設建設地は踏襲 初登庁の石岡市長示す ／茨城&nbsp;&nbsp;毎日新聞",
+      "summary": "複合施設建設地は踏襲 初登庁の石岡市長示す ／茨城&nbsp;&nbsp;mainichi.jp",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9hTng1dWYxc0UzX1lOakgtbV9XQnIwRzhTYnZMYlhLaS1HUXFYamdZLW1oRXljOXpSNWg2WW55S20xcVlnUXZvejVJRWZhVjFnMy1jMm41TlhOTy1RcGhQWVNYSmZWcnJh?oc=5",
       "source": "news",
-      "sourceName": "毎日新聞",
+      "sourceName": "mainichi.jp",
       "date": "2026-06-25",
       "keywords": [
         "施設",
@@ -3768,10 +3808,10 @@
     {
       "id": "646a2cfc6490",
       "title": "岡山・倉敷市児島地区の公共施設再編で関係者が安全を祈願 令和10年に市立短大が移転",
-      "summary": "岡山・倉敷市児島地区の公共施設再編で関係者が安全を祈願 令和10年に市立短大が移転&nbsp;&nbsp;産経ニュース",
+      "summary": "岡山・倉敷市児島地区の公共施設再編で関係者が安全を祈願 令和10年に市立短大が移転&nbsp;&nbsp;sankei.com",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE03ZV9JcXFWOTQwNUhrend0bHZ5WmFlbnFtY2YzY0l2X3JFcnhtOGZBRncyRk54SDVBYVU2LUIwNWFlOXY4ZVByeDQ1c1hlemxpVHB4WU9LUDVCdThZR1FlZm9hdDExNFNkUC1rZ1FURlBHcjV5SEE?oc=5",
       "source": "news",
-      "sourceName": "産経ニュース",
+      "sourceName": "sankei.com",
       "date": "2026-06-19",
       "keywords": [
         "施設",
@@ -3992,47 +4032,6 @@
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBwc21EWnBsaFBCbmtqRkJFT3VrZWZaMGlBaGI2UTgyVmNQZnFDODZTRUlEbHp3cmpncUtrTW5qSnJfUGc3UFdPek93Z3owdGhObFJVVHZQTUdQYzU3QzlJOWp2ZmRTVXZKYlhOLWUwYUNSaExjaGk5TWJZYnZGc2M?oc=5",
       "source": "news",
       "sourceName": "Yahoo!ニュース",
-      "date": "2026-06-18",
-      "keywords": [
-        "施設",
-        "複合"
-      ]
-    },
-    {
-      "id": "85a2e6514a99",
-      "title": "仙台・青葉山複合施設「中国で建設中の美術館とそっくり」市議会会派が指摘 市は「全く異なる」と反論",
-      "summary": "仙台・青葉山複合施設「中国で建設中の美術館とそっくり」市議会会派が指摘 市は「全く異なる」と反論&nbsp;&nbsp;河北新報オンライン",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9YaHk4djVmS0Q5WURTdzZWcE9XcElWbWwwYTRBNjVNeG1TdEY4bzBITjFoeFJMenlMMjVxSjJKUFhxVW5GX21rc1FDb2NIY2tTaTA5YkJDUi1xYkowcXNTb3Z6NEpFX1hlTTZidU5kYTJPNDJJQ3dmS0puRQ?oc=5",
-      "source": "news",
-      "sourceName": "河北新報オンライン",
-      "date": "2026-06-18",
-      "keywords": [
-        "施設",
-        "複合",
-        "建設"
-      ]
-    },
-    {
-      "id": "086f00dc1b61",
-      "title": "仙台・青葉山複合施設「中国で建設中の美術館とそっくり」市議会会派が指摘 市は「全く異なる」と反論",
-      "summary": "仙台・青葉山複合施設「中国で建設中の美術館とそっくり」市議会会派が指摘 市は「全く異なる」と反論&nbsp;&nbsp;47NEWS",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBaRkhXYnhrYmNBZzNEVlhJR2dTQURKUnhOY3BJaHcyT0Fnb2VOMFFuWGZWMmE5RzlkU2JGSzVJYzNhNlJEUHhKdlFvYw?oc=5",
-      "source": "news",
-      "sourceName": "47NEWS",
-      "date": "2026-06-18",
-      "keywords": [
-        "施設",
-        "複合",
-        "建設"
-      ]
-    },
-    {
-      "id": "2a6b239a20e2",
-      "title": "仙台・青葉山の複合施設計画「設計や音響など対話の場を」市民団体が発足、要望書提出",
-      "summary": "仙台・青葉山の複合施設計画「設計や音響など対話の場を」市民団体が発足、要望書提出&nbsp;&nbsp;河北新報オンライン",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5DejU0MWVzNVhuS2RoUzJQQVh2M2xXQTB6bjlLUWw4TEFyandfQ3lXQjRuODBYb1hBa0FWdi0tdWR2YTJXbXVHZXJ1dmZjamxTVlJFTUJSOGI0em0zeEEtaQ?oc=5",
-      "source": "news",
-      "sourceName": "河北新報オンライン",
       "date": "2026-06-18",
       "keywords": [
         "施設",
