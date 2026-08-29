@@ -1,7 +1,22 @@
 {
-  "updatedAt": "2026-08-28 14:56",
+  "updatedAt": "2026-08-29 12:28",
   "count": 300,
   "articles": [
+    {
+      "id": "a5fa3bffbfa8",
+      "title": "【枚方市】人口減少時代の公共施設再編へ｜複合化・多機能化どう進める｜総務委員協議会の案件より（１）",
+      "summary": "【枚方市】人口減少時代の公共施設再編へ｜複合化・多機能化どう進める｜総務委員協議会の案件より（１）&nbsp;&nbsp;選挙ドットコム",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE53bmMtVkM3RXh2eS1SRTVzeGZlTFFPQm5odDU4RHJFaEJQUUUxSUtWLVpZdk0ySUhDeWd4Y21mWEtuUGlSbFFSQndtNGRBTDQwMUNBT1FZV1NwRTNxeXc?oc=5",
+      "source": "news",
+      "sourceName": "選挙ドットコム",
+      "date": "2026-08-29",
+      "keywords": [
+        "施設",
+        "再編",
+        "複合",
+        "多機能"
+      ]
+    },
     {
       "id": "80409612d01f",
       "title": "SpaceXはスターシップ複合施設の建設に1000億ドルを投資している。",
@@ -13,6 +28,18 @@
       "keywords": [
         "施設",
         "複合",
+        "建設"
+      ]
+    },
+    {
+      "id": "018160d1bf4b",
+      "title": "国交省／２７年度予算概算要求／公共事業費７・７兆円、強靱化実施中計は別途積み上げ",
+      "summary": "国交省／２７年度予算概算要求／公共事業費７・７兆円、強靱化実施中計は別途積み上げ&nbsp;&nbsp;日刊建設工業新聞",
+      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE40aEVUUlJnQUQtOWdYZzJoNmJJYW9xWjRZeDRjNUVRQmRaYlhjT2Vid3VvLTFRQXAzLXNFcWVLeDc2ZFItMkxr?oc=5",
+      "source": "news",
+      "sourceName": "日刊建設工業新聞",
+      "date": "2026-08-28",
+      "keywords": [
         "建設"
       ]
     },
@@ -84,25 +111,26 @@
       ]
     },
     {
-      "id": "a32c191bf51d",
-      "title": "沼津市が公共施設の照明のLED化を敢えてPFI事業で行うわけ（森本紀行） - エキスパート",
-      "summary": "沼津市が公共施設の照明のLED化を敢えてPFI事業で行うわけ（森本紀行） - エキスパート&nbsp;&nbsp;Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNRmpUWnRIYkI1ZlFTa3NsdnE5WjhObjd4UmhlR2ZhdDB3OEhVOFpWdV9YX2dub1ZkNXo5TEU0NEZ3OWdKR3FaeXdvYkViemNnalNqNXcxT1p0MFNLSjlvVy1mWjI5cUtoc1dYaU9UZnhyeVRGdnYxM1BidWZMWHo1cjdLaHMyWWFM?oc=5",
-      "source": "news",
-      "sourceName": "Yahoo!ニュース",
-      "date": "2026-08-26",
-      "keywords": [
-        "施設",
-        "PFI"
-      ]
-    },
-    {
       "id": "4e4da2aaf821",
       "title": "フランスとサウジアラビアがパリ郊外に「ドラゴンボール」関連の巨大複合施設建設へ合意",
       "summary": "フランスとサウジアラビアがパリ郊外に「ドラゴンボール」関連の巨大複合施設建設へ合意&nbsp;&nbsp;東京報道新聞",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1IRFk4aTdQMjE2aEZya1lVTjNfYlZ3azljb28yZ1F3bi16aXVraENycmQtbmZhbW01Q1BxbUVKZEpHcFZjU3BNb1FMUWN0TTRfbjZB?oc=5",
       "source": "news",
       "sourceName": "東京報道新聞",
+      "date": "2026-08-26",
+      "keywords": [
+        "施設",
+        "複合",
+        "建設"
+      ]
+    },
+    {
+      "id": "146645892515",
+      "title": "9月補正で債務負担80億/前田建設が構成員離脱/萩山小複合施設/東村山市",
+      "summary": "9月補正で債務負担80億/前田建設が構成員離脱/萩山小複合施設/東村山市&nbsp;&nbsp;建設通信新聞Digital",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBHdkdxb096SHpGQXRKR2RtaEEzOUFtMTNYUWdic2xyMEVvVmlZSXBMMGhZVjlOMEtINGNEZkNZeHpnYXplZlRxSUhPREpneG12VnJHZWlSS2k?oc=5",
+      "source": "news",
+      "sourceName": "建設通信新聞Digital",
       "date": "2026-08-26",
       "keywords": [
         "施設",
@@ -485,6 +513,19 @@
       "keywords": [
         "施設",
         "複合"
+      ]
+    },
+    {
+      "id": "a32c191bf51d",
+      "title": "沼津市が公共施設の照明のLED化を敢えてPFI事業で行うわけ（森本紀行） - エキスパート",
+      "summary": "沼津市が公共施設の照明のLED化を敢えてPFI事業で行うわけ（森本紀行） - エキスパート&nbsp;&nbsp;Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNRmpUWnRIYkI1ZlFTa3NsdnE5WjhObjd4UmhlR2ZhdDB3OEhVOFpWdV9YX2dub1ZkNXo5TEU0NEZ3OWdKR3FaeXdvYkViemNnalNqNXcxT1p0MFNLSjlvVy1mWjI5cUtoc1dYaU9UZnhyeVRGdnYxM1BidWZMWHo1cjdLaHMyWWFM?oc=5",
+      "source": "news",
+      "sourceName": "Yahoo!ニュース",
+      "date": "2026-08-20",
+      "keywords": [
+        "施設",
+        "PFI"
       ]
     },
     {
@@ -3984,47 +4025,6 @@
       "date": "2026-07-06",
       "keywords": [
         "建設"
-      ]
-    },
-    {
-      "id": "c981c4b5972c",
-      "title": "商業中心の新複合施設整備へ 吉備中央町、３０年開業目指す",
-      "summary": "商業中心の新複合施設整備へ 吉備中央町、３０年開業目指す&nbsp;&nbsp;山陽新聞",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUkFyR1RDSklQQUJ1TEhLTGhCT055S3hNUkNaQUM2R3BuR0N1YXF3bHBsaHQ4MmlmdC1JUnEwcmN0cmw0N0FDNFdRbmxLdkZvbWR3ZkxZU2Z4eUpqbWlTOHBENmJnck9OU1lod2VNdXhkd0h5X18yVGFlRGRodXNSdEVGRGoxUDRLckpmMXBWdHdtN29OeTNEbk5QaTVfV28?oc=5",
-      "source": "news",
-      "sourceName": "山陽新聞",
-      "date": "2026-07-06",
-      "keywords": [
-        "施設",
-        "複合",
-        "整備"
-      ]
-    },
-    {
-      "id": "fcce59c21c38",
-      "title": "8月19日まで受付/金剛中央公園複合施設DBO/富田林市",
-      "summary": "8月19日まで受付/金剛中央公園複合施設DBO/富田林市&nbsp;&nbsp;建設通信新聞Digital",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5yeUpGMUZETU5uUlh6d1c0T1BQS3RkNnAxeXZYb1VlV0Mya01KRjBEVExjS3hwWkhqWTVyN1FQV05MREN2Ml9qQ3VLZVIxajh6cVJiZTNZZWQ?oc=5",
-      "source": "news",
-      "sourceName": "建設通信新聞Digital",
-      "date": "2026-07-06",
-      "keywords": [
-        "施設",
-        "複合",
-        "建設"
-      ]
-    },
-    {
-      "id": "2a33f04174e8",
-      "title": "【６月議会一般質問】小名浜公共施設再編②１月に東京武蔵野市の「武蔵野プレイス」を視察しました。",
-      "summary": "【６月議会一般質問】小名浜公共施設再編②１月に東京武蔵野市の「武蔵野プレイス」を視察しました。&nbsp;&nbsp;選挙ドットコム",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBLaTYyd0RmUkpJSWw0UW55UGhpNnU2S1U4N0NWeHJxc1QyX3d0UUZXWVRBLTA1Q2NDbHladXJwZlFaN0hXSDl2UFFUSzhvLVNqOFpFTm9wczc0UmJJUFE?oc=5",
-      "source": "news",
-      "sourceName": "選挙ドットコム",
-      "date": "2026-07-05",
-      "keywords": [
-        "施設",
-        "再編"
       ]
     }
   ]
