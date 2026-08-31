@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-08-30 08:52",
+  "updatedAt": "2026-08-31 09:11",
   "count": 300,
   "articles": [
+    {
+      "id": "9bc4ba46cac9",
+      "title": "公共施設の在り方 講話で理解深める 伊豆",
+      "summary": "公共施設の在り方 講話で理解深める 伊豆&nbsp;&nbsp;静岡新聞DIGITAL",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBmOHo5bDFNcVJ3a2E3ZUJlTWEzWkFXM3A5QXF2WjhYVElVMFVYZk1NdjVRQUZ1NFNwQzVFVXQzcEdfZXd6cWpYWDRBaWx1dw?oc=5",
+      "source": "news",
+      "sourceName": "静岡新聞DIGITAL",
+      "date": "2026-08-31",
+      "keywords": [
+        "施設"
+      ]
+    },
     {
       "id": "a5fa3bffbfa8",
       "title": "【枚方市】人口減少時代の公共施設再編へ｜複合化・多機能化どう進める｜総務委員協議会の案件より（１）",
@@ -402,7 +414,7 @@
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQN1pPQl9Xb1BwcDQ5NHY0N3VHazdwMXNtZGd5MnIzWWRBeFV0WVBYdkVCM1Vsd3poRVdUVU5WVzF5VW9SOC15WTY3M2hVeFdkb28wbTdnZlZ2WUZHaF9lZGllWTBSS0NRekZsMEJvMlFGZUhOcEp2NFpwQzYwZjZnRU1mU043TlpyYlcwcFR5d25OX252WFg4Z2ZWUFlYcDBsWkV5amZJWlBpWlU?oc=5",
       "source": "news",
       "sourceName": "Vietnam.vn",
-      "date": "2026-08-23",
+      "date": "2026-08-22",
       "keywords": [
         "施設",
         "複合",
@@ -1156,6 +1168,21 @@
       "title": "「建設コスト押し上げの原因はデザインでは」 建設費用は当初の3倍の646億円に 複合施設めぐり市民団体設立",
       "summary": "「建設コスト押し上げの原因はデザインでは」 建設費用は当初の3倍の646億円に 複合施設めぐり市民団体設立&nbsp;&nbsp;TBS NEWS DIG",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9ORGtZX2VEYzJIYUJMZERvUEZDQVNfcUhSLWlZcHRRMmtraHpGa09qc18tNlZGZnBxTkhGLWEyMjNScGp0d0lETE9PMFlSX0FETjQ3b3g0RHpXcktvam9VSzVSRWM1eEk?oc=5",
+      "source": "news",
+      "sourceName": "TBS NEWS DIG",
+      "date": "2026-08-11",
+      "keywords": [
+        "施設",
+        "複合",
+        "コスト",
+        "建設"
+      ]
+    },
+    {
+      "id": "756bd5de6164",
+      "title": "「建設コスト押し上げの原因はデザインでは」 建設費用は当初の3倍の646億円に 複合施設めぐり市民団体設立",
+      "summary": "「建設コスト押し上げの原因はデザインでは」 建設費用は当初の3倍の646億円に 複合施設めぐり市民団体設立&nbsp;&nbsp;TBS NEWS DIG",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5QNzVwMXpNOEI2VTljbWF0SGx6M0hwMjE5QVBUUjFKdDIydTM1Nl94czRVYU9fc2VGak1yRkE1d3Y3OFh2WHptaUZ0eWxwak5GdGNtWTVMNA?oc=5",
       "source": "news",
       "sourceName": "TBS NEWS DIG",
       "date": "2026-08-11",
@@ -4001,31 +4028,6 @@
       "keywords": [
         "施設",
         "再編"
-      ]
-    },
-    {
-      "id": "072c8a758284",
-      "title": "堺市、元堺消防署用地活用事業 公共施設整備設計来年１月発注へ",
-      "summary": "堺市、元堺消防署用地活用事業 公共施設整備設計来年１月発注へ&nbsp;&nbsp;日刊建産速報",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5ISTNuSU1NTThmT0dKZ2JsdU96Qjd6MUlxSjk1WHRTemszSlZLeVg0TUw1a0lKM3B6MnZjUTlac2w5UFpRdndPcUQxT2xMcFNXTzRJ?oc=5",
-      "source": "news",
-      "sourceName": "日刊建産速報",
-      "date": "2026-07-06",
-      "keywords": [
-        "施設",
-        "整備"
-      ]
-    },
-    {
-      "id": "92a10e661d5d",
-      "title": "全建／片山財務相らに「骨太の方針」策定で緊急要望／補正・当初上回る公共事業予算を",
-      "summary": "全建／片山財務相らに「骨太の方針」策定で緊急要望／補正・当初上回る公共事業予算を&nbsp;&nbsp;日刊建設工業新聞",
-      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFB1ajVKc3JhcUtjYmpjMERtYUNwdHdVb1ZZZjRDaURTemZ0dENxSTdTekd6bVh4T1I3RHJXVV8teEdJREFaQ3Rj?oc=5",
-      "source": "news",
-      "sourceName": "日刊建設工業新聞",
-      "date": "2026-07-06",
-      "keywords": [
-        "建設"
       ]
     }
   ]
