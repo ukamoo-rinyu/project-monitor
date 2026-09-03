@@ -1,7 +1,21 @@
 {
-  "updatedAt": "2026-09-03 08:50",
+  "updatedAt": "2026-09-04 08:45",
   "count": 300,
   "articles": [
+    {
+      "id": "7289136a0b0b",
+      "title": "愛称は「飯倉の杜」/港区の旧飯倉小跡地複合施設公共施設棟",
+      "summary": "愛称は「飯倉の杜」/港区の旧飯倉小跡地複合施設公共施設棟&nbsp;&nbsp;建設通信新聞Digital",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBnOWhyaUhfMGpWeU9yMWpNSzhGTUY1ckhEYlVEMHFoUUNmZXFmeVdoMWQ5b08tTDRLXzlFMTRDV3NoVl9sZGM3Z0FMMjl1MWY1cnJlaEk0S3k?oc=5",
+      "source": "news",
+      "sourceName": "建設通信新聞Digital",
+      "date": "2026-09-04",
+      "keywords": [
+        "施設",
+        "複合",
+        "建設"
+      ]
+    },
     {
       "id": "f674dac5d870",
       "title": "地域建設会社、受注状況「悪化」傾向続く／技術者不足で見送りも／全建調査",
@@ -12,6 +26,18 @@
       "date": "2026-09-03",
       "keywords": [
         "建設"
+      ]
+    },
+    {
+      "id": "d69863a3c474",
+      "title": "小金井市 新庁舎の整備方針見直し 設計から再検討 着工は30年度以降",
+      "summary": "小金井市 新庁舎の整備方針見直し 設計から再検討 着工は30年度以降&nbsp;&nbsp;建通新聞",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPaGVIV2VCdWFxVFR1czNXTkJrem1aT1FzWkxtbWtEUjZxcGFRbzVXQTNIZFE2SHhsaUtWWkVwa3p0T3VycUFPby1sMWZjVXd4ZGk4bUI3bjhFTUVrYVhvWmExSmRlaWZYYXVjNUhnRkMzYUZKZTJSWVpBTmg4a1V3dA?oc=5",
+      "source": "news",
+      "sourceName": "建通新聞",
+      "date": "2026-09-03",
+      "keywords": [
+        "整備"
       ]
     },
     {
@@ -67,6 +93,19 @@
       ]
     },
     {
+      "id": "d5001da7939b",
+      "title": "「スターバックスコーヒー川崎等々力店」2026年11月末オープン決定、等々力緑地再編整備の正面広場店舗エリア完成と同時期",
+      "summary": "「スターバックスコーヒー川崎等々力店」2026年11月末オープン決定、等々力緑地再編整備の正面広場店舗エリア完成と同時期&nbsp;&nbsp;武蔵小杉ブログ（武蔵小杉ライフ 公式ブログ）",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9vTzZSSVlXVVlVS0tMdDRlMEVLdFppUktaT0h5UjgwaTZhXzlUcDNrZ0kyaDNsclJIZVhhNjNFOVoyOVNTWVhFcHZ3Y2JKYVBHSUpoeG1JUzk5MHB5U1E?oc=5",
+      "source": "news",
+      "sourceName": "武蔵小杉ブログ（武蔵小杉ライフ 公式ブログ）",
+      "date": "2026-09-02",
+      "keywords": [
+        "再編",
+        "整備"
+      ]
+    },
+    {
       "id": "e5ca78e8c62a",
       "title": "ともに考える公共施設のこれから（R8年度）",
       "summary": "ともに考える公共施設のこれから（R8年度）&nbsp;&nbsp;city.takasago.lg.jp",
@@ -115,6 +154,18 @@
       "date": "2026-09-01",
       "keywords": [
         "建設"
+      ]
+    },
+    {
+      "id": "ae5bd129d43a",
+      "title": "県内におけるPPPとPFIについて／ビジネスキャッチー",
+      "summary": "県内におけるPPPとPFIについて／ビジネスキャッチー&nbsp;&nbsp;ｄメニューニュース",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5rZVNDRm5HLXVJSXB6QzVaTE5TNXpqQ2VUQ1JfZXNmUkwtUkdENEIyemdSUmJaN0Z6M202RVZURXh0VUpmWDY0TnlPd3lnanBmRmRnSUduejFLQ2lzakZFbm5qb0RXX2pYa193WnVDYWF1RmPSAXNBVV95cUxOa2VTQ0ZuRy11SUlwekM1WkxOUzV6akNlVENSX2VzZlJMLVJHRDRCMnpnUlJiWjdGejNtNkVWVEV4dFVKZlg2NE55T3d5Z2pwZkZkZ0lHbnoxS0Npc2pGRW5uam9EV19qWGtfd1p1Q2FhdUZj?oc=5",
+      "source": "news",
+      "sourceName": "ｄメニューニュース",
+      "date": "2026-09-01",
+      "keywords": [
+        "PFI"
       ]
     },
     {
@@ -278,10 +329,10 @@
     {
       "id": "4e4da2aaf821",
       "title": "フランスとサウジアラビアがパリ郊外に「ドラゴンボール」関連の巨大複合施設建設へ合意",
-      "summary": "フランスとサウジアラビアがパリ郊外に「ドラゴンボール」関連の巨大複合施設建設へ合意&nbsp;&nbsp;tokyonewsmedia.com",
+      "summary": "フランスとサウジアラビアがパリ郊外に「ドラゴンボール」関連の巨大複合施設建設へ合意&nbsp;&nbsp;東京報道新聞",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1IRFk4aTdQMjE2aEZya1lVTjNfYlZ3azljb28yZ1F3bi16aXVraENycmQtbmZhbW01Q1BxbUVKZEpHcFZjU3BNb1FMUWN0TTRfbjZB?oc=5",
       "source": "news",
-      "sourceName": "tokyonewsmedia.com",
+      "sourceName": "東京報道新聞",
       "date": "2026-08-26",
       "keywords": [
         "施設",
@@ -313,6 +364,21 @@
       "date": "2026-08-26",
       "keywords": [
         "施設"
+      ]
+    },
+    {
+      "id": "f1a9e969b842",
+      "title": "公共施設整備に41億円 信篤地域の公民館や図書館集約（市川市補正予算）",
+      "summary": "公共施設整備に41億円 信篤地域の公民館や図書館集約（市川市補正予算）&nbsp;&nbsp;日本建設新聞社",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1NRzhLTXVLTFNKdDhzRzMwTTNoSXpnMVA1aVV2YWZiU1YxOXQ5d18zcmp4QU55V1BIT0JyMWVaNEFKbW5ta3Q0X0p6MDJfa3Vt?oc=5",
+      "source": "news",
+      "sourceName": "日本建設新聞社",
+      "date": "2026-08-26",
+      "keywords": [
+        "施設",
+        "集約",
+        "整備",
+        "建設"
       ]
     },
     {
@@ -592,10 +658,10 @@
     {
       "id": "429ee75f772b",
       "title": "須賀川市の公共施設再編 １０月に住民説明会 維持困難７割に 具体案提示へ",
-      "summary": "須賀川市の公共施設再編 １０月に住民説明会 維持困難７割に 具体案提示へ&nbsp;&nbsp;47news.jp",
+      "summary": "須賀川市の公共施設再編 １０月に住民説明会 維持困難７割に 具体案提示へ&nbsp;&nbsp;47NEWS",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFA1MWNQdkxLSWZadV9rajJiZmkyR3hfelpNdTJmRl92Wm45RDdWYWV0UW9OcTJQVzhYM0hDLXdZZFJLOXY1S25ZdDBYcw?oc=5",
       "source": "news",
-      "sourceName": "47news.jp",
+      "sourceName": "47NEWS",
       "date": "2026-08-22",
       "keywords": [
         "施設",
@@ -724,10 +790,10 @@
     {
       "id": "db637c63bf63",
       "title": "豊岡小再編整備 複合施設、事業者が決定 30年秋の供用開始へ",
-      "summary": "豊岡小再編整備 複合施設、事業者が決定 30年秋の供用開始へ&nbsp;&nbsp;townnews.co.jp",
+      "summary": "豊岡小再編整備 複合施設、事業者が決定 30年秋の供用開始へ&nbsp;&nbsp;タウンニュース",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9EcllGTTJtWUVtMGRKN0l0ZlBzSFdzVGhvM1Bhd0lweVlUaVBibnZSZUZiZUNxR3FHZkF3OXYyM25yaDEtMW0zOE1kOHZ6VDA4X1U4dGw3N25LTkJodXNUaDk0SXo?oc=5",
       "source": "news",
-      "sourceName": "townnews.co.jp",
+      "sourceName": "タウンニュース",
       "date": "2026-08-20",
       "keywords": [
         "施設",
@@ -875,6 +941,19 @@
       ]
     },
     {
+      "id": "81b87318f94d",
+      "title": "大東建託、まちづくり事業に参入 富山県に住宅と商業併設の複合施設",
+      "summary": "大東建託、まちづくり事業に参入 富山県に住宅と商業併設の複合施設&nbsp;&nbsp;日本経済新聞",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBtcjNOY21tNGhzSnVsVm5rbm5lbkxLc0xpZ3N6UmJGeEZYYi0zVFBnNlVtZVVqWHFPRFZpUGUwSkNJMldxbWNsOE5GdlBMZmQwRVB0TFVxSFlBTmtDOF80MmJ5clgwbTdhbzNaWQ?oc=5",
+      "source": "news",
+      "sourceName": "日本経済新聞",
+      "date": "2026-08-20",
+      "keywords": [
+        "施設",
+        "複合"
+      ]
+    },
+    {
       "id": "636c6dc92fa4",
       "title": "集約化・多機能化に多くの支持 須賀川市の公共施設維持アンケート調査",
       "summary": "集約化・多機能化に多くの支持 須賀川市の公共施設維持アンケート調査&nbsp;&nbsp;阿武隈時報社",
@@ -1009,6 +1088,18 @@
         "施設",
         "複合",
         "建設"
+      ]
+    },
+    {
+      "id": "f7f151c42523",
+      "title": "鎌倉市どうなる深沢新庁舎？8月17日開催の第1回新庁舎等整備手法検討会議の内容は",
+      "summary": "鎌倉市どうなる深沢新庁舎？8月17日開催の第1回新庁舎等整備手法検討会議の内容は&nbsp;&nbsp;選挙ドットコム",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5KX2NHUE1yekxTQjdHSk1OZmV3RHFRNzN4SE9SYnhpOUxxSFk0VW85TGVtYno1OUloeHNfajNmSXd3QTBGd3VkTmZMQUhrc3pTNHJoRkxOSEw4SVBzdEZj?oc=5",
+      "source": "news",
+      "sourceName": "選挙ドットコム",
+      "date": "2026-08-19",
+      "keywords": [
+        "整備"
       ]
     },
     {
@@ -1399,6 +1490,18 @@
         "複合",
         "コスト",
         "建設"
+      ]
+    },
+    {
+      "id": "78820c88fc47",
+      "title": "声が届いたよ 市役所多機能トイレに配置図が掲示されました【倉敷市議会議員】2026.8.11",
+      "summary": "声が届いたよ 市役所多機能トイレに配置図が掲示されました【倉敷市議会議員】2026.8.11&nbsp;&nbsp;選挙ドットコム",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBkZ01oc2ZGdlNKVEVLWTNSSERxSjd5OG1WMWlCa3RLNklKaDR5X3JWRmliU291bE1VOThzYTJtZnFtSm11TDZXaWJvWjlScHZ6VmJkN2FfWGVtVWJFUkE?oc=5",
+      "source": "news",
+      "sourceName": "選挙ドットコム",
+      "date": "2026-08-11",
+      "keywords": [
+        "多機能"
       ]
     },
     {
@@ -2001,6 +2104,18 @@
       ]
     },
     {
+      "id": "9513639cff0b",
+      "title": "【東大和市の公共施設が変わる？ あなたの声を聞かせてください❗️】東大和市では、施設の老朽化や...",
+      "summary": "【東大和市の公共施設が変わる？ あなたの声を聞かせてください❗️】東大和市では、施設の老朽化や...&nbsp;&nbsp;選挙ドットコム",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBZRG5ETWJ2V3JZLWRVYWFrMC1xcjVJYVF6MGdHWE45bFRZalRicFlmUUQ1SkpXd1kyV001UEMzYUszS0J2dWNCajBnM3ZXN2pJNUFteXYtdzBEWFJOZUE?oc=5",
+      "source": "news",
+      "sourceName": "選挙ドットコム",
+      "date": "2026-08-05",
+      "keywords": [
+        "施設"
+      ]
+    },
+    {
       "id": "0b9635caaf17",
       "title": "ドリームホーム・リバーサイド・アパートメント複合施設の建設が停滞、ホーチミン市建設局が介入。",
       "summary": "ドリームホーム・リバーサイド・アパートメント複合施設の建設が停滞、ホーチミン市建設局が介入。&nbsp;&nbsp;Vietnam.vn",
@@ -2110,14 +2225,28 @@
     {
       "id": "571576b60fe0",
       "title": "門司港複合施設、北九州市が愛称募集 2027年度末完成",
-      "summary": "門司港複合施設、北九州市が愛称募集 2027年度末完成&nbsp;&nbsp;nishinippon.co.jp",
+      "summary": "門司港複合施設、北九州市が愛称募集 2027年度末完成&nbsp;&nbsp;西日本新聞me",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1wMzlkOTBXeENKcVB0RFpqV3dZb1hsLTBGY2VrNVFvQi1maFhkNUltY0pHVU1BZ3hNQ2JPSEJSNWU5ZlJPY0dpMW9URkpsZGJ0dFRkbkhR?oc=5",
       "source": "news",
-      "sourceName": "nishinippon.co.jp",
+      "sourceName": "西日本新聞me",
       "date": "2026-08-04",
       "keywords": [
         "施設",
         "複合"
+      ]
+    },
+    {
+      "id": "03dc17df3779",
+      "title": "手柄山スポーツ施設整備運営事業（PFI事業）に関する資料等の公表",
+      "summary": "手柄山スポーツ施設整備運営事業（PFI事業）に関する資料等の公表&nbsp;&nbsp;city.himeji.lg.jp",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB2MWl2UHcwR2VvYzR5b0ZzemN2a3dOcnMwLVBxMXozdE83TDg2blBNTnpsbmxMTWFkMFZZSzAzLXJPX1dGazFELV9TZ3huTzV6U2psSGx0NDhrS3d6RUgxak93?oc=5",
+      "source": "news",
+      "sourceName": "city.himeji.lg.jp",
+      "date": "2026-08-04",
+      "keywords": [
+        "施設",
+        "整備",
+        "PFI"
       ]
     },
     {
@@ -2184,6 +2313,19 @@
       "date": "2026-08-03",
       "keywords": [
         "PFI"
+      ]
+    },
+    {
+      "id": "d29b6a2399aa",
+      "title": "九龍倉、シンガポールの複合施設売却",
+      "summary": "九龍倉、シンガポールの複合施設売却&nbsp;&nbsp;nna.jp",
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9XN3A5c2JwVnVWcXg0dTNCbmtVSUVSWkppQXV0SzUtcVNKV1dxY0VCRTlfWnZjYXlPMGxObkNLWW05MGJkR3c?oc=5",
+      "source": "news",
+      "sourceName": "nna.jp",
+      "date": "2026-08-03",
+      "keywords": [
+        "施設",
+        "複合"
       ]
     },
     {
@@ -3824,6 +3966,18 @@
       ]
     },
     {
+      "id": "d7a2b5685710",
+      "title": "市内施設見学その4（粕川地区の公共施設）",
+      "summary": "市内施設見学その4（粕川地区の公共施設）&nbsp;&nbsp;公明党",
+      "url": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxNMWxnaE1rM2NHdGdVRmRjR0dKUm1kekF1SmtNTVZyYUcwZ2JvbU83RkVLdDRsVjJ4OG1BMm5LcTVlT19rbjE0Y1BCT2VZREM0RkxTN05FcFdFdmV0d0pRTG4tVnlySlYtWUlKUkRGTEttdHVRdm45Wm52d2lQcms2RGVCTEdqRVE0TXhnaEYxSnlOVkNJM18tckhsR0tJWDdKcDFnWHJ0NWp0bkRjb2JKdVBsdXdzekw1RHNqaUVhRkpHTUZTNEs3b3JNZEdfUlRMQXh1TDhQei1idlVRWXR0WjRPdlhNSHdHYzh0eFFxakZBOUU3MXl1MVFYTk9VbVJrUmVGRGVSWnNSVlJPZHdrU0Mwc0tmZzVlNGpDejlOS0FocWxsb1RnVExuMmlGVl9ZZWVqOVZTZkt2TVB3Z01lZWVPaWV0c0dWQl9nMmpUYnpFNXM0QkE?oc=5",
+      "source": "news",
+      "sourceName": "公明党",
+      "date": "2026-07-13",
+      "keywords": [
+        "施設"
+      ]
+    },
+    {
       "id": "befc761f9081",
       "title": "【住みここち駅ランキング2026】人口増加中のホットな街・桑園が1位！6年連続王者の円山に競り勝つ＿\"スーパー・駅・学校・病院\"が徒歩圏内でファミリー層や子育て世帯に人気＿複合施設も建設進む＿北海道",
       "summary": "【住みここち駅ランキング2026】人口増加中のホットな街・桑園が1位！6年連続王者の円山に競り勝つ＿\"スーパー・駅・学校・病院\"が徒歩圏内でファミリー層や子育て世帯に人気＿複合施設も建設進む＿北海道&nbsp;&nbsp;UHB 北海道文化放送",
@@ -3838,6 +3992,18 @@
       ]
     },
     {
+      "id": "6e721d2c158c",
+      "title": "豊橋市新球場計画「危険な場所になぜ」 海沿い施設、法廷闘争へ ／愛知",
+      "summary": "豊橋市新球場計画「危険な場所になぜ」 海沿い施設、法廷闘争へ ／愛知&nbsp;&nbsp;毎日新聞",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9ya3BLbWQ2d1ZsdWFXOFduNVBxVG9GWFFQNnYydHFNcjRmNHVGMGM1QjNYNjVybzJsaVNPUHJ5V2VSeE50bS1RNUVtUEMwRXR1NThveGRjRTRyVVp5OEhxTy16S25mN3F1?oc=5",
+      "source": "news",
+      "sourceName": "毎日新聞",
+      "date": "2026-07-12",
+      "keywords": [
+        "施設"
+      ]
+    },
+    {
       "id": "584a61f0e188",
       "title": "豊橋の球場建設、反対住民ら提訴へ 「海沿いの公共施設整備」論点に (毎日新聞)",
       "summary": "豊橋の球場建設、反対住民ら提訴へ 「海沿いの公共施設整備」論点に (毎日新聞)&nbsp;&nbsp;Yahoo!ニュース",
@@ -3849,182 +4015,6 @@
         "施設",
         "整備",
         "建設"
-      ]
-    },
-    {
-      "id": "06c8c55266a9",
-      "title": "豊橋の球場建設、反対住民ら提訴へ 「海沿いの公共施設整備」論点に",
-      "summary": "豊橋の球場建設、反対住民ら提訴へ 「海沿いの公共施設整備」論点に&nbsp;&nbsp;au Webポータル",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5rU011TWFQaHotOEtYUUYxZ2Fqa0FKdDhPLVVJRzNacVNnRXNQbWF5WTFsNFBIVVJVcVQ0QWJLUHR1Y3NlNzBkcUFMeWZLSWVnY2ZnWGVBWTEya1A1MGNGSTZYY2RkSFl6OGk1ajJ3aHBwRzZuTHJRNFFpYw?oc=5",
-      "source": "news",
-      "sourceName": "au Webポータル",
-      "date": "2026-07-11",
-      "keywords": [
-        "施設",
-        "整備",
-        "建設"
-      ]
-    },
-    {
-      "id": "41ac93d3fa4d",
-      "title": "ハノイの100年計画：首都には5つの多機能医療複合施設が建設され、多くの新しい病院が建設される予定だ。",
-      "summary": "ハノイの100年計画：首都には5つの多機能医療複合施設が建設され、多くの新しい病院が建設される予定だ。&nbsp;&nbsp;Vietnam.vn",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRUIxbzlRQmpTNmNxZUszQjdjcFQ3NDNzelVQQmZDYlIwZURCdDFQZ2J6RDJSWjFYaVFsbU41VzJNUXhCSG1lUE42dDl3TGtyaXVQc3Fsb2JmbUxrWEhFUHU1OGlMVDZOckRfa2o5N1dLZE5iSTFmdko0MGZoSDVoRTJwaV9hVHMyRWV6YlltbmtTUFVsR2xFcXMtdVJYekhfa3VLV2NxSl8wUlp1dnJCVXB3?oc=5",
-      "source": "news",
-      "sourceName": "Vietnam.vn",
-      "date": "2026-07-11",
-      "keywords": [
-        "施設",
-        "複合",
-        "多機能",
-        "建設"
-      ]
-    },
-    {
-      "id": "1cb03fd06c7e",
-      "title": "豊橋の球場建設、反対住民ら提訴へ 「海沿いの公共施設整備」論点に（毎日新聞）",
-      "summary": "豊橋の球場建設、反対住民ら提訴へ 「海沿いの公共施設整備」論点に（毎日新聞）&nbsp;&nbsp;Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9mckw2VmwxSlhCWkVlM25sUkphSUswdmp3elFqUlQwYllzUzZ0V015X1hWSU5wVUdxU2sxcEgxcVliTG0zcEo1TDFoZk1sRjlXbThmN2tISEJsaGR3VUFENVpUbHlUSmtsOXMwWHNPdlF1ZEg1VDdvTnY3akxyOW8?oc=5",
-      "source": "news",
-      "sourceName": "Yahoo!ニュース",
-      "date": "2026-07-11",
-      "keywords": [
-        "施設",
-        "整備",
-        "建設"
-      ]
-    },
-    {
-      "id": "6d4c03bec2c8",
-      "title": "豊橋の球場建設、反対住民ら提訴へ 「海沿いの公共施設整備」論点に",
-      "summary": "豊橋の球場建設、反対住民ら提訴へ 「海沿いの公共施設整備」論点に&nbsp;&nbsp;毎日新聞",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5uQWdheDlLaHdtaEMyeG5BMjl2X1g4eTZDQnY3b2VjV2FtRVN0NjhWbHd5cE1iMV9wNDJVMjQ2cm9tRkgwdTh1c3VDc1hENF9nVnlMN3hKSng1cGdLSW1uek5xNlBueS1D?oc=5",
-      "source": "news",
-      "sourceName": "毎日新聞",
-      "date": "2026-07-11",
-      "keywords": [
-        "施設",
-        "整備",
-        "建設"
-      ]
-    },
-    {
-      "id": "e3644ec3e409",
-      "title": "Hanwha Qcells、米アリゾナ州に「汝矣島の22倍」規模の再エネ複合施設を建設へ",
-      "summary": "Hanwha Qcells、米アリゾナ州に「汝矣島の22倍」規模の再エネ複合施設を建設へ&nbsp;&nbsp;BigGo ファイナンス",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA0QnlCblg0dWRkVEozQ2gzcm8xZktrTF93cFFZNjdXcHo0cWdzYjdBbkRRbFp6SDhOeU05OWpMMHNYbUJqNmhIWUNBNm9BWE5UV2Q4aE5pcFdOamRLUG9mSTBvVDZ0TkdUQXZqYnIwR1pjNzRV?oc=5",
-      "source": "news",
-      "sourceName": "BigGo ファイナンス",
-      "date": "2026-07-10",
-      "keywords": [
-        "施設",
-        "複合",
-        "建設"
-      ]
-    },
-    {
-      "id": "2e53261dca89",
-      "title": "公共施設の太陽光発電事業、プロポ公告",
-      "summary": "公共施設の太陽光発電事業、プロポ公告&nbsp;&nbsp;建設通信新聞Digital",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE83X2JvVkhHOUVSeHo2OXZ5T1I1bnlkVTFUUVBNN1hWZUJNREJodkx1Q051T0MzcHJHcjlfOTlNbFQyRkNhczN1a3k0WkY3UXhacFc5VXN3?oc=5",
-      "source": "news",
-      "sourceName": "建設通信新聞Digital",
-      "date": "2026-07-10",
-      "keywords": [
-        "施設",
-        "建設"
-      ]
-    },
-    {
-      "id": "31811e36edf2",
-      "title": "神奈川県公共施設等総合管理計画",
-      "summary": "神奈川県公共施設等総合管理計画&nbsp;&nbsp;pref.kanagawa.jp",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1XSWNNX0pJa3ZpUDgzSWJjeWdGQThMeFQ5bV85TnJlOFhSblNsQThYMm1TbTJfRFE3MmR1cmtTTTB5WGp1bnJKZ1QxUGNmZWw0b2ZtNVBkS2pYeXpDUGlMYVBGSUdjYmpQbTlpNjFHY2x0bHpX?oc=5",
-      "source": "news",
-      "sourceName": "pref.kanagawa.jp",
-      "date": "2026-07-10",
-      "keywords": [
-        "施設"
-      ]
-    },
-    {
-      "id": "dd0e0c40debe",
-      "title": "ハノイ市は、都心部の混雑緩和のため、5つの主要医療複合施設を建設する計画だ。",
-      "summary": "ハノイ市は、都心部の混雑緩和のため、5つの主要医療複合施設を建設する計画だ。&nbsp;&nbsp;Vietnam.vn",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQTW1BM3ZNYl9iR0dDZGtFSGZIOWVtY21CRllDeDV0REY3YndaaGNXME91VXFPS2N1ampqR2FkV2d3MmdwcEVCMmJuV285YXYwRE81dDg5RHhfZjNqZzJ3aXV2OVEtNjY4U0pBZHpzOXUxcTF2cERac0ZjZWtRX1pyRmd6QS1rYWoyRDZtUWdDQ05CczFU?oc=5",
-      "source": "news",
-      "sourceName": "Vietnam.vn",
-      "date": "2026-07-09",
-      "keywords": [
-        "施設",
-        "複合",
-        "建設"
-      ]
-    },
-    {
-      "id": "7822878a70a6",
-      "title": "藤井寺市 市民病院跡地に複合施設 基本設計に本年度着手",
-      "summary": "藤井寺市 市民病院跡地に複合施設 基本設計に本年度着手&nbsp;&nbsp;建通新聞",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOaWZGSURmSXEyc2QtdlRPNXFZWHk1cTg2alQ2aGluc3M2eFo3bmRvbmtiMUd0YURkNVRVYlZ1NWlnZnQwWjYwZ1VFazd4b1pRMFYzQmhpLVdZbkJnbnF0NlFtYlVFQzlTS0phUDZzem81blNJb25vaElTQmRxM0VWTg?oc=5",
-      "source": "news",
-      "sourceName": "建通新聞",
-      "date": "2026-07-09",
-      "keywords": [
-        "施設",
-        "複合"
-      ]
-    },
-    {
-      "id": "999c45813dde",
-      "title": "羽村市 公共施設再配置構想案 松林小と武蔵野小、羽村第三中と第二中を統合",
-      "summary": "羽村市 公共施設再配置構想案 松林小と武蔵野小、羽村第三中と第二中を統合&nbsp;&nbsp;建通新聞",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPa1lQUUFHR2ZRLWcwWEhPN2Z0QUYtN2J1YlNDMGVSOG9NU0JtSFhHU3YyRGlicW00YlIwUnBUeXpOcnZ2MFA0YlVnY0czV193UlRGWXJLQktDaE1ZV0pGdUk0dkUzM3NYSnJUSkQzaU5DTEtCV0E4d1B3dE1PTlUyNA?oc=5",
-      "source": "news",
-      "sourceName": "建通新聞",
-      "date": "2026-07-09",
-      "keywords": [
-        "施設"
-      ]
-    },
-    {
-      "id": "d2e3aa4252a7",
-      "title": "ソックソン市は、多機能エンターテイメント複合施設および競馬場建設計画の詳細設計を承認した。",
-      "summary": "ソックソン市は、多機能エンターテイメント複合施設および競馬場建設計画の詳細設計を承認した。&nbsp;&nbsp;Vietnam.vn",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOME1DM0k2SllrbTd1dFozdDFlN0VibG5fV242cl9hR3ZlT18wbGFkYkJCaFpkUTN6bHZxdmFJdU56QXMxaHlVMGVmTGtDOFo0bGg1b2U5NlROQjJfQ2gyZTN3VVJpamVoR1Y4ZHk2RFRXUkhIMFB6WkNUc2h4S0JXRlRwT0N6V0tUTW1CUFZmQWJyLS15YXcxQTN1Y0oxUWxaUGM1X01KWlA1a3pqMWozN3JKeTJlZVVxM1ZjRw?oc=5",
-      "source": "news",
-      "sourceName": "Vietnam.vn",
-      "date": "2026-07-08",
-      "keywords": [
-        "施設",
-        "複合",
-        "多機能",
-        "建設"
-      ]
-    },
-    {
-      "id": "b72ac096bef3",
-      "title": "東村山・萩山小の再整備 迷走　運営方法不透明、コスト高騰、熊本・八代市の収賄影響",
-      "summary": "東村山・萩山小の再整備 迷走 運営方法不透明、コスト高騰、熊本・八代市の収賄影響&nbsp;&nbsp;ｄメニューニュース",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1rNFZwWEFrbDFaR2l1RDctblpCOTlGWHVBdzJmejk1bjhRTEF0cEljZTl3Q3UtdWJOc0Vkc2M3bTFGTjVIbVphMVdZNFFJZHpVVlE0NFFHaDFZWEtBajAwcmlEVGdNQnBzdVlvbDJ4a21kSHk4aWNTStIBeEFVX3lxTE1rNFZwWEFrbDFaR2l1RDctblpCOTlGWHVBdzJmejk1bjhRTEF0cEljZTl3Q3UtdWJOc0Vkc2M3bTFGTjVIbVphMVdZNFFJZHpVVlE0NFFHaDFZWEtBajAwcmlEVGdNQnBzdVlvbDJ4a21kSHk4aWNTSg?oc=5",
-      "source": "news",
-      "sourceName": "ｄメニューニュース",
-      "date": "2026-07-08",
-      "keywords": [
-        "整備",
-        "コスト"
-      ]
-    },
-    {
-      "id": "0b4a59e8ac39",
-      "title": "倉敷 公共施設再編で安全祈願祭 児島地区活性化の拠点に",
-      "summary": "倉敷 公共施設再編で安全祈願祭 児島地区活性化の拠点に&nbsp;&nbsp;山陽新聞",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSm5ZRU85ZXhDei1qNVBycGhuY3RSWk1VSktYSTF4a0c1alJsMDlLY0kzLVBEaWdPVGNqcTFCdzQta2pOZHVCZ3RyclRXOGUyQVRmeV95RjAzNy1LcEdaUERMbnBGNWlkU0dvUWZKZVZtM2N6NU02TkRnTUUzNHBkSGJLRW5YM3JZ?oc=5",
-      "source": "news",
-      "sourceName": "山陽新聞",
-      "date": "2026-07-08",
-      "keywords": [
-        "施設",
-        "再編"
       ]
     }
   ]
