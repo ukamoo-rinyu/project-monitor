@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-03 09:54",
+  "updatedAt": "2026-10-04 09:20",
   "count": 300,
   "articles": [
     {
@@ -9,19 +9,99 @@
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFA4WnpWSG1sZUxlaGQxRU1pdUZtWExDVGxjMVF6bGd4UWNsU0ItN1FIZW1lc3BJSkRPT0NrS0ZnODMxMUI0SHZkREJsY1dTdw?oc=5",
       "source": "news",
       "sourceName": "r-yuuki.jp",
-      "date": "2026-10-02",
+      "date": "2026-10-04",
       "keywords": [
         "施設",
         "多機能"
       ]
     },
     {
+      "id": "4195647ef965",
+      "title": "倉敷市 水島臨鉄栄駅前の公園拡張 公共施設再編合わせ にぎわい創出へ",
+      "summary": "倉敷市 水島臨鉄栄駅前の公園拡張 公共施設再編合わせ にぎわい創出へ&nbsp;&nbsp;47NEWS",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1uVmJzS0dnLXFRN0t2UDNwZmtGZ2k5b1hHTEZEOG9JYXZ4ZFFhejFQUmY5N0YwLTRXaEZnSThrX2JWa0ZuVXdMRklDYw?oc=5",
+      "source": "news",
+      "sourceName": "47NEWS",
+      "date": "2026-10-03",
+      "keywords": [
+        "施設",
+        "再編"
+      ]
+    },
+    {
+      "id": "982a649959d0",
+      "title": "倉敷市 水島臨鉄栄駅前の公園拡張 公共施設再編合わせ にぎわい創出へ",
+      "summary": "倉敷市 水島臨鉄栄駅前の公園拡張 公共施設再編合わせ にぎわい創出へ&nbsp;&nbsp;山陽新聞",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1MVFB1elVqdGhFVWZBZkhMSExFTm8yRDNxN1dRcFBLY2NXV3NGU050cENzOXVJMHZET2hzbjB4NEctWGROTkRfZkJBcU1zX2p5QU42QWN2ZjV2U3ZxaVdOUEd3?oc=5",
+      "source": "news",
+      "sourceName": "山陽新聞",
+      "date": "2026-10-03",
+      "keywords": [
+        "施設",
+        "再編"
+      ]
+    },
+    {
+      "id": "a1705986e0c2",
+      "title": "倉敷市 水島臨鉄栄駅前の公園拡張 公共施設再編合わせ にぎわい創出へ",
+      "summary": "倉敷市 水島臨鉄栄駅前の公園拡張 公共施設再編合わせ にぎわい創出へ&nbsp;&nbsp;山陽新聞",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1RbEF0SVBlYUFQdTg3dThpa1pUX055bndNc01YMFY1SG9KTm42ZXoyY21UVjRGdFI3dnpISnRWSm1pYzQySmRRODlCYzZobEc2ZWc?oc=5",
+      "source": "news",
+      "sourceName": "山陽新聞",
+      "date": "2026-10-03",
+      "keywords": [
+        "施設",
+        "再編"
+      ]
+    },
+    {
+      "id": "80991bc4d76f",
+      "title": "ハノイ市は、ゴックホイ駅の「超大型複合施設」構想を検討している。",
+      "summary": "ハノイ市は、ゴックホイ駅の「超大型複合施設」構想を検討している。&nbsp;&nbsp;Vietnam.vn",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNbkd2a1FsTTd5aFBaUmVDQWFReHlwdjNGRi1LZjVxSl9FSEMxaTY0d2ZQbk1CZ29sb2xMd2FnSHF2NEJTUHhTNTVvdkx0WV8xdkRWZi1KRmNJTTUwWVdwTmZ5MU0xdUJmOEZFa2RiTGJDaHlhclFJRnhZOWdHMlZvVXJIYw?oc=5",
+      "source": "news",
+      "sourceName": "Vietnam.vn",
+      "date": "2026-10-03",
+      "keywords": [
+        "施設",
+        "複合"
+      ]
+    },
+    {
+      "id": "6d27f67f28b8",
+      "title": "ハティン省は、ブンアンに医薬品生産複合施設を建設するために3260億ベトナムドン以上を投資している。",
+      "summary": "ハティン省は、ブンアンに医薬品生産複合施設を建設するために3260億ベトナムドン以上を投資している。&nbsp;&nbsp;Vietnam.vn",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOd1hUemRvZXhfRFRxUW1pZXB4VWJFSzVFQWpHc0RodV9LUzRsVXBSbVpNQkJoQmhjemJ3YUlIZHN2eW1WMmtJaEc4d0pCdnIzSzdoczh4RXAyTm14LTFLT2dFQVE1U3hyeUdTaE1kN254QnRtR09PbFFMS2h5dDJNYTMxQWtTWjZYVlN1TlU1dEM4SDNxQnJhb282NzVLVTRK?oc=5",
+      "source": "news",
+      "sourceName": "Vietnam.vn",
+      "date": "2026-10-03",
+      "keywords": [
+        "施設",
+        "複合",
+        "建設"
+      ]
+    },
+    {
+      "id": "e8409628ae2f",
+      "title": "ハティン省における総額3260億ベトナムドンを超える製薬工場複合施設建設計画が承認された。",
+      "summary": "ハティン省における総額3260億ベトナムドンを超える製薬工場複合施設建設計画が承認された。&nbsp;&nbsp;Vietnam.vn",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQdkgwVEtuLVU4dEpZbkFhb0FqNG40NURHdlMyTVgyTk9ONXdld1h4eGNBQ2Y3UlJjOWxKUVBFLUFGeUF3UFl5YnZ6S19EUUJYdGIwWFpLNnZ2ZUJ5WHBQSVE0QlBJODVab29MSEc2QUp0UkJ0SmFFY0JFUnlRNGUzTVNZM1VFZnZ0T3Vzcm9td3laQlh4VXFuMms2RmhBY1EtcS1v?oc=5",
+      "source": "news",
+      "sourceName": "Vietnam.vn",
+      "date": "2026-10-03",
+      "keywords": [
+        "施設",
+        "複合",
+        "建設"
+      ]
+    },
+    {
       "id": "539a687c3cec",
       "title": "近鉄郡山駅前の官民複合施設が建設フェーズへ！旧アスモ解体完了、マツゲン・キリン堂が入居 2028年10月15日開業へ",
-      "summary": "近鉄郡山駅前の官民複合施設が建設フェーズへ！旧アスモ解体完了、マツゲン・キリン堂が入居 2028年10月15日開業へ&nbsp;&nbsp;Re-urbanization -再都市化",
+      "summary": "近鉄郡山駅前の官民複合施設が建設フェーズへ！旧アスモ解体完了、マツゲン・キリン堂が入居 2028年10月15日開業へ&nbsp;&nbsp;saitoshika-west.com",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5sSnRMdzBZSS1fZm5TbHdlUUVVY0ZLRnFCOEo0bHdONjk1UEFfZzNDWVVsVGo5UGdzQXdLUmhWWEJSajEtVGdxeUY0Tk1nal9tN3JtT0QwWEZmRDgwM2c?oc=5",
       "source": "news",
-      "sourceName": "Re-urbanization -再都市化",
+      "sourceName": "saitoshika-west.com",
       "date": "2026-10-02",
       "keywords": [
         "施設",
@@ -34,6 +114,20 @@
       "title": "フー・トー省：住宅への影響のため、ヴィン・フー複合施設建設プロジェクトが中断された。",
       "summary": "フー・トー省：住宅への影響のため、ヴィン・フー複合施設建設プロジェクトが中断された。&nbsp;&nbsp;Vietnam.vn",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOWnVHT3V5bFA4QUl5UnFzM2FFVlAtRW1ZTVVsLVoxZkF4OFgwWW9NaXFPTHR4SVhDVEhrYl9tb2tmc2poU01QRGs4QzRCT24xeGZXMGE4SEx6dGFsMlpsVWgtSzVKeEszUWlHS0RjZ29qVVptRUphNWtKc1BlT0hjVTlZWTBTZldhVy0yV0FWQUt3QW1xY0w5Qmdmb2dIRGszcnZIYnNn?oc=5",
+      "source": "news",
+      "sourceName": "Vietnam.vn",
+      "date": "2026-10-02",
+      "keywords": [
+        "施設",
+        "複合",
+        "建設"
+      ]
+    },
+    {
+      "id": "58b168290452",
+      "title": "ランソン市は、総工費5000億ベトナムドンを超えるスポーツ複合施設の建設を加速させている。",
+      "summary": "ランソン市は、総工費5000億ベトナムドンを超えるスポーツ複合施設の建設を加速させている。&nbsp;&nbsp;Vietnam.vn",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZGI2ZEZoNndIcmJKM2VCZDdsTWNZTXcxNjc0SldEY2FRU3VveTJOZ1Z0bUs0WFdoQ013ZEhYMU9KY0Z5S0JFUnVCTDR0QzZwaHZqYnl3MnRYbkxGYUZGWnVYX1liazFXc21xSTloZXlLLU5OSTltbGZWODJETmZPVmRIR0c1NDlxeGlVU3N3?oc=5",
       "source": "news",
       "sourceName": "Vietnam.vn",
       "date": "2026-10-02",
@@ -93,6 +187,18 @@
         "施設",
         "複合",
         "建設"
+      ]
+    },
+    {
+      "id": "c73952d7dae5",
+      "title": "【福島市】公共施設管理計画「第２期」の課題",
+      "summary": "【福島市】公共施設管理計画「第２期」の課題&nbsp;&nbsp;政経東北",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBHM2J2Q0EwaTZNakhoR3VBTDFETkRpNF9ueEVCMHN0RnVJUkE2b3pVQ2FXOVZjVUowYkpoQ2U2Y0ZfLXpxNFRWVEl4bW9qc3gwR21mS2hMNG85VzFOVWlxR05QcnROb0N6cEVKNWtiQWM4LXJXQzM5elZzTUs?oc=5",
+      "source": "news",
+      "sourceName": "政経東北",
+      "date": "2026-10-01",
+      "keywords": [
+        "施設"
       ]
     },
     {
@@ -163,6 +269,19 @@
         "施設",
         "複合",
         "建設"
+      ]
+    },
+    {
+      "id": "73151dca4afa",
+      "title": "公共施設再編の取組状況について",
+      "summary": "公共施設再編の取組状況について&nbsp;&nbsp;city.fukaya.saitama.jp",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPd2g0czVyNFZ0S1R6RmIzVUNSQnVUZG9PZjhzZjZ5Nzl3TGNvWDRBbk5mdWlyYmRuOHdyUS14NmtrVmRYSjR3djFtbFprRUhxM1puclphYnVVZlZGZG45WGZWWWZsWjFiSDNMSDV3RW02NU9faVducUVXcWIyZzZuNFZ1VG9Zd19hZjh6NW5Zc2NhT1RYZVpMXzBhUQ?oc=5",
+      "source": "news",
+      "sourceName": "city.fukaya.saitama.jp",
+      "date": "2026-09-30",
+      "keywords": [
+        "施設",
+        "再編"
       ]
     },
     {
@@ -240,6 +359,35 @@
       "source": "news",
       "sourceName": "Vietnam.vn",
       "date": "2026-09-28",
+      "keywords": [
+        "施設",
+        "複合",
+        "建設"
+      ]
+    },
+    {
+      "id": "66dcb59b37e3",
+      "title": "倉敷・児島 短大など点在６施設を駅前に集約 市が複合施設整備に着手",
+      "summary": "倉敷・児島 短大など点在６施設を駅前に集約 市が複合施設整備に着手&nbsp;&nbsp;山陽新聞",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBhQnJKMHhPUW1QcGlyRksxem05WldJVlE1OWlIUkxQRWxxUElQT3p2Y0ctcFFIRkl4S09fbTFrSl92UzhQc0M5cmk0c0VDTDhxVWtJSmFrbk9Ta1BZS2cyc05kY2U5RmtoZnVIaC11NHNPeE4tX2VJ?oc=5",
+      "source": "news",
+      "sourceName": "山陽新聞",
+      "date": "2026-09-28",
+      "keywords": [
+        "施設",
+        "複合",
+        "集約",
+        "整備"
+      ]
+    },
+    {
+      "id": "ebf439d6f0ba",
+      "title": "岡山市中心部に複合施設建設 コバシＨＤ、飲食店や事務所誘致",
+      "summary": "岡山市中心部に複合施設建設 コバシＨＤ、飲食店や事務所誘致&nbsp;&nbsp;山陽新聞",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1zZnN5em9HM1pYU1hFb2x2TUFiMEkzSmlHd2lrdENyV2JSWUZVaDRGUTM2MTFxUlJoS0FzVVlHdGg0b1RYamtGUGJXRWc0c1hUTHlxNWRVZlgyNzdqbWlVQUViNVJlUHlRcF9iMFI3VnV6WUtTSFRR?oc=5",
+      "source": "news",
+      "sourceName": "山陽新聞",
+      "date": "2026-09-26",
       "keywords": [
         "施設",
         "複合",
@@ -924,10 +1072,10 @@
     {
       "id": "411a5e10a92e",
       "title": "三井不、ロンドンで大型再開発 大英図書館に複合施設建設",
-      "summary": "三井不、ロンドンで大型再開発 大英図書館に複合施設建設&nbsp;&nbsp;千葉テレビ放送株式会社",
+      "summary": "三井不、ロンドンで大型再開発 大英図書館に複合施設建設&nbsp;&nbsp;chiba-tv.com",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1hVkpEbzdJMnBaZ0RCRlhfdV9xMm12UlJOTzFvTHB1NEdXNkZFd0EyUnhDOER4XzcyalN5aVV5dXBvUFNUM1dFWG9rLXJDR1NpWFhZcHREdUhPRFhEbU1V?oc=5",
       "source": "news",
-      "sourceName": "千葉テレビ放送株式会社",
+      "sourceName": "chiba-tv.com",
       "date": "2026-09-22",
       "keywords": [
         "施設",
@@ -992,6 +1140,20 @@
       ]
     },
     {
+      "id": "4ab06f3b9b4b",
+      "title": "三井不、ロンドンで大型再開発 大英図書館に複合施設建設｜全国のニュース｜Web東奥",
+      "summary": "三井不、ロンドンで大型再開発 大英図書館に複合施設建設｜全国のニュース｜Web東奥&nbsp;&nbsp;東奥日報社",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB4aHNlNThtZmRNSDQxWXlRQUdtSFRjM3h4eWk1aWtSWFNHemFnMnFncUgtTHZsNmxIUzdPRjE2Y1dNbGlyQ1hkVlVkRG40NkdxYXp5RTRkNFU?oc=5",
+      "source": "news",
+      "sourceName": "東奥日報社",
+      "date": "2026-09-22",
+      "keywords": [
+        "施設",
+        "複合",
+        "建設"
+      ]
+    },
+    {
       "id": "7f8e154e005c",
       "title": "米首都に建設する凱旋門は「軍事施設兼用」、トランプ氏が表明　ドローンや狙撃手を配置すると",
       "summary": "米首都に建設する凱旋門は「軍事施設兼用」、トランプ氏が表明 ドローンや狙撃手を配置すると&nbsp;&nbsp;BBC",
@@ -1040,20 +1202,6 @@
       "date": "2026-09-20",
       "keywords": [
         "施設"
-      ]
-    },
-    {
-      "id": "ebf439d6f0ba",
-      "title": "岡山市中心部に複合施設建設 コバシＨＤ、飲食店や事務所誘致",
-      "summary": "岡山市中心部に複合施設建設 コバシＨＤ、飲食店や事務所誘致&nbsp;&nbsp;sanyonews.jp",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1zZnN5em9HM1pYU1hFb2x2TUFiMEkzSmlHd2lrdENyV2JSWUZVaDRGUTM2MTFxUlJoS0FzVVlHdGg0b1RYamtGUGJXRWc0c1hUTHlxNWRVZlgyNzdqbWlVQUViNVJlUHlRcF9iMFI3VnV6WUtTSFRR?oc=5",
-      "source": "news",
-      "sourceName": "sanyonews.jp",
-      "date": "2026-09-19",
-      "keywords": [
-        "施設",
-        "複合",
-        "建設"
       ]
     },
     {
@@ -2342,10 +2490,10 @@
     {
       "id": "e40163e30d11",
       "title": "大東建託が初の「街づくり」へ 高岡市で賃貸と福祉の木造複合施設を建設：プロジェクト",
-      "summary": "大東建託が初の「街づくり」へ 高岡市で賃貸と福祉の木造複合施設を建設：プロジェクト&nbsp;&nbsp;built.itmedia.co.jp",
+      "summary": "大東建託が初の「街づくり」へ 高岡市で賃貸と福祉の木造複合施設を建設：プロジェクト&nbsp;&nbsp;ITmedia",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFByT1FkbXBjdGY5SnNITzJGVEVlUXMxWERkYWJrZDN5VGF0RDNNRC12U24yVXBwcUNTZmItUi11akswTnR4NlNQbkFVVS1aUDJrVTNBT2ljOTl3enBLbFV1MzhyYlpJT2NuNW1XNA?oc=5",
       "source": "news",
-      "sourceName": "built.itmedia.co.jp",
+      "sourceName": "ITmedia",
       "date": "2026-08-25",
       "keywords": [
         "施設",
@@ -2776,8 +2924,8 @@
     },
     {
       "id": "db637c63bf63",
-      "title": "豊岡小再編整備 複合施設、事業者が決定 30年秋の供用開始へ | 鶴見区",
-      "summary": "豊岡小再編整備 複合施設、事業者が決定 30年秋の供用開始へ | 鶴見区&nbsp;&nbsp;タウンニュース",
+      "title": "豊岡小再編整備 複合施設、事業者が決定 30年秋の供用開始へ",
+      "summary": "豊岡小再編整備 複合施設、事業者が決定 30年秋の供用開始へ&nbsp;&nbsp;タウンニュース",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9EcllGTTJtWUVtMGRKN0l0ZlBzSFdzVGhvM1Bhd0lweVlUaVBibnZSZUZiZUNxR3FHZkF3OXYyM25yaDEtMW0zOE1kOHZ6VDA4X1U4dGw3N25LTkJodXNUaDk0SXo?oc=5",
       "source": "news",
       "sourceName": "タウンニュース",
@@ -3901,148 +4049,6 @@
       "keywords": [
         "施設",
         "建設"
-      ]
-    },
-    {
-      "id": "f89c80374db5",
-      "title": "公共施設の改修工事に関する指名競争入札で予定価格を教えた疑い 新見市の職員を逮捕【岡山】",
-      "summary": "公共施設の改修工事に関する指名競争入札で予定価格を教えた疑い 新見市の職員を逮捕【岡山】&nbsp;&nbsp;TBS NEWS DIG",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1OR1o2YmducTBhUVB2UjZUc2lrWmZHRl9ZN2pxN1dnZDVSQ2FvNzR2Y2JiZTJ2OEVYOU9NSTJydjF4RUF1eW9yend6c3VCc2tXelhVckxoUGp0Y0V2a0YwX1lNZDg?oc=5",
-      "source": "news",
-      "sourceName": "TBS NEWS DIG",
-      "date": "2026-08-06",
-      "keywords": [
-        "施設"
-      ]
-    },
-    {
-      "id": "0270cd66bb42",
-      "title": "財政逼迫と人口減少のなかで優良な公共施設だけを残すために（森本紀行） - エキスパート",
-      "summary": "財政逼迫と人口減少のなかで優良な公共施設だけを残すために（森本紀行） - エキスパート&nbsp;&nbsp;Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUkRKRzBBaGkyWnFrRnRMN1p3bjBmMW9zOXNFNEdsV3h4UWZEYWRlRWdJV04xOWNSZUJTYUIycHR6V2I1aHljM1YtVFJENlFMOGpHUG1jZHgyYThpMldLUXNyWlU1bi1LUkdDVm53RVJjT2ZYQUprMEFadl9DLWZsV2swR21kSWN6?oc=5",
-      "source": "news",
-      "sourceName": "Yahoo!ニュース",
-      "date": "2026-08-06",
-      "keywords": [
-        "施設"
-      ]
-    },
-    {
-      "id": "93e331c75c2c",
-      "title": "【豊岡小学校の建替え・複合施設整備が大きく前進しました】豊岡小学校の建替えに合わせ、小学校、鶴...",
-      "summary": "【豊岡小学校の建替え・複合施設整備が大きく前進しました】豊岡小学校の建替えに合わせ、小学校、鶴...&nbsp;&nbsp;選挙ドットコム",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1HbGxnNWpINTZidnpXNU9KcUhwZFZPLUFVOTNGSUNRdTVxZ25KZ21yeVFKaVpYUVdjUXZMWFJra2Mtc2NfQlRBbnZvUHJ5VnBzcXo2OWZ2Qi0zaEJZYTFF?oc=5",
-      "source": "news",
-      "sourceName": "選挙ドットコム",
-      "date": "2026-08-06",
-      "keywords": [
-        "施設",
-        "複合",
-        "整備"
-      ]
-    },
-    {
-      "id": "49aa4cfd3348",
-      "title": "大阪本町駅にオフィス／学校／ホテルの26階建て複合施設「yui-note honmachi」竣工、大成建設：プロジェクト",
-      "summary": "大阪本町駅にオフィス／学校／ホテルの26階建て複合施設「yui-note honmachi」竣工、大成建設：プロジェクト&nbsp;&nbsp;built.itmedia.co.jp",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE01Tjh0WHpISGlVdEFsS0NLRkwtb3BJaGpydVJhSVhMdjk0V0NtMi0tNUU4WUtCOGxZTHh4OGpBemh1RS1TUHNBQUllSWdxVGsyTXNXekdLd0ZSM2xEWkVuMExycW54dG1aZU1POA?oc=5",
-      "source": "news",
-      "sourceName": "built.itmedia.co.jp",
-      "date": "2026-08-06",
-      "keywords": [
-        "施設",
-        "複合",
-        "建設"
-      ]
-    },
-    {
-      "id": "20d1ac72d6f4",
-      "title": "医療法人徹慈会 沖野上クリニック跡地に複合施設計画",
-      "summary": "医療法人徹慈会 沖野上クリニック跡地に複合施設計画&nbsp;&nbsp;建通新聞",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOMDVrbVduN2ZfbUp6NnZMR05LQnlzaTgxdnk1ak9XZUJJTDRsT19MeXNySF9IdW1FZzlKQTFtRlhkSkUtdFEzSnlyMlZ0bUpSa1pFMGJ2dUtGRGw5cWNIZE5VdTJ0UnBYZjZzTFBGUy1OcUl1Ymg0MEdZVWhJUHpPbw?oc=5",
-      "source": "news",
-      "sourceName": "建通新聞",
-      "date": "2026-08-06",
-      "keywords": [
-        "施設",
-        "複合"
-      ]
-    },
-    {
-      "id": "f54c01046c20",
-      "title": "州立スポーツ複合施設の建設候補地3か所の調査。",
-      "summary": "州立スポーツ複合施設の建設候補地3か所の調査。&nbsp;&nbsp;Vietnam.vn",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOeVpFTEZaVUx3VllTSU1mWDFFSGoxVEMtT0ZuM1RDODN6OXJsaVdUQ01FMzJxUVZ6a3lEeG9SUEk3WDlFUXVLOVN2MmhuNXFrV1EzS2ZIeHFvVUhabFA5SnZKbjhmUmJyLTRVSTliUnZyRDJwY2R1LUtsYUFJUFdCNWxJNWpTbGxaaGFUTjRYakg?oc=5",
-      "source": "news",
-      "sourceName": "Vietnam.vn",
-      "date": "2026-08-06",
-      "keywords": [
-        "施設",
-        "複合",
-        "建設"
-      ]
-    },
-    {
-      "id": "74c6def46789",
-      "title": "なんば クボタ跡地 複合開発始動",
-      "summary": "なんば クボタ跡地 複合開発始動&nbsp;&nbsp;建通新聞",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNZFFiNlptMnFrclJ4UzhPaHNqR1AxZjNnZnZZLXhrZkdWZTByR0IzcHlCbnE0dzN2aUFKQjVvU01FVW94bEdmSXN4UEdTYVBRaWYtM3hhYmp6SHVha0ZrYXo0RmhkaW9rbUhIc25VWGltUDZpNG1RYmZJMWIxeDQxbg?oc=5",
-      "source": "news",
-      "sourceName": "建通新聞",
-      "date": "2026-08-06",
-      "keywords": [
-        "複合"
-      ]
-    },
-    {
-      "id": "6de173550b08",
-      "title": "倉敷 公共施設再編で安全祈願祭 児島地区活性化の拠点に",
-      "summary": "倉敷 公共施設再編で安全祈願祭 児島地区活性化の拠点に&nbsp;&nbsp;山陽新聞",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5sYXdZWlg4SUFoTTQzWFgybXFWU0FhbFdqM3V1R0NHMS1OVnZMdUphV0ZnaWJsa2tUdjdRaElmV2FCaGZ4MW1NbHU4Rk12aUpsUW9JX1ZZbmZ2Zjk2MXJxOS03R0JEZ0x5ZHc?oc=5",
-      "source": "news",
-      "sourceName": "山陽新聞",
-      "date": "2026-08-06",
-      "keywords": [
-        "施設",
-        "再編"
-      ]
-    },
-    {
-      "id": "2aa7262af25a",
-      "title": "公共施設の改修工事に関する指名競争入札で予定価格（約1億円）を教えた疑い 新見市の職員を逮捕 官製談合防止法違反容疑【岡山】",
-      "summary": "公共施設の改修工事に関する指名競争入札で予定価格（約1億円）を教えた疑い 新見市の職員を逮捕 官製談合防止法違反容疑【岡山】&nbsp;&nbsp;au Webポータル",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5PZ0VBU2hoTElKNnlLYks0OWNNaU52eVdsY2taUTBWTkVlck1jUU9xQkViREh4SFdYaWdKNTljU295Z055bkl2NHFHSTlPaEp1ZUZyVDBIRzh3QkpoaHV6OWIxWFhDM0duVHBWN3d4MHJuSm1qeU51YQ?oc=5",
-      "source": "news",
-      "sourceName": "au Webポータル",
-      "date": "2026-08-06",
-      "keywords": [
-        "施設"
-      ]
-    },
-    {
-      "id": "f652b3b983b8",
-      "title": "省人民委員会常任副委員長のグエン・ロン・ビエン氏が、省スポーツ複合施設の建設予定地を視察した。",
-      "summary": "省人民委員会常任副委員長のグエン・ロン・ビエン氏が、省スポーツ複合施設の建設予定地を視察した。&nbsp;&nbsp;Vietnam.vn",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOYzRtTXhzS0lBYnR5TWZ4dnlnbTQtaVhKS1R6eW4zQ0VMbmdTb0N6OWNKOFdOU1N6aUd6MFFkTW1rRjFCbWZxNEFXSEE4aFNtS2hjZDNHS3dna244ci1OUkN2MEZLa2JxclE2LTBrQmVyaWdKWm1VdmQ0RHF3WHFtWFV0STl4aWFteWdRSXlHTVVkcmdpNFBuTUdkd191S01JNnRXQ25QWUl2bmNkbEppdy0td291T3Z5YnFQZEpZOXB1SzhQSWRlUXkyOFQtaFhEUlpN?oc=5",
-      "source": "news",
-      "sourceName": "Vietnam.vn",
-      "date": "2026-08-06",
-      "keywords": [
-        "施設",
-        "複合",
-        "建設"
-      ]
-    },
-    {
-      "id": "74243e8b0232",
-      "title": "公共施設の改修工事に関する指名競争入札で予定価格（約1億円）を教えた疑い　新見市の職員を逮捕　官製談合防止法違反容疑【岡山】",
-      "summary": "公共施設の改修工事に関する指名競争入札で予定価格（約1億円）を教えた疑い 新見市の職員を逮捕 官製談合防止法違反容疑【岡山】&nbsp;&nbsp;Infoseek",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB6WWI1bVI4SlNmLWJERjJhbzBVQl9hSm1nM2pCUjZoUDlaa0xRVHg5TFJVYkpkeU02c0N4TDJ1b2hpYnVLYkVCMkJacXZfOW1VQXhSQU9vV3lhNklL0gFiQVVfeXFMUHhxVjZCTHdaQ2lEZ3ZUa3laanVkMU9xX0NxSXY2SWZBdzFLUW0yQWRJWG44MFJRbW5UQm1DcndiaUJFWllEYjlZbF9yVTMyZllFTUFST1dWbmYzZUVNMFJzNHc?oc=5",
-      "source": "news",
-      "sourceName": "Infoseek",
-      "date": "2026-08-06",
-      "keywords": [
-        "施設"
       ]
     }
   ]
