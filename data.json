@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-04 09:20",
+  "updatedAt": "2026-10-05 09:25",
   "count": 300,
   "articles": [
     {
@@ -9,7 +9,7 @@
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFA4WnpWSG1sZUxlaGQxRU1pdUZtWExDVGxjMVF6bGd4UWNsU0ItN1FIZW1lc3BJSkRPT0NrS0ZnODMxMUI0SHZkREJsY1dTdw?oc=5",
       "source": "news",
       "sourceName": "r-yuuki.jp",
-      "date": "2026-10-04",
+      "date": "2026-10-05",
       "keywords": [
         "施設",
         "多機能"
@@ -96,12 +96,38 @@
       ]
     },
     {
+      "id": "8858df0a5772",
+      "title": "倉敷市 水島臨鉄栄駅前の公園拡張 公共施設再編合わせ にぎわい創出へ",
+      "summary": "倉敷市 水島臨鉄栄駅前の公園拡張 公共施設再編合わせ にぎわい創出へ&nbsp;&nbsp;山陽新聞",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5PaUQzcFBQU0t5N1VWSWhDUWRtYWRqcHRFSnpqYlBDOVpuMTFwVmQ0akMzbVc5X1dtdWsyWjh0TERSSUVTQ2FyVHpGQk81djdTQ0JZYllzdjUzZnowMXhF?oc=5",
+      "source": "news",
+      "sourceName": "山陽新聞",
+      "date": "2026-10-03",
+      "keywords": [
+        "施設",
+        "再編"
+      ]
+    },
+    {
+      "id": "bef35e7f11a3",
+      "title": "倉敷市 水島臨鉄栄駅前の公園拡張 公共施設再編合わせ にぎわい創出へ",
+      "summary": "倉敷市 水島臨鉄栄駅前の公園拡張 公共施設再編合わせ にぎわい創出へ&nbsp;&nbsp;山陽新聞",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBaN29LZEFtdTk3a1cwV2hTcW16R2psV0MwRUlndDVId1RNR1dpa21pVm5rdHExUmR4YzB1eHFGTTRMWEp6NndGai1nbXAxVl9XbjNYQTNhZ2Z5eTA2QVl2Y21wRUtDS2pfUUNzdzVKNTZmVnRQcm9Z?oc=5",
+      "source": "news",
+      "sourceName": "山陽新聞",
+      "date": "2026-10-03",
+      "keywords": [
+        "施設",
+        "再編"
+      ]
+    },
+    {
       "id": "539a687c3cec",
       "title": "近鉄郡山駅前の官民複合施設が建設フェーズへ！旧アスモ解体完了、マツゲン・キリン堂が入居 2028年10月15日開業へ",
-      "summary": "近鉄郡山駅前の官民複合施設が建設フェーズへ！旧アスモ解体完了、マツゲン・キリン堂が入居 2028年10月15日開業へ&nbsp;&nbsp;saitoshika-west.com",
+      "summary": "近鉄郡山駅前の官民複合施設が建設フェーズへ！旧アスモ解体完了、マツゲン・キリン堂が入居 2028年10月15日開業へ&nbsp;&nbsp;Re-urbanization -再都市化",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5sSnRMdzBZSS1fZm5TbHdlUUVVY0ZLRnFCOEo0bHdONjk1UEFfZzNDWVVsVGo5UGdzQXdLUmhWWEJSajEtVGdxeUY0Tk1nal9tN3JtT0QwWEZmRDgwM2c?oc=5",
       "source": "news",
-      "sourceName": "saitoshika-west.com",
+      "sourceName": "Re-urbanization -再都市化",
       "date": "2026-10-02",
       "keywords": [
         "施設",
@@ -135,6 +161,19 @@
         "施設",
         "複合",
         "建設"
+      ]
+    },
+    {
+      "id": "69461aaad9d3",
+      "title": "県有施設、インフラの維持・更新費 今後４０年間２兆３８００億円必要 マネジメント方針案 県試算 小規模修理、統廃合でコスト圧縮図る",
+      "summary": "県有施設、インフラの維持・更新費 今後４０年間２兆３８００億円必要 マネジメント方針案 県試算 小規模修理、統廃合でコスト圧縮図る&nbsp;&nbsp;山陽新聞",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5mSzVob3o1N0VuQ1QwZ0lmLU13SGFoOVBjZjk5bGNhOVRQUDJ0M3hBTHZ4MVFSM0F2QUU0b0JHOEtvcDZETUE1ZFcyR05zejRMVUE?oc=5",
+      "source": "news",
+      "sourceName": "山陽新聞",
+      "date": "2026-10-02",
+      "keywords": [
+        "施設",
+        "コスト"
       ]
     },
     {
@@ -834,10 +873,10 @@
     {
       "id": "55258de9f283",
       "title": "【写真】三井不、ロンドンで大型再開発 大英図書館に複合施設建設",
-      "summary": "【写真】三井不、ロンドンで大型再開発 大英図書館に複合施設建設&nbsp;&nbsp;南日本新聞",
+      "summary": "【写真】三井不、ロンドンで大型再開発 大英図書館に複合施設建設&nbsp;&nbsp;373news.com",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1vWjdiaWc3SUlXcU16Q1lCMGVvVEg4R3J1eW9LVzh0TTNqSmdjMHV3d3daTERTS3hCSkRsYzRRLUpwYXB1dkhuNUhzamNuYmdvWjZISzQ3WjBWSUU0SzREY0Rxc2JDUTA?oc=5",
       "source": "news",
-      "sourceName": "南日本新聞",
+      "sourceName": "373news.com",
       "date": "2026-09-22",
       "keywords": [
         "施設",
@@ -988,10 +1027,10 @@
     {
       "id": "0082db0fa371",
       "title": "三井不、ロンドンで大型再開発 大英図書館に複合施設建設",
-      "summary": "三井不、ロンドンで大型再開発 大英図書館に複合施設建設&nbsp;&nbsp;niigata-nippo.co.jp",
+      "summary": "三井不、ロンドンで大型再開発 大英図書館に複合施設建設&nbsp;&nbsp;新潟日報",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9GRWx5bFJ1blVDV212cVBLRVo0S3A5OTJneUI2U09IRVdVR0tWQlh5NzExc2s2ZHNPREVUNnNzUnhvWVlEbHhNUmFOM3lCTjZGNEotUDhmWFdheHpLT0E?oc=5",
       "source": "news",
-      "sourceName": "niigata-nippo.co.jp",
+      "sourceName": "新潟日報",
       "date": "2026-09-22",
       "keywords": [
         "施設",
@@ -1058,10 +1097,10 @@
     {
       "id": "1f0355515c16",
       "title": "三井不、ロンドンで大型再開発 大英図書館に複合施設建設",
-      "summary": "三井不、ロンドンで大型再開発 大英図書館に複合施設建設&nbsp;&nbsp;NEWSjp",
+      "summary": "三井不、ロンドンで大型再開発 大英図書館に複合施設建設&nbsp;&nbsp;news.jp",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE81VE9ULWI4NnkxTEg2Z19CYWwyTVhxTXU2YnFPWlUtZm4wZkFQWVFmNDhkYTNJOEVtTWpXLVBQUi0xd1daS1BwcVdKVjUwUQ?oc=5",
       "source": "news",
-      "sourceName": "NEWSjp",
+      "sourceName": "news.jp",
       "date": "2026-09-22",
       "keywords": [
         "施設",
@@ -1072,10 +1111,10 @@
     {
       "id": "411a5e10a92e",
       "title": "三井不、ロンドンで大型再開発 大英図書館に複合施設建設",
-      "summary": "三井不、ロンドンで大型再開発 大英図書館に複合施設建設&nbsp;&nbsp;chiba-tv.com",
+      "summary": "三井不、ロンドンで大型再開発 大英図書館に複合施設建設&nbsp;&nbsp;千葉テレビ放送株式会社",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1hVkpEbzdJMnBaZ0RCRlhfdV9xMm12UlJOTzFvTHB1NEdXNkZFd0EyUnhDOER4XzcyalN5aVV5dXBvUFNUM1dFWG9rLXJDR1NpWFhZcHREdUhPRFhEbU1V?oc=5",
       "source": "news",
-      "sourceName": "chiba-tv.com",
+      "sourceName": "千葉テレビ放送株式会社",
       "date": "2026-09-22",
       "keywords": [
         "施設",
@@ -1175,6 +1214,20 @@
       "sourceName": "選挙ドットコム",
       "date": "2026-09-21",
       "keywords": [
+        "建設"
+      ]
+    },
+    {
+      "id": "9cebd2e7fae9",
+      "title": "三井不、ロンドンで大型再開発 大英図書館に複合施設建設",
+      "summary": "三井不、ロンドンで大型再開発 大英図書館に複合施設建設&nbsp;&nbsp;newspicks.com",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOb0pjZFhpZlhXRFJIUXVWb1FZck9PY2ZmWnYzWW5YM0xxcUs3WDJmMFl3bFdWbzRJR21CMWF2OWlzcG9CcGxWQWpqaG96UUdPMnBwc2IycjNwMVJwSnR1aEdCQ3piQjNuMHZjUW1hb1NjNnZmdlNmSHlRWHQ3Ti00WWkyWlJKalZNZ185bk1IUQ?oc=5",
+      "source": "news",
+      "sourceName": "newspicks.com",
+      "date": "2026-09-21",
+      "keywords": [
+        "施設",
+        "複合",
         "建設"
       ]
     },
@@ -1549,6 +1602,19 @@
       ]
     },
     {
+      "id": "dbf4c5214fd1",
+      "title": "本日開始！（仮称）東麻布二丁目複合施設公共施設棟の愛称を募集",
+      "summary": "本日開始！（仮称）東麻布二丁目複合施設公共施設棟の愛称を募集&nbsp;&nbsp;classy-online.jp",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBDQk1rdG9vY0ZyZ0FaZ09KTmgzdzZlRWRvTVpNU3cyYWMxNkZnSVM4aEI5bmE5ajA4anVQUk5RaDBLNFBoX29qZWlvbWt5MnMwdnJuT2Q0UQ?oc=5",
+      "source": "news",
+      "sourceName": "classy-online.jp",
+      "date": "2026-09-16",
+      "keywords": [
+        "施設",
+        "複合"
+      ]
+    },
+    {
       "id": "c0da4fb9abe2",
       "title": "米穀類施設 再編整備に着手 北ひびき農協 総事業費63億円 28年度供用 進む老朽化 悲願実現へ",
       "summary": "米穀類施設 再編整備に着手 北ひびき農協 総事業費63億円 28年度供用 進む老朽化 悲願実現へ&nbsp;&nbsp;北海道新聞デジタル",
@@ -1681,10 +1747,10 @@
     {
       "id": "f16efd0644de",
       "title": "建設費は概算298億円 新足利市庁舎などの複合施設",
-      "summary": "建設費は概算298億円 新足利市庁舎などの複合施設&nbsp;&nbsp;東京新聞",
+      "summary": "建設費は概算298億円 新足利市庁舎などの複合施設&nbsp;&nbsp;tokyo-np.co.jp",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8weEZ0S0F1MUwxLU9iNTBwSlZEaDdYX3VqbjR2OVA0a1puNzd0V1l6TkxRbHJxZ0JrdVl1YmdrQXNwRjNqTzVFTFczZXFtTXhDM0g0?oc=5",
       "source": "news",
-      "sourceName": "東京新聞",
+      "sourceName": "tokyo-np.co.jp",
       "date": "2026-09-11",
       "keywords": [
         "施設",
@@ -3985,69 +4051,6 @@
       "keywords": [
         "施設",
         "複合",
-        "建設"
-      ]
-    },
-    {
-      "id": "d92c5d808401",
-      "title": "倉敷 公共施設再編で安全祈願祭 児島地区活性化の拠点に",
-      "summary": "倉敷 公共施設再編で安全祈願祭 児島地区活性化の拠点に&nbsp;&nbsp;山陽新聞",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5rRzJlQi1VVzFfNGRkOThteEhVdlhxRHNKOHJkRDRjVjZuam9JZm1NeHJ3akJkR29WMVhBbk5hMTR2U2ZCVzhTQkNuRGh3a01vV0lESDFIOHMyV0tHZTF5Zjk1SXFob0hWMUp5SkNoQUNOWHU5cFFoWWxITQ?oc=5",
-      "source": "news",
-      "sourceName": "山陽新聞",
-      "date": "2026-08-06",
-      "keywords": [
-        "施設",
-        "再編"
-      ]
-    },
-    {
-      "id": "a12fb0c85c4a",
-      "title": "泉南市、岡田浦駅周辺公共施設等再編基本計画素案を作成",
-      "summary": "泉南市、岡田浦駅周辺公共施設等再編基本計画素案を作成&nbsp;&nbsp;日刊建産速報",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1NTEM2VmtxQU9tb3NMSFU4U0NSUXlWZnVaMW5HdVVWbEJoTjdZT011YnBlWTN3bEVnZnZndUdpcXFFb1A3X0FGOVdONkxxVmNiT2RJ?oc=5",
-      "source": "news",
-      "sourceName": "日刊建産速報",
-      "date": "2026-08-06",
-      "keywords": [
-        "施設",
-        "再編"
-      ]
-    },
-    {
-      "id": "9875b86a83e0",
-      "title": "公共施設改修工事で入札妨害疑い 岡山県新見市職員を逮捕、予定価格漏らしたか",
-      "summary": "公共施設改修工事で入札妨害疑い 岡山県新見市職員を逮捕、予定価格漏らしたか&nbsp;&nbsp;産経ニュース",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4xZG5hdmloOTVpOHEtY2U4MjR4M056dnAyN0RRb29OUFdvc2tiRjkzd1hmY3o1MldkYUZPZW9lMWxZUFU1NVN1UnlFRl9SNmJxZ3NLUGJoNzhsdlZ4UUR6M2xqUktDVXY2RlNyVFczWmlLWGtqeUE?oc=5",
-      "source": "news",
-      "sourceName": "産経ニュース",
-      "date": "2026-08-06",
-      "keywords": [
-        "施設"
-      ]
-    },
-    {
-      "id": "3f72b2e6d0d0",
-      "title": "公共施設の改修工事に関する指名競争入札で予定価格（約1億円）を教えた疑い 新見市の職員を逮捕 官製談合防止法違反容疑【岡山】 | 岡山・香川のニュース | 天気 | RSK山陽放送",
-      "summary": "公共施設の改修工事に関する指名競争入札で予定価格（約1億円）を教えた疑い 新見市の職員を逮捕 官製談合防止法違反容疑【岡山】 | 岡山・香川のニュース | 天気 | RSK山陽放送&nbsp;&nbsp;TBS NEWS DIG",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1MQ2xGY3BZYjN1cTZPUGtyUUI3OU1sVXF2UkZEbzFWWlJGVEhzRWt0SjRtNU9YaVpUNEJYUVFPNV8wRHdoSXY5YW9nZzhqME1zM1BVeG1Dcm9lUQ?oc=5",
-      "source": "news",
-      "sourceName": "TBS NEWS DIG",
-      "date": "2026-08-06",
-      "keywords": [
-        "施設"
-      ]
-    },
-    {
-      "id": "1ad9eaf0f633",
-      "title": "島根県内、耐震性確保７１％ 旧耐震基準で建設の公共施設 全国下回る 費用負担大、補強踏み切れず",
-      "summary": "島根県内、耐震性確保７１％ 旧耐震基準で建設の公共施設 全国下回る 費用負担大、補強踏み切れず&nbsp;&nbsp;山陰中央新報デジタル",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5mOTFyYzJMcElqaWx4OVJQaFBGLTFOU1VpeEYxRXRFcUhGZFlJV1RJQ2kxSkp1aDN6SkhVRTJic3AwcTlZaVlPUVM0NE0xYjFvcG9XakJzSDZ3WkE?oc=5",
-      "source": "news",
-      "sourceName": "山陰中央新報デジタル",
-      "date": "2026-08-06",
-      "keywords": [
-        "施設",
         "建設"
       ]
     }
