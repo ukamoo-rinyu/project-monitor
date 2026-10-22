@@ -1,7 +1,20 @@
 {
-  "updatedAt": "2026-10-21 09:22",
+  "updatedAt": "2026-10-22 09:25",
   "count": 300,
   "articles": [
+    {
+      "id": "0aa48fda6156",
+      "title": "廃校をコミュニティー・ハブへ、公共施設再編と一体で考える",
+      "summary": "廃校をコミュニティー・ハブへ、公共施設再編と一体で考える&nbsp;&nbsp;日経クロステック",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4wNzdWVVZmaDU5ZVUzRTdUaTl0SG5LeHVBeUtUTmw4M0FVTW9hYXBYeExkQ0laWm5uNXpnOU80U25ULWdPX0RRaTNDUVJDektVMGV3QV9qSFM0MEdmZXE4bmVPSHlpYU42WnV4Vg?oc=5",
+      "source": "news",
+      "sourceName": "日経クロステック",
+      "date": "2026-10-22",
+      "keywords": [
+        "施設",
+        "再編"
+      ]
+    },
     {
       "id": "abc336a545fd",
       "title": "【枚方市】利用率が低い公共施設｜課題を検証し在り方検討を｜決算特別委員会の質疑より（７）",
@@ -23,6 +36,20 @@
       "sourceName": "日刊建設工業新聞",
       "date": "2026-10-19",
       "keywords": [
+        "複合",
+        "建設"
+      ]
+    },
+    {
+      "id": "505cc882af4c",
+      "title": "新千葉県立図書館・県文書館複合施設 建設工事の進捗状況",
+      "summary": "新千葉県立図書館・県文書館複合施設 建設工事の進捗状況&nbsp;&nbsp;千葉県公式ホームページ",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNU2RHZkVZY1FqVFZlYi03WFlpcjR1N1VuMFZTUmVIN3dsZjdOM2hqS3hnMEVTcEVqTjBxYjBadkd3LXc3U0ZuYkk1a1NnbUFvaDN5bnhFQjFiNmJvMVFTNUtTb3VULWc4ODU0UDRORzYtOGZUM0lUczdXLXIyQy1MaUJtS2NKQQ?oc=5",
+      "source": "news",
+      "sourceName": "千葉県公式ホームページ",
+      "date": "2026-10-19",
+      "keywords": [
+        "施設",
         "複合",
         "建設"
       ]
@@ -1300,6 +1327,18 @@
       ]
     },
     {
+      "id": "c6bc7ab7def1",
+      "title": "第2次深谷市公共施設適正配置計画の一部変更について／深谷市ホームページ",
+      "summary": "第2次深谷市公共施設適正配置計画の一部変更について／深谷市ホームページ&nbsp;&nbsp;深谷市",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOSnU4aVM0WFRhM19TcDROcnhMMGFTcGhlZmp0TzFIb3ZFamVNUE1DaGRfMmRtMEE5MzNXbFRMVUR2SkxNQUZFb2N0WFFleEdrQnVudjJLM3g5NS1HQUItRUlnNHpGVC1TTnZZQ0FVQ3NRaHRMOXN4bFN1MmJkUDMtVDg0SmVNS0dUem1j?oc=5",
+      "source": "news",
+      "sourceName": "深谷市",
+      "date": "2026-10-01",
+      "keywords": [
+        "施設"
+      ]
+    },
+    {
       "id": "a55d77b9ffe7",
       "title": "大英図書館に複合施設建設 三井不、ロンドンで大型再開発",
       "summary": "大英図書館に複合施設建設 三井不、ロンドンで大型再開発&nbsp;&nbsp;沖縄タイムス社",
@@ -1491,6 +1530,19 @@
       ]
     },
     {
+      "id": "40116bddaeef",
+      "title": "アリーナとスポーツ施設再編の検討状況",
+      "summary": "アリーナとスポーツ施設再編の検討状況&nbsp;&nbsp;新潟市",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQbHAzVmFqcFJ1cXdBODYxQWIzQVZCdWVXWlcxcjZ1SGdQWnB1dmJQWTJmakJrNnp2ODEwVXF2TmE4OWFBMXV4Si1LNjltbGlVa3dpWHlCNks0dGw3OE5zcGJ0STRlWTBuUVJWYnRod3J1eTVEV3ZkcXFyd0JDa2JHbXNR?oc=5",
+      "source": "news",
+      "sourceName": "新潟市",
+      "date": "2026-09-28",
+      "keywords": [
+        "施設",
+        "再編"
+      ]
+    },
+    {
       "id": "ebf439d6f0ba",
       "title": "岡山市中心部に複合施設建設 コバシＨＤ、飲食店や事務所誘致",
       "summary": "岡山市中心部に複合施設建設 コバシＨＤ、飲食店や事務所誘致&nbsp;&nbsp;山陽新聞",
@@ -1605,6 +1657,30 @@
       "keywords": [
         "施設",
         "複合"
+      ]
+    },
+    {
+      "id": "51c1d94089d8",
+      "title": "建設費は298億円 栃木・足利市が新庁舎と市民会館の基本計画素案 [栃木県]",
+      "summary": "建設費は298億円 栃木・足利市が新庁舎と市民会館の基本計画素案 [栃木県]&nbsp;&nbsp;朝日新聞",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1jb0E5T0E0WkZMTHhZRy04M1pQY18wUHRtZWlIZXRDVGpVSFc2OF90a3pfLUR5RVRUWDhVcU1VMjFqcmJPNUNXLWh4Ry0weDRObGZyemp4alM4M0xEbXZ6MDVST2FDWG8?oc=5",
+      "source": "news",
+      "sourceName": "朝日新聞",
+      "date": "2026-09-25",
+      "keywords": [
+        "建設"
+      ]
+    },
+    {
+      "id": "7f03586486d7",
+      "title": "JAXA共同開発実績を持つ建設機械メーカー・タグチ工業、 交換式ツース搭載「SPシリーズ」が国土交通省NETISに登録 公共工事での新技術活用の提案対象に",
+      "summary": "JAXA共同開発実績を持つ建設機械メーカー・タグチ工業、 交換式ツース搭載「SPシリーズ」が国土交通省NETISに登録 公共工事での新技術活用の提案対象に&nbsp;&nbsp;アットプレス",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE14WGNveXpBaExZS181WnVPam1VcDFla1VKaXpGc2k4QUJJdFBjVmtSdG1FSlgycnBZblV3WGRnOHRPcDdCMC1Ebjdtc0NQUQ?oc=5",
+      "source": "news",
+      "sourceName": "アットプレス",
+      "date": "2026-09-25",
+      "keywords": [
+        "建設"
       ]
     },
     {
@@ -2990,20 +3066,6 @@
       ]
     },
     {
-      "id": "505cc882af4c",
-      "title": "新千葉県立図書館・県文書館複合施設 建設工事の進捗状況",
-      "summary": "新千葉県立図書館・県文書館複合施設 建設工事の進捗状況&nbsp;&nbsp;千葉県公式ホームページ",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNU2RHZkVZY1FqVFZlYi03WFlpcjR1N1VuMFZTUmVIN3dsZjdOM2hqS3hnMEVTcEVqTjBxYjBadkd3LXc3U0ZuYkk1a1NnbUFvaDN5bnhFQjFiNmJvMVFTNUtTb3VULWc4ODU0UDRORzYtOGZUM0lUczdXLXIyQy1MaUJtS2NKQQ?oc=5",
-      "source": "news",
-      "sourceName": "千葉県公式ホームページ",
-      "date": "2026-09-10",
-      "keywords": [
-        "施設",
-        "複合",
-        "建設"
-      ]
-    },
-    {
       "id": "993cfa7d758b",
       "title": "公共施設の数や規模見直しへ 人口減少など踏まえ赤磐市",
       "summary": "公共施設の数や規模見直しへ 人口減少など踏まえ赤磐市&nbsp;&nbsp;山陽新聞",
@@ -3944,74 +4006,6 @@
       "source": "news",
       "sourceName": "ｄメニューニュース",
       "date": "2026-08-25",
-      "keywords": [
-        "施設",
-        "複合",
-        "建設"
-      ]
-    },
-    {
-      "id": "f069e78c2eca",
-      "title": "公共施設再編に向けた地域別実行計画について",
-      "summary": "公共施設再編に向けた地域別実行計画について&nbsp;&nbsp;新潟市",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPTmhjUFVNRGFxT1M2aGlTNWVSX1hIMXJ2SUVrUWNYZ1dkWEFuUnJHby1rbDZGSGxYR3BxdEdjTFJxZ0k3aFhkWU96TVdaWTJ2RjRwLWx2d05jNVBwdHNFRUxES1k1SF9VNHN1S29vT3kxelYzeFlCb0NFdkY2eXVMNldwUjlVdFNRdHBDbTlob3ozYU5GcUE?oc=5",
-      "source": "news",
-      "sourceName": "新潟市",
-      "date": "2026-08-25",
-      "keywords": [
-        "施設",
-        "再編"
-      ]
-    },
-    {
-      "id": "e82b03b3b457",
-      "title": "PVDFフッ素樹脂塗装アルミ樹脂複合板市場の未来を読む：2026年以降の業界変化とビジネスチャンス",
-      "summary": "PVDFフッ素樹脂塗装アルミ樹脂複合板市場の未来を読む：2026年以降の業界変化とビジネスチャンス&nbsp;&nbsp;ドリームニュース",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5seHc3Mk9LUk5UU1Vrb0dJbW5rejA3T0EzRDNqWEp1bzItVVlUYkZIN0pWeXBXTGRCTUtmTVRLLUpwbjNuLXB4aEkyaEFkdXVhNUx3?oc=5",
-      "source": "news",
-      "sourceName": "ドリームニュース",
-      "date": "2026-08-24",
-      "keywords": [
-        "複合"
-      ]
-    },
-    {
-      "id": "2e305f222e3b",
-      "title": "鳥取市／鳥取駅周辺再生整備計画素案、複合施設や広場など整備",
-      "summary": "鳥取市／鳥取駅周辺再生整備計画素案、複合施設や広場など整備&nbsp;&nbsp;日刊建設工業新聞",
-      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5uZHktVFZOSl91eGZFcVU2LVV2Y2JBbTFpRkExdmV6T0MxN3hhYzk5ekhZMkQwYzVNVkhrN0daa1ZVM2c3cHRB?oc=5",
-      "source": "news",
-      "sourceName": "日刊建設工業新聞",
-      "date": "2026-08-24",
-      "keywords": [
-        "施設",
-        "複合",
-        "整備",
-        "建設"
-      ]
-    },
-    {
-      "id": "77999cbbb5aa",
-      "title": "鳥取市／鳥取駅周辺再生整備計画素案、複合施設や広場など整備",
-      "summary": "鳥取市／鳥取駅周辺再生整備計画素案、複合施設や広場など整備&nbsp;&nbsp;千葉テレビ放送株式会社",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0yaWJBenFNVmZxeHFYVUFVOWIyYk9qQXdmbGJGMjk0QUFhR1ZTNUhiQUFCY0VUNjJOblJGQmVxOWRIZ0o4ZnU4Nl9fejBWSXVFTGd1cVU5ekRSdUlOaTNJ?oc=5",
-      "source": "news",
-      "sourceName": "千葉テレビ放送株式会社",
-      "date": "2026-08-24",
-      "keywords": [
-        "施設",
-        "複合",
-        "整備"
-      ]
-    },
-    {
-      "id": "b98094d655d1",
-      "title": "トロピックタワー・アパートメント複合施設の建設が開始され、ノバランド社がホーチミン市東部市場に再進出する。",
-      "summary": "トロピックタワー・アパートメント複合施設の建設が開始され、ノバランド社がホーチミン市東部市場に再進出する。&nbsp;&nbsp;Vietnam.vn",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPdHl0UHUyWWE2dnN1Wkc2RXFwSEFpdXhvcDZpeWhvNWwyZ29FeFpnNVhVcTlUeXdhOHB2Mnk3TEF6aUVRalY5LXEwY3FfWTNtdk5jN0RQbE9ydFFncm96bFlYdTVKcGlkb3F2SHpFODEwUS11ZFhDN2Y4dWR0X2Z0NjRmc1B3VXItYVJQSFIzeTlKTk5QU2xSSDdnak5GdFNYcVNWWnFEZElJQ19K?oc=5",
-      "source": "news",
-      "sourceName": "Vietnam.vn",
-      "date": "2026-08-23",
       "keywords": [
         "施設",
         "複合",
