@@ -1,7 +1,20 @@
 {
-  "updatedAt": "2026-10-26 08:46",
+  "updatedAt": "2026-10-27 10:05",
   "count": 300,
   "articles": [
+    {
+      "id": "cb6a622781a9",
+      "title": "押し寄せる人口減の波 美咲町長選告示まで２週間、課題と現状リポート 公共施設再編も跡地活用決まらず",
+      "summary": "押し寄せる人口減の波 美咲町長選告示まで２週間、課題と現状リポート 公共施設再編も跡地活用決まらず&nbsp;&nbsp;山陽新聞",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8zU2s0R3M3ZElOQlZYdVJrbE9iY01ER0hRNFlKU0VIVldpTHlTRmFfa3hZb3BpT0xqeGtEV1ZBd21QREQzQ25VVVlWSmRvTDJfakE?oc=5",
+      "source": "news",
+      "sourceName": "山陽新聞",
+      "date": "2026-10-27",
+      "keywords": [
+        "施設",
+        "再編"
+      ]
+    },
     {
       "id": "41d40187d7de",
       "title": "ロッテとファットダット、ホーチミンで大型複合施設を着工［経済］",
@@ -13,6 +26,55 @@
       "keywords": [
         "施設",
         "複合"
+      ]
+    },
+    {
+      "id": "662ebf9e4b8a",
+      "title": "市有施設再編計画の行政案、黒保根と新里で説明会 旧市内は３０日夜に─桐生市",
+      "summary": "市有施設再編計画の行政案、黒保根と新里で説明会 旧市内は３０日夜に─桐生市&nbsp;&nbsp;桐生タイムス",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE0zNnBNWlY5NVMtRXFIWEtsM1RsLTFoX1V4QjZScjE0YmNPNG9HSG1qREpFODdSNmFMRWY0WnJhbWgtb2hqR2NEaldYSWpod21M?oc=5",
+      "source": "news",
+      "sourceName": "桐生タイムス",
+      "date": "2026-10-26",
+      "keywords": [
+        "施設",
+        "再編"
+      ]
+    },
+    {
+      "id": "9aed10ce6574",
+      "title": "エネルギーコストを考える（2）需要や利便性が決める用途",
+      "summary": "エネルギーコストを考える（2）需要や利便性が決める用途&nbsp;&nbsp;日本経済新聞",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE54NHlfSkhqUjFuU2NvYWFRSFB2RDJxSTZoelpqa1hpR0ZPSnNQUEZkcTJrLVdJUDhOcmZOeGg3SWpsaFpFZ3VwZ0x0ZF9HdzhRUEMtUUpWam1YRmFrWUk3TVNpemk2TkVYeE9mZQ?oc=5",
+      "source": "news",
+      "sourceName": "日本経済新聞",
+      "date": "2026-10-26",
+      "keywords": [
+        "コスト"
+      ]
+    },
+    {
+      "id": "457ffd285b19",
+      "title": "【宮崎県内企業初※初期費用0円】病院・自治体・大型施設の「電気代高騰対策」と「脱炭素化」を同時実現。空調特化型AIサブスクリプション「MP-1 SYSTEM」を提供開始",
+      "summary": "【宮崎県内企業初※初期費用0円】病院・自治体・大型施設の「電気代高騰対策」と「脱炭素化」を同時実現。空調特化型AIサブスクリプション「MP-1 SYSTEM」を提供開始&nbsp;&nbsp;PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE01S0g4U0hob3lyMU9LbW5ITDJ5YXlDeF9nQ2ZJcDF0c1pyMTB1eG5QUnhQSmZONGxyT2hWem5jak5jOG8xUS1iSzJlcGNLTDVuTnlES0FIZHV0aHk1SV8zZzdaMEZJa3ZiR1E?oc=5",
+      "source": "news",
+      "sourceName": "PR TIMES",
+      "date": "2026-10-26",
+      "keywords": [
+        "施設"
+      ]
+    },
+    {
+      "id": "b66b09838d7f",
+      "title": "日本管財、本庄市の公共施設101施設を一括管理へ",
+      "summary": "日本管財、本庄市の公共施設101施設を一括管理へ&nbsp;&nbsp;ニュースメディアVOIX",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBfRGsyWDlMaDhnNDFrYTAyTHFpSkJIOTlKbmZiSFVOUGxsbWs3R2t4VUpZZ2pBd3Q2R0E5S2t5RlRvSVlyOFNFcjZqUXlwSXpHNXFN?oc=5",
+      "source": "news",
+      "sourceName": "ニュースメディアVOIX",
+      "date": "2026-10-26",
+      "keywords": [
+        "施設"
       ]
     },
     {
@@ -97,6 +159,31 @@
       ]
     },
     {
+      "id": "8b97683177f6",
+      "title": "川崎市公共施設 使用料等 来春引き上げ 民家園など12施設対象",
+      "summary": "川崎市公共施設 使用料等 来春引き上げ 民家園など12施設対象&nbsp;&nbsp;タウンニュース",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5FdWEwekRlZm5DVUl2eDQ0Wl9rd0hTTWNYcWVsMDE0eVVfOGRXQnhyR3JJUWE4WXRTU2NuallsVE1qaU1VdDVJNHNEZndqd0kxX1dHbVhONmd5VjBIZ2o2NVpsdkc?oc=5",
+      "source": "news",
+      "sourceName": "タウンニュース",
+      "date": "2026-10-24",
+      "keywords": [
+        "施設"
+      ]
+    },
+    {
+      "id": "2ba74f0fb3dc",
+      "title": "砺波市社会福祉協議会、新庁舎近くに移転 災害時の連携強化へ 市が施設再編案提示",
+      "summary": "砺波市社会福祉協議会、新庁舎近くに移転 災害時の連携強化へ 市が施設再編案提示&nbsp;&nbsp;北國新聞",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFAtX2FIN1c4ZWIxWi1YM0YwQU1HaEVmSHlMNjJDM3dNMmpwNnhtTHhzTkVpVGlBU3gtQVpSdGxBUVpPMW1WNFNvY1dGOGREczdnQWZ6NlpGdw?oc=5",
+      "source": "news",
+      "sourceName": "北國新聞",
+      "date": "2026-10-24",
+      "keywords": [
+        "施設",
+        "再編"
+      ]
+    },
+    {
       "id": "8fbc8219cc88",
       "title": "【東村山】公共施設の再編を、まちの新たな可能性につなげる。河内長野市の決断から考える",
       "summary": "【東村山】公共施設の再編を、まちの新たな可能性につなげる。河内長野市の決断から考える&nbsp;&nbsp;選挙ドットコム",
@@ -177,6 +264,21 @@
       ]
     },
     {
+      "id": "4a0ce56b5ae2",
+      "title": "倉敷・児島 短大など点在６施設を駅前に集約 市が複合施設整備に着手",
+      "summary": "倉敷・児島 短大など点在６施設を駅前に集約 市が複合施設整備に着手&nbsp;&nbsp;山陽新聞",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE55cDg1enRia0M2SWl5SVR3bGNrRkNmWFhzcVhqT0N4aW1wOFVCN2hGUWxrenpiZVhQZjJFbEhZMk9yZEJOd2RVa29FMjl5MklBbkE?oc=5",
+      "source": "news",
+      "sourceName": "山陽新聞",
+      "date": "2026-10-23",
+      "keywords": [
+        "施設",
+        "複合",
+        "集約",
+        "整備"
+      ]
+    },
+    {
       "id": "0aa48fda6156",
       "title": "廃校をコミュニティー・ハブへ、公共施設再編と一体で考える",
       "summary": "廃校をコミュニティー・ハブへ、公共施設再編と一体で考える&nbsp;&nbsp;日経クロステック",
@@ -200,6 +302,18 @@
       "keywords": [
         "施設",
         "複合"
+      ]
+    },
+    {
+      "id": "45ac29035e1e",
+      "title": "屋上太陽光発電は、バクニン省のコスト削減とグリーンエネルギー開発に貢献している。",
+      "summary": "屋上太陽光発電は、バクニン省のコスト削減とグリーンエネルギー開発に貢献している。&nbsp;&nbsp;Vietnam.vn",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUUxMdkdwTTN6dFVIZDdMYURkR1dIbGVfaEhFYXNaS0VOMWlsWEZtVzRtSVd6RWs1dUxXZFNYS2ZWbkxQN2FvbzFNN3VtcW9ra2FNajlqOGI2UV9xay1wSFVCTGVwcjlFN0g4ajdJTGRNRjRmbTlxTlJFZUlrSXlEV3NycHYwTklTYVF5WTE1LURqMVR5VmowYnZhYTN2WndjR0VIX3dDNEg?oc=5",
+      "source": "news",
+      "sourceName": "Vietnam.vn",
+      "date": "2026-10-22",
+      "keywords": [
+        "コスト"
       ]
     },
     {
@@ -425,6 +539,20 @@
       "keywords": [
         "施設",
         "複合"
+      ]
+    },
+    {
+      "id": "7d52cf695753",
+      "title": "モンゴル・中国首脳名を冠したスポーツ複合施設建設の起工式",
+      "summary": "モンゴル・中国首脳名を冠したスポーツ複合施設建設の起工式&nbsp;&nbsp;Montsame",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAtMS0wbEswSUdCckVtb2NYdzUwWlR1eWRlRWM2dmhnY2NxTjl4MjlsUWF5SnRaQlg1SjFseVlaRUZOdHJ3VkNtRC1QSHYwVUU?oc=5",
+      "source": "news",
+      "sourceName": "Montsame",
+      "date": "2026-10-16",
+      "keywords": [
+        "施設",
+        "複合",
+        "建設"
       ]
     },
     {
@@ -3868,140 +3996,6 @@
       "keywords": [
         "施設",
         "再編"
-      ]
-    },
-    {
-      "id": "2a187d5a132f",
-      "title": "予定価格漏らした市職員と最低価格で落札した建設会社元代表取締役を起訴…公共施設改修工事の官製談合",
-      "summary": "予定価格漏らした市職員と最低価格で落札した建設会社元代表取締役を起訴…公共施設改修工事の官製談合&nbsp;&nbsp;読売新聞",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBsSWZPbm9NRG11UzVWalAxUEtPNmJIUjVUYWdtUUFNUzR3S01vNkpKRUQ2dGhGWHpTckV4UV9INjBaR3pYWlduZTBYakwzLTRnUkUzTlA5NWRrd05Ma3ItX0tVZWpMWUNjcnZnb1Z3cjJIdw?oc=5",
-      "source": "news",
-      "sourceName": "読売新聞",
-      "date": "2026-08-27",
-      "keywords": [
-        "施設",
-        "建設"
-      ]
-    },
-    {
-      "id": "5411dabb8472",
-      "title": "エジプトでリン酸製造複合施設の建設開始、鉱物加工産業の高付加価値化目指す（エジプト、中国）",
-      "summary": "エジプトでリン酸製造複合施設の建設開始、鉱物加工産業の高付加価値化目指す（エジプト、中国）&nbsp;&nbsp;Infoseek",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBUZUhpamFXOGdRRzFjaUJrbWdjeGR0OEt2S2piMFJ2U2RZZmF1cE51ZXVkUzhObkdaS2hnUHUtenhHMzRmWTVoTTFqUjdvVHVMbUFkVVJ4bXZuQkM3V1prcTFSVUZuM21udEtB?oc=5",
-      "source": "news",
-      "sourceName": "Infoseek",
-      "date": "2026-08-27",
-      "keywords": [
-        "施設",
-        "複合",
-        "建設"
-      ]
-    },
-    {
-      "id": "68cfa7b64f40",
-      "title": "40年後には7割減　公共施設再編で住民説明会開催へ　福島・須賀川",
-      "summary": "40年後には7割減 公共施設再編で住民説明会開催へ 福島・須賀川&nbsp;&nbsp;ｄメニューニュース",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQaHY5MlRFRUhjcTI3cU9PNGYtVzVYLXdEVkNHU1Rpc2hFM1dva2JqUDFiOFh5MEdLcTI2YkFLYlRiaHJqY3hfWEhMYWNvbG1xbVJsMGExMmw2aUVqUklRT2JRMl8zeklESUZrbm5kSlhZYnhNbU9nV2x3RGtqTlI3cVN3RjhLZ2M2NEZyVVlRWW94dVpKRTltMdIBngFBVV95cUxPUE9ZN0Mzd1hIVDA1UHpaZHFCbzg4LTluTUlsakx6YXFkTVBQQkZ3T0lXTTVDYkJyVS03WDNSelVyV20zbG83RUFOZnFQNXZYdWpWTmdTZWJIQ0VvbzdndEdyS3Jaa1Z5a20tN21HM0lwQTVOcF92MEI5YXUyYWlsR0pCOGswbHdTSTVNaEE0ZGUwaUd3Y3BPMU4wanVGdw?oc=5",
-      "source": "news",
-      "sourceName": "ｄメニューニュース",
-      "date": "2026-08-27",
-      "keywords": [
-        "施設",
-        "再編"
-      ]
-    },
-    {
-      "id": "c2d01a43ac82",
-      "title": "40年後には7割減 公共施設再編で住民説明会開催へ 福島・須賀川 (朝日新聞)",
-      "summary": "40年後には7割減 公共施設再編で住民説明会開催へ 福島・須賀川 (朝日新聞)&nbsp;&nbsp;news.yahoo.co.jp",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPbTN0Q09qV0hINkdSNmZia0FvMGxlbzRJUHk1UGJVVnN1bmxpR1didy1vNVdqUkhsVkJ0OFkzSmJHRTFJTkN2aUxfVjNlSDEwY2NEb3lpM1hGaXZSS0pEVWZfMjNWMU1wa09UTVdadzdjY1owOWRKd1k1TmZ0VVE3VG5wS0p0ay14WmJWdHFR?oc=5",
-      "source": "news",
-      "sourceName": "news.yahoo.co.jp",
-      "date": "2026-08-27",
-      "keywords": [
-        "施設",
-        "再編"
-      ]
-    },
-    {
-      "id": "4e4da2aaf821",
-      "title": "フランスとサウジアラビアがパリ郊外に「ドラゴンボール」関連の巨大複合施設建設へ合意",
-      "summary": "フランスとサウジアラビアがパリ郊外に「ドラゴンボール」関連の巨大複合施設建設へ合意&nbsp;&nbsp;東京報道新聞",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1IRFk4aTdQMjE2aEZya1lVTjNfYlZ3azljb28yZ1F3bi16aXVraENycmQtbmZhbW01Q1BxbUVKZEpHcFZjU3BNb1FMUWN0TTRfbjZB?oc=5",
-      "source": "news",
-      "sourceName": "東京報道新聞",
-      "date": "2026-08-26",
-      "keywords": [
-        "施設",
-        "複合",
-        "建設"
-      ]
-    },
-    {
-      "id": "146645892515",
-      "title": "9月補正で債務負担80億/前田建設が構成員離脱/萩山小複合施設/東村山市",
-      "summary": "9月補正で債務負担80億/前田建設が構成員離脱/萩山小複合施設/東村山市&nbsp;&nbsp;建設通信新聞Digital",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBHdkdxb096SHpGQXRKR2RtaEEzOUFtMTNYUWdic2xyMEVvVmlZSXBMMGhZVjlOMEtINGNEZkNZeHpnYXplZlRxSUhPREpneG12VnJHZWlSS2k?oc=5",
-      "source": "news",
-      "sourceName": "建設通信新聞Digital",
-      "date": "2026-08-26",
-      "keywords": [
-        "施設",
-        "複合",
-        "建設"
-      ]
-    },
-    {
-      "id": "ff64d8479333",
-      "title": "公共施設マネジメントの取り組み",
-      "summary": "公共施設マネジメントの取り組み&nbsp;&nbsp;西宮市",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNU0NySldGbmh1QW5LNWZ1SGFjbWQ2bVgzTVlzVHRVUzZMMjJtdUdOa3Q1SG9MS0x6Q2w3UnpZWktjZld5eHA3VV9ZYWtRbWZud1RxT0I4c09FY3JBVmpxNXRNQkhEemtFd1p2cm1adEFOcm0zcVB2ZklmSThaaHhMSjh3?oc=5",
-      "source": "news",
-      "sourceName": "西宮市",
-      "date": "2026-08-26",
-      "keywords": [
-        "施設"
-      ]
-    },
-    {
-      "id": "f1a9e969b842",
-      "title": "公共施設整備に41億円 信篤地域の公民館や図書館集約（市川市補正予算）",
-      "summary": "公共施設整備に41億円 信篤地域の公民館や図書館集約（市川市補正予算）&nbsp;&nbsp;日本建設新聞社",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1NRzhLTXVLTFNKdDhzRzMwTTNoSXpnMVA1aVV2YWZiU1YxOXQ5d18zcmp4QU55V1BIT0JyMWVaNEFKbW5ta3Q0X0p6MDJfa3Vt?oc=5",
-      "source": "news",
-      "sourceName": "日本建設新聞社",
-      "date": "2026-08-26",
-      "keywords": [
-        "施設",
-        "集約",
-        "整備",
-        "建設"
-      ]
-    },
-    {
-      "id": "5360bf93109e",
-      "title": "40年後には7割減 公共施設再編で住民説明会開催へ 福島・須賀川 [福島県]",
-      "summary": "40年後には7割減 公共施設再編で住民説明会開催へ 福島・須賀川 [福島県]&nbsp;&nbsp;朝日新聞",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE14NlMzME5RWnA2MVVQZzR4ZUxKRE85ZFV4d3RNb0hUb191bGVzZGR3cUxhaEh5UFJvRHNwNERKOHNCR0l4NlBEeE1oM3BpcFdUQnFJaTltRlB3THFNWDh6a3JxMjRHTnQ0V2lLSEt3?oc=5",
-      "source": "news",
-      "sourceName": "朝日新聞",
-      "date": "2026-08-26",
-      "keywords": [
-        "施設",
-        "再編"
-      ]
-    },
-    {
-      "id": "f56cf7f3755f",
-      "title": "東村山市 萩山小整備 建設事業の代表者を菊池建設に変更し再提案",
-      "summary": "東村山市 萩山小整備 建設事業の代表者を菊池建設に変更し再提案&nbsp;&nbsp;digital.kentsu.co.jp",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPMmFGRGppMGNoTnBFY09JUHR4dUc4eFhwb0U1ZnB2V2hIWUlYUXlZTjRmVFE2SnhtNkRFN1hQV0QxN01MQndzSUNCLVlQbGxfVWFteFVId1FwQUc1cThkdkttTk5CY0xFai1jMGY2MkNDSlFGbW5WTklIckhWcGJ3RA?oc=5",
-      "source": "news",
-      "sourceName": "digital.kentsu.co.jp",
-      "date": "2026-08-26",
-      "keywords": [
-        "整備",
-        "建設"
       ]
     }
   ]
