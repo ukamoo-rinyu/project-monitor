@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-19 11:55",
+  "updatedAt": "2026-11-20 11:49",
   "count": 300,
   "articles": [
     {
@@ -21,6 +21,32 @@
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE43ZnR3U2NTakptNmtibWtzdDVUcWJocjlUbm5sNV9nWm0tdXdyZjZDUVBhRjlFRnJZS0FZT09UbUNhYTVURVpSOHJxMzR1ZE1OXzVoVHQ2SWxDcGliUHlyMGUwbEpzbG9mZDJmVU5TamhMMTl4UXBz?oc=5",
       "source": "news",
       "sourceName": "読売新聞",
+      "date": "2026-11-19",
+      "keywords": [
+        "建設"
+      ]
+    },
+    {
+      "id": "e4e2515a1c5c",
+      "title": "【詳報】足利市新庁舎と新市民会館の複合施設、整備計画を策定 2033年度開館、バスでのアクセス検討",
+      "summary": "【詳報】足利市新庁舎と新市民会館の複合施設、整備計画を策定 2033年度開館、バスでのアクセス検討&nbsp;&nbsp;下野新聞社",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1jYXRQY0lWSUxaRlhja3VNc0I3VGItNVFfWklHcENDa1lPTW1Yel8tR1EzdVI3N2N3UHg0WTZSbWw0U3BfbGhmb1pYNHJUenppOXpURkVmLWt4eWs?oc=5",
+      "source": "news",
+      "sourceName": "下野新聞社",
+      "date": "2026-11-19",
+      "keywords": [
+        "施設",
+        "複合",
+        "整備"
+      ]
+    },
+    {
+      "id": "cbab412d77c1",
+      "title": "建設市場における人工知能の市場規模は、過去の傾向と将来の見通しに関する貴重な情報を提供し",
+      "summary": "建設市場における人工知能の市場規模は、過去の傾向と将来の見通しに関する貴重な情報を提供し&nbsp;&nbsp;pando.life",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFB6V2xQUHVoRGNKNGFwYS14eEZGVzFNU3QtMmo2SlhhbUFWMFFBSFpabDNJRzRzNF92UGppR2RabGFxcnREcXZQZjhB?oc=5",
+      "source": "news",
+      "sourceName": "pando.life",
       "date": "2026-11-19",
       "keywords": [
         "建設"
@@ -3838,32 +3864,6 @@
       "keywords": [
         "施設",
         "複合",
-        "建設"
-      ]
-    },
-    {
-      "id": "3b3e60387af0",
-      "title": "ポー・トー村で、総工費36億1500万ベトナムドンの養豚複合施設の建設が開始された。",
-      "summary": "ポー・トー村で、総工費36億1500万ベトナムドンの養豚複合施設の建設が開始された。&nbsp;&nbsp;Vietnam.vn",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQemdlNFk4OTdEZllPRDJSTVdEMkxoZDd2dW4xQmkxUU83ZkxQUHJqVW1uNHRhemtTSFJiOUhnZU8tY2QwQTZOa1IwVGhjRi13eWRVank4VDhSbjdkdU5KZjB1RkF2VmY2alh1b2lwVjQtYWFIQ3l2bEZ1Zll4aVZESjRhamxjcHNwRlFr?oc=5",
-      "source": "news",
-      "sourceName": "Vietnam.vn",
-      "date": "2026-10-11",
-      "keywords": [
-        "施設",
-        "複合",
-        "建設"
-      ]
-    },
-    {
-      "id": "d3177b7eca74",
-      "title": "【SSPC株式会社】「特定建設業許可」を取得。大型工事への対応体制を強化し、大規模施工の信頼性向上へ",
-      "summary": "【SSPC株式会社】「特定建設業許可」を取得。大型工事への対応体制を強化し、大規模施工の信頼性向上へ&nbsp;&nbsp;ニコニコニュース",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBnQUpOcnotRTNVMzVvQWJsc3pPWGtFLUNZRDRadm9XLXpYdW9MVVp5dHI0T2J3WnBYSGVXWEE2aW1zU212VEFOb1o4QmszSXZHV3gyM1hMZngzOTkyQmpHSzIwdm1aZUN4VDlUMXF2MVF0WE5JRm53UXNvVQ?oc=5",
-      "source": "news",
-      "sourceName": "ニコニコニュース",
-      "date": "2026-10-10",
-      "keywords": [
         "建設"
       ]
     }
