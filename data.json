@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-22 10:53",
+  "updatedAt": "2026-11-23 11:12",
   "count": 300,
   "articles": [
     {
@@ -15,15 +15,66 @@
       ]
     },
     {
-      "id": "73dc5276b377",
-      "title": "岡山市新庁舎が建築プロジェクト表彰 ＣＯＰの一環、環境配慮を評価",
-      "summary": "岡山市新庁舎が建築プロジェクト表彰 ＣＯＰの一環、環境配慮を評価&nbsp;&nbsp;山陽新聞",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0xZXZvTGQ1eWxOeEV0Y1ppcHMwTW9vb0NncXFIQ1FtcHVwaVBibk9ubi1YdEtZMGdudkdBaG1oM1J1SVdLT1pvUkpnb3dpdkRIeXc?oc=5",
+      "id": "789d27b90702",
+      "title": "【枚方市】公共施設の縮減と有効活用を両立｜浜松市における資産経営の取り組みを視察",
+      "summary": "【枚方市】公共施設の縮減と有効活用を両立｜浜松市における資産経営の取り組みを視察&nbsp;&nbsp;選挙ドットコム",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBjcDI3bG1XWU1NN1JHaWllYnhzaDVCaXVmVUVtWDVBdHBEWmVFdFZUd21URi1TQnBIZUJYSU9GN0lEVFRKdlMxcXRRUllneEJwdEdmWUNaRzJBakNSQ3c?oc=5",
       "source": "news",
-      "sourceName": "山陽新聞",
-      "date": "2026-11-21",
+      "sourceName": "選挙ドットコム",
+      "date": "2026-11-22",
       "keywords": [
-        "建築プロジェクト"
+        "施設"
+      ]
+    },
+    {
+      "id": "560a33afdde1",
+      "title": "山梨中央銀、遊休公共施設の活用促す 官民対話を活発化",
+      "summary": "山梨中央銀、遊休公共施設の活用促す 官民対話を活発化&nbsp;&nbsp;ニッキンONLINE",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9UNW96ckxWZDVCMld2b3hlS3dOME5fYjlBVjBGU2NLVU5ZaUJ0UTEtUWd3NXhZMEJ2M0ZwcmdyTXM4bG9xSGk4RmpHZ2EtV0d6SEJYRDln?oc=5",
+      "source": "news",
+      "sourceName": "ニッキンONLINE",
+      "date": "2026-11-22",
+      "keywords": [
+        "施設"
+      ]
+    },
+    {
+      "id": "e00cfaf3f85c",
+      "title": "千種図書館の星が丘移転問題とは？実際の試算数値で見るコスト比較と4つの懸念点",
+      "summary": "千種図書館の星が丘移転問題とは？実際の試算数値で見るコスト比較と4つの懸念点&nbsp;&nbsp;選挙ドットコム",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5GY2FWaVFNTjNWd3FqVFRHQU5IenhDRlZheURIR2tReTJtcVVRbklyU0hKazBHUF9ESEZ0Tzhmc3RkYVNSenBvNmxCS2VYczdTc1A4TC1vVHM2dVVJdFFv?oc=5",
+      "source": "news",
+      "sourceName": "選挙ドットコム",
+      "date": "2026-11-22",
+      "keywords": [
+        "コスト"
+      ]
+    },
+    {
+      "id": "f809a02b3f13",
+      "title": "コスト面でのボトルネックを解消し、屋上太陽光発電を促進する。",
+      "summary": "コスト面でのボトルネックを解消し、屋上太陽光発電を促進する。&nbsp;&nbsp;Vietnam.vn",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdmtwNVZGSXkzenp6X0xNTTl0SmR6T1M3MnJBbUcwYXlfem84VlVuR00zRG9FTmtybGR1RnFDcTQwaEQ0N2JyZkpPQ2E2Mm5PaTJzQ29lMTBXRjRkeFoya2w0STdaZWY2bDRoYjhRRnNLNVBHbEs4N0owSzctT0FMbHlHRkcwa0Fx?oc=5",
+      "source": "news",
+      "sourceName": "Vietnam.vn",
+      "date": "2026-11-22",
+      "keywords": [
+        "コスト"
+      ]
+    },
+    {
+      "id": "f40fef8ea406",
+      "title": "小松島市の小学校再編、空き校舎活用で明暗 小松島小は複合施設整備 残る３校の活用が課題",
+      "summary": "小松島市の小学校再編、空き校舎活用で明暗 小松島小は複合施設整備 残る３校の活用が課題&nbsp;&nbsp;徳島新聞デジタル",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1YQXRHRjVOTGtHbzFtRWxpRldfV3U3b3hjd3FqVmljM2U2dnlRWVZlTU5NMmZHWUh6Rk9WekFPeXZqVy1hOC0yYXRiX09pWlRHYjAwV19n?oc=5",
+      "source": "news",
+      "sourceName": "徳島新聞デジタル",
+      "date": "2026-11-22",
+      "keywords": [
+        "施設",
+        "再編",
+        "複合",
+        "整備"
       ]
     },
     {
@@ -153,6 +204,32 @@
       ]
     },
     {
+      "id": "413c0cb4319b",
+      "title": "ＪＲ瑞浪駅、瑞浪市が駅北口改札を整備 複合公共施設の２０２９年開業に合わせ (岐阜新聞デジタル)",
+      "summary": "ＪＲ瑞浪駅、瑞浪市が駅北口改札を整備 複合公共施設の２０２９年開業に合わせ (岐阜新聞デジタル)&nbsp;&nbsp;Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPVXFlUGZZVk00SkRqeHRxLWFLem04UjVvM25vNW1aakdnYWZCM3R4Q0RHaUxuT1JQNG5Nemk2ZkJwNmxVX1pTLTdFRWVCUHpSOTlKakVHX0RxWldhaFpacUpWaDBNWkpMdzBubkoyWk55Z2hJcHN5S25zdHhISTRNd0NLQnBMRzVKaFZiSEFn?oc=5",
+      "source": "news",
+      "sourceName": "Yahoo!ニュース",
+      "date": "2026-11-20",
+      "keywords": [
+        "施設",
+        "複合",
+        "整備"
+      ]
+    },
+    {
+      "id": "5a0b35815ba0",
+      "title": "ハンファ建設部門、水処理事業を拡大　3事業で優先交渉権",
+      "summary": "ハンファ建設部門、水処理事業を拡大 3事業で優先交渉権&nbsp;&nbsp;Chosunbiz",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOcWNEWGZPbFB6QnpYWU1tcmVKZDhMVUxfZjc0MUg4N09XdzdHVTlfUjNJRkFOd1ZWYk1LZnJUMHptVG43ZkhGX0YzSnZ5TkNoT0FoOXZOU2gxYjBiNTFHNHJ6SWVXNUhzU21KMDJJWUNuREoxbFVFc0tYNzlpRlZrSWRQUWbSAZgBQVVfeXFMTkJOckFoQmFYNWFUa2F2Sy1lcnFnUTU5b1UzYzBYS1d1dUcwUWItUTljUFBoM0ZLeWF2c01lRTR6Q0dfVmpWbWlmLUh4a0YzSURPSVh0VTl1ZDV3VkNWVFdZMU4ybFJOclZ0TXBXUDAwdHJ5R3ZVbU9QbS1lTnBDUEdNOWdIbzRrNGZkLWxKWHJuSlJFM1Y1Q1g?oc=5",
+      "source": "news",
+      "sourceName": "Chosunbiz",
+      "date": "2026-11-20",
+      "keywords": [
+        "建設"
+      ]
+    },
+    {
       "id": "3c510b93a5a9",
       "title": "ホーチミン市：好立地にある26の公共施設が、商業およびサービス目的で賃貸されることになった。",
       "summary": "ホーチミン市：好立地にある26の公共施設が、商業およびサービス目的で賃貸されることになった。&nbsp;&nbsp;Vietnam.vn",
@@ -225,6 +302,30 @@
       "keywords": [
         "施設",
         "建設"
+      ]
+    },
+    {
+      "id": "00962af629f0",
+      "title": "ホーチミン市で、国内最大規模の社会住宅建設プロジェクトが開始された。",
+      "summary": "ホーチミン市で、国内最大規模の社会住宅建設プロジェクトが開始された。&nbsp;&nbsp;Vietnam.vn",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQVkMwQ2xnMlhmQlE1cC12OW01NE1iX0wyYVhiM1NsYU5OWFV3akhfZnd6c3diaGhZdzg1QzNjekFGaDR4Ynl6TUU1RTBUX0pXTTVWVzR2NDd3LWJmUGxHRW9fNERydmJxTjYxRHRSeDRIT2FIOHQwd2NBeEc3QlhfZWk3SQ?oc=5",
+      "source": "news",
+      "sourceName": "Vietnam.vn",
+      "date": "2026-11-19",
+      "keywords": [
+        "建設"
+      ]
+    },
+    {
+      "id": "73dc5276b377",
+      "title": "岡山市新庁舎が建築プロジェクト表彰 ＣＯＰの一環、環境配慮を評価",
+      "summary": "岡山市新庁舎が建築プロジェクト表彰 ＣＯＰの一環、環境配慮を評価&nbsp;&nbsp;山陽新聞",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0xZXZvTGQ1eWxOeEV0Y1ppcHMwTW9vb0NncXFIQ1FtcHVwaVBibk9ubi1YdEtZMGdudkdBaG1oM1J1SVdLT1pvUkpnb3dpdkRIeXc?oc=5",
+      "source": "news",
+      "sourceName": "山陽新聞",
+      "date": "2026-11-18",
+      "keywords": [
+        "建築プロジェクト"
       ]
     },
     {
@@ -1229,6 +1330,20 @@
       "date": "2026-11-11",
       "keywords": [
         "建設"
+      ]
+    },
+    {
+      "id": "385aca7400f3",
+      "title": "老朽化が進んだ公共施設を集約　幅広い世代が集う交流拠点を目指す　湯沢市の複合施設「ゆいなす」が完成　秋田",
+      "summary": "老朽化が進んだ公共施設を集約 幅広い世代が集う交流拠点を目指す 湯沢市の複合施設「ゆいなす」が完成 秋田&nbsp;&nbsp;Infoseek",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5ibmN0TmVaNm9SVW5vVHRTbkpULWs0S2tWcXJ6RTJvZlJOM2NFS3UtZW9MOFIyUlQxYm82ZGUyVG85X18yNjVueUFKZ0tSVUFKajRVME4yRUpXMndmYkFESExhNTZaQjJnTk9CdtIBckFVX3lxTE9vU1FRX3N4LXR5Zl9GQXVKaFBwTGdBak10WDA2di1ZN0s1b25UOGw2S1hpMFFRMFpJN0J1VzBlUUtRb09vN3E5V2s4N3FTMndDVURBMGVoSjVURkcyUVZQVkhrdi1FSWJHdVc5RlF4V2xEZw?oc=5",
+      "source": "news",
+      "sourceName": "Infoseek",
+      "date": "2026-11-11",
+      "keywords": [
+        "施設",
+        "複合",
+        "集約"
       ]
     },
     {
@@ -3733,122 +3848,6 @@
       "keywords": [
         "施設",
         "複合"
-      ]
-    },
-    {
-      "id": "7d52cf695753",
-      "title": "モンゴル・中国首脳名を冠したスポーツ複合施設建設の起工式",
-      "summary": "モンゴル・中国首脳名を冠したスポーツ複合施設建設の起工式&nbsp;&nbsp;Montsame",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAtMS0wbEswSUdCckVtb2NYdzUwWlR1eWRlRWM2dmhnY2NxTjl4MjlsUWF5SnRaQlg1SjFseVlaRUZOdHJ3VkNtRC1QSHYwVUU?oc=5",
-      "source": "news",
-      "sourceName": "Montsame",
-      "date": "2026-10-16",
-      "keywords": [
-        "施設",
-        "複合",
-        "建設"
-      ]
-    },
-    {
-      "id": "02a492c1149a",
-      "title": "市人民委員会常務委員会は、ティエンクアンセンターの高級マンション・商業複合施設建設プロジェクトの現地調査を実施した。",
-      "summary": "市人民委員会常務委員会は、ティエンクアンセンターの高級マンション・商業複合施設建設プロジェクトの現地調査を実施した。&nbsp;&nbsp;Vietnam.vn",
-      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQa2hzQnpKNldQQXdpVFVha3ZacUNxd09vSFBXRXcwRGJDS01ib0NDVmR5Y0poNnh5eHZXc2VOakVVUXNPT19RQVRCTnlKalRxejlNcUxCSFlvYXdqb2FfVDkzTVVzLWhaUVdZc21HWUQyNjZfbnRRUnk4TXhMbVZ3SnUwc3VHc2J4WS0zVmFUMlBVNTRpTjlfX0Nhd250RjdVRDVnbVltRi1LVlVqQnVMYnl1TUU1VlJjSHIwT1c1bWF5M3Mza09nUUN5RjVFTUJiNVpSZUYzR2I1S0RrZkhrWVRXbEg4NGF5VDlNQjVBNERzb2Nu?oc=5",
-      "source": "news",
-      "sourceName": "Vietnam.vn",
-      "date": "2026-10-15",
-      "keywords": [
-        "施設",
-        "複合",
-        "建設"
-      ]
-    },
-    {
-      "id": "2cb20c247c98",
-      "title": "【結果公表】令和8年度 鴻巣市公共施設等マネジメント民間提案制度による提案を募集します",
-      "summary": "【結果公表】令和8年度 鴻巣市公共施設等マネジメント民間提案制度による提案を募集します&nbsp;&nbsp;鴻巣市",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9qTFRpU2pla04tYUlWN19wX21Bbnh2RzZxLVBhaF9lNW5ocVpFLXFJYy15d2tJU1pJTmhrU1JHMmtjNE9nUEF6Y0l6ODRXMEdRbGJVTEx5bEZpdkZEM284SQ?oc=5",
-      "source": "news",
-      "sourceName": "鴻巣市",
-      "date": "2026-10-15",
-      "keywords": [
-        "施設"
-      ]
-    },
-    {
-      "id": "5b7e971e0d80",
-      "title": "東京・羽村市、公共施設を3割減へ 小学校は7→2、人口減を見据え [東京都]",
-      "summary": "東京・羽村市、公共施設を3割減へ 小学校は7→2、人口減を見据え [東京都]&nbsp;&nbsp;朝日新聞",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9ZSW9TUUpuQXhfc0lBMDdnSlJaUlljTDA1YXpsblFzYmd3S1dPempyekxfeGY4NXZ2Yk9TeE5oWXJNOHMwOUZVOUlkWGZfdDF6bWRmOTk5d0xGbDNNdjFJQUV2aGp5N1E?oc=5",
-      "source": "news",
-      "sourceName": "朝日新聞",
-      "date": "2026-10-14",
-      "keywords": [
-        "施設"
-      ]
-    },
-    {
-      "id": "afd530e26637",
-      "title": "バクニン省：ある企業が、総額2860億ベトナムドンを超えるスポーツ複合施設建設プロジェクトの実施資格を獲得した。",
-      "summary": "バクニン省：ある企業が、総額2860億ベトナムドンを超えるスポーツ複合施設建設プロジェクトの実施資格を獲得した。&nbsp;&nbsp;Vietnam.vn",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQcmoxUFRZNTRiUEI0RmhSdE5BZHVYd2k4cGFTSW5TWFdIbkdPVUM2YTAzd1ZRQzBWNnl2YVNXYXY0alRnMzhYT3pyN3R6WlRBTkRVZFBVdE5PYTB1Y055UW5Fa1RKUmIyY0ctYTk4cEJoNGROWlMxSTNBYllKbWRGTWFiWWFFV3YwNE43Mzl2R3doMlczNEJEeFVVNlJ6ckhrYUo1YnZPMWF6TS1BOVE?oc=5",
-      "source": "news",
-      "sourceName": "Vietnam.vn",
-      "date": "2026-10-14",
-      "keywords": [
-        "施設",
-        "複合",
-        "建設"
-      ]
-    },
-    {
-      "id": "07878efb9c0b",
-      "title": "銚子市で公共施設の複合化を考えるシンポジウム 新たな施設のあり方探る (みんなの経済新聞ネットワーク)",
-      "summary": "銚子市で公共施設の複合化を考えるシンポジウム 新たな施設のあり方探る (みんなの経済新聞ネットワーク)&nbsp;&nbsp;Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNY0Nhc1NNLUllbTVuS3lkbXhjdF9JTjdVRFIxNFk4N3B5T1pVcDBXX2ViTlFDZU9lSkJFVFB3bV9XVHhEckttZXdpUnViWEFoeEtQR1FSN0ZBVGNDRGxyTkNnZzQ1WVdLV0RlWGtXYlhSbmZ6TkozaTU5UHlNbEdnNXpRRHF3d3I3eGxZd0JR?oc=5",
-      "source": "news",
-      "sourceName": "Yahoo!ニュース",
-      "date": "2026-10-14",
-      "keywords": [
-        "施設",
-        "複合"
-      ]
-    },
-    {
-      "id": "1f9ee2a78c56",
-      "title": "東京・羽村市、公共施設を3割減へ 小学校は7→2、人口減を見据え (朝日新聞)",
-      "summary": "東京・羽村市、公共施設を3割減へ 小学校は7→2、人口減を見据え (朝日新聞)&nbsp;&nbsp;Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOb0h0akhGUktyN0J4dVEzbGJrMzNjVndNS29jUy1pMV9tM0FkMUFtQXdTSjVVWlROZVhLT2l4QW9hR3hiaWZaWl8yVnM5RHJJY0pkbVpwNEl4Z3ZVWXc2RW9HTTRVWXpLcEVqM25QaTZiS1RSODE4eTFicVg3c2Nlb0J6U3dfdVNqTDRPVFR3?oc=5",
-      "source": "news",
-      "sourceName": "Yahoo!ニュース",
-      "date": "2026-10-14",
-      "keywords": [
-        "施設"
-      ]
-    },
-    {
-      "id": "086f45d79bb2",
-      "title": "柏市公共施設等総合管理計画 第2期計画",
-      "summary": "柏市公共施設等総合管理計画 第2期計画&nbsp;&nbsp;柏市",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQTWllSHMxZVdXRG1ZQVpPY2tBRTRrQlBIM1B0WmVQeW9HV1pPQlozaGV1VVZlMjF3YU40cDRJS29nb0V3ejdFejBUVUZEVWN3ZGdNbkVuejNNT25hTE5NeG5HWGdRYmlVcXVyZkdCZjUxNnJuRmhrYlF6MmlOM212TnZTWFVPUlF2T2dKY2lVbkFHbldTZkE?oc=5",
-      "source": "news",
-      "sourceName": "柏市",
-      "date": "2026-10-14",
-      "keywords": [
-        "施設"
-      ]
-    },
-    {
-      "id": "9560c1b61a43",
-      "title": "公共施設の在り方示す 群馬・桐生市 小中学校や集会所など420カ所 集約化などへ個別施設計画案まとめる",
-      "summary": "公共施設の在り方示す 群馬・桐生市 小中学校や集会所など420カ所 集約化などへ個別施設計画案まとめる&nbsp;&nbsp;上毛新聞電子版",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1PaWRMbGk1VDZrWUdwUWo5MWJjVlBSNGc0TjVpQ2lXWDZWQTJ1OF9qdFpsUkVSNVlnMXluWF9xQmF0cEJUUURhVGd2X29lSjd2ekxsODUyZWk3Zw?oc=5",
-      "source": "news",
-      "sourceName": "上毛新聞電子版",
-      "date": "2026-10-13",
-      "keywords": [
-        "施設",
-        "集約"
       ]
     }
   ]
